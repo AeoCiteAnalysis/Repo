@@ -1,0 +1,23 @@
+# Tested with Python 3.14 (versions installed 2026-09-26)
+pandas>=3.0
+numpy>=2.5
+scipy>=1.16
+statsmodels>=0.15
+scikit-learn>=1.9
+lightgbm>=4.7
+shap>=0.52
+pygam>=0.12
+lifelines            # N9 survival curves
+matplotlib>=3.11
+requests>=2.34
+trafilatura>=2.2
+beautifulsoup4>=4.15
+extruct>=0.18
+htmldate>=1.10
+tldextract>=5.3
+sentence-transformers>=6.1
+pyarrow
+openai               # llm.py (optional)
+python-dotenv        # reads .env
+pytest
+pypdf>=5

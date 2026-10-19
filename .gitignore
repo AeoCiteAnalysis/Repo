@@ -1,0 +1,22 @@
+# secrets
+.env
+
+# environments and IDE
+.venv/
+.idea/
+*.iml
+.pytest_cache/
+__pycache__/
+*.pyc
+
+# LaTeX build output
+paper/build/
+
+# raw data (too large for git; released separately)
+data/
+pfetchdata/
+pfetch-dumps-workorb/
+
+# temporary files
+*.log.tmp
+~$*
