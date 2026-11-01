@@ -1,0 +1,43 @@
+sample,term,shape,passes
+all pages,prompt_match_words,always up,True
+all pages,title_match,always up,True
+all pages,intro_match,flat,False
+all pages,best_paragraph_match,always up,True
+all pages,word_count,flat,False
+all pages,outbound_links,flat,False
+all pages,n_headings,always up,True
+all pages,n_tables,flat,False
+all pages,n_lists,flat,False
+all pages,has_faq,binary (n/a),True
+all pages,has_summary_box,binary (n/a),True
+all pages,has_author,binary (n/a),True
+all pages,has_schema,binary (n/a),True
+all pages,page_age_days,flat,False
+own + competitor,prompt_match_words,always up,True
+own + competitor,title_match,always up,True
+own + competitor,intro_match,flat,False
+own + competitor,best_paragraph_match,flat,False
+own + competitor,word_count,flat,False
+own + competitor,outbound_links,flat,False
+own + competitor,n_headings,flat,False
+own + competitor,n_tables,flat,False
+own + competitor,n_lists,flat,False
+own + competitor,has_faq,binary (n/a),True
+own + competitor,has_summary_box,binary (n/a),True
+own + competitor,has_author,binary (n/a),True
+own + competitor,has_schema,binary (n/a),True
+own + competitor,page_age_days,flat,False
+third party,prompt_match_words,always up,True
+third party,title_match,always up,True
+third party,intro_match,flat,False
+third party,best_paragraph_match,always up,True
+third party,word_count,flat,False
+third party,outbound_links,always up,True
+third party,n_headings,always up,True
+third party,n_tables,flat,False
+third party,n_lists,flat,False
+third party,has_faq,binary (n/a),True
+third party,has_summary_box,binary (n/a),True
+third party,has_author,binary (n/a),True
+third party,has_schema,binary (n/a),True
+third party,page_age_days,flat,False

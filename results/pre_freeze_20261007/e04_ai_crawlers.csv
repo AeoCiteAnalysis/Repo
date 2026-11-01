@@ -1,0 +1,25 @@
+measure,engine,agent,urls,pct,pct_of_citations
+share of the engine's cited URLs blocked for agent,ChatGPT,OAI-SearchBot,14965,7.143334447043101,2.536517962889854
+share of the engine's cited URLs blocked for agent,ChatGPT,ChatGPT-User,14965,7.50417641162713,2.6657215662347915
+share of the engine's cited URLs blocked for agent,ChatGPT,GPTBot,14965,8.887403942532575,4.661199440117719
+share of the engine's cited URLs blocked for agent,ChatGPT,Googlebot,14965,6.922819913130638,2.472813408462836
+share of the engine's cited URLs blocked for agent,ChatGPT,Google-Extended,14965,8.51987971934514,3.54592111402218
+share of the engine's cited URLs blocked for agent,ChatGPT,PerplexityBot,14965,8.272636151019045,3.379033126368302
+share of the engine's cited URLs blocked for agent,Gemini,OAI-SearchBot,21810,24.837230628152223,20.96785799952027
+share of the engine's cited URLs blocked for agent,Gemini,ChatGPT-User,21810,25.809261806510776,21.397617334292796
+share of the engine's cited URLs blocked for agent,Gemini,GPTBot,21810,27.551581843191197,23.112656912129207
+share of the engine's cited URLs blocked for agent,Gemini,Googlebot,21810,19.853278312700596,13.769089309986407
+share of the engine's cited URLs blocked for agent,Gemini,Google-Extended,21810,20.05502063273728,14.415527304709363
+share of the engine's cited URLs blocked for agent,Gemini,PerplexityBot,21810,25.263640531866116,21.540737187175182
+share of the engine's cited URLs blocked for agent,Perplexity,OAI-SearchBot,3403,15.42756391419336,14.825034491408504
+share of the engine's cited URLs blocked for agent,Perplexity,ChatGPT-User,3403,16.691154863355862,15.853505581337012
+share of the engine's cited URLs blocked for agent,Perplexity,GPTBot,3403,16.485454011166617,16.700112880973286
+share of the engine's cited URLs blocked for agent,Perplexity,Googlebot,3403,9.138995004407874,5.7945566286215975
+share of the engine's cited URLs blocked for agent,Perplexity,Google-Extended,3403,12.459594475462826,9.507086416656215
+share of the engine's cited URLs blocked for agent,Perplexity,PerplexityBot,3403,14.575374669409344,15.295371880095322
+website share of citations from engine (websites with >= 5 citations),ChatGPT,OAI-SearchBot allowed,2619,20.13699437487638,37.45704467353952
+website share of citations from engine (websites with >= 5 citations),ChatGPT,OAI-SearchBot blocked,27,20.2303027257699,37.03703703703704
+website share of citations from engine (websites with >= 5 citations),Gemini,Googlebot allowed,2641,73.04131381456723,85.19500189322227
+website share of citations from engine (websites with >= 5 citations),Gemini,Googlebot blocked,5,38.10761741876069,40.0
+website share of citations from engine (websites with >= 5 citations),Perplexity,PerplexityBot allowed,2607,6.6868614831731845,24.204065976217876
+website share of citations from engine (websites with >= 5 citations),Perplexity,PerplexityBot blocked,39,20.248661553964816,51.28205128205128

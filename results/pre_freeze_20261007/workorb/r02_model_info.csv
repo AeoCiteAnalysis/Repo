@@ -1,0 +1,4 @@
+sample,n_urls,n_websites,n_params,r2_within,dropped_terms
+all pages,2477,515,26,0.10953256021195379,
+own + competitor,1079,137,24,0.13439861295491295,title_match_missing;type_forum
+third party,1398,378,26,0.09915057728822763,
