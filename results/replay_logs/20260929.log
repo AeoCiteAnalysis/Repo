@@ -1,0 +1,75 @@
+=== 2026-09-29 20:01 daily replay
+openai: 651 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\openai\20260929
+  25/651  p_829ce28fc1: 0 queries, 0 consulted, 0 cited
+  p_ea25e2762f: APITimeoutError: Request timed out.
+  50/651  p_1639320407: 0 queries, 0 consulted, 0 cited
+  75/651  p_4e4c587b0c: 4 queries, 31 consulted, 3 cited
+  100/651  p_6f1402b5ce: 4 queries, 21 consulted, 1 cited
+  p_4af9469a90: APITimeoutError: Request timed out.
+  125/651  p_f54cb13058: 4 queries, 18 consulted, 1 cited
+  150/651  p_86cd6f94c4: 4 queries, 24 consulted, 3 cited
+  175/651  p_24158f8057: 4 queries, 17 consulted, 0 cited
+  200/651  p_72e829860b: 4 queries, 26 consulted, 3 cited
+  225/651  p_00e84292ba: 0 queries, 0 consulted, 0 cited
+  250/651  p_cd397779cf: 0 queries, 0 consulted, 0 cited
+  275/651  p_711ef92bdb: 8 queries, 43 consulted, 3 cited
+  p_02887c840f: APITimeoutError: Request timed out.
+  p_e5838813f5: APITimeoutError: Request timed out.
+  p_0fd5db6b31: APITimeoutError: Request timed out.
+  p_a913efcf81: APITimeoutError: Request timed out.
+  p_6f5047fbb1: APITimeoutError: Request timed out.
+  300/651  p_c34b9d53bf: 1 queries, 27 consulted, 1 cited
+  325/651  p_527e02cec7: 4 queries, 27 consulted, 2 cited
+  350/651  p_b5937e2979: 4 queries, 34 consulted, 2 cited
+  375/651  p_09592159f1: 1 queries, 26 consulted, 1 cited
+  400/651  p_53f5ec35f6: 4 queries, 26 consulted, 2 cited
+  425/651  p_dd1875c26f: 4 queries, 30 consulted, 3 cited
+  450/651  p_89c1e0405b: 4 queries, 25 consulted, 3 cited
+  475/651  p_1ba5fa20d1: 0 queries, 0 consulted, 0 cited
+  500/651  p_16ecdf02d6: 0 queries, 0 consulted, 0 cited
+  525/651  p_16489fc674: 0 queries, 0 consulted, 0 cited
+  550/651  p_401f2f5076: 4 queries, 24 consulted, 3 cited
+  575/651  p_bec8816501: 8 queries, 47 consulted, 4 cited
+  600/651  p_7f7f5d6f02: 4 queries, 24 consulted, 2 cited
+  625/651  p_551eaa48f0: 0 queries, 0 consulted, 0 cited
+  p_64c76c8720: APITimeoutError: Request timed out.
+done 643, failed 8
+openai: 8 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\openai\20260929
+done 8, failed 0
+{'date': '20260929', 'engine': 'openai', 'prompts_saved': 651, 'searched': 460, 'input_tokens': 5325538, 'output_tokens': 355992, 'minutes': 15.4, 'finished': '2026-09-29 20:16'}
+=== 2026-09-29 20:23 daily replay
+gemini: 651 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\gemini\20260929
+  p_1253eb02b0: SSLError: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-3.1-flash-lite:generateC
+  25/651  p_fe2d29305a: 4 queries, 22 consulted, 22 cited
+  p_bb19243b4b: SSLError: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-3.1-flash-lite:generateC
+  50/651  p_a8f05875b3: 2 queries, 11 consulted, 11 cited
+  75/651  p_4e4c587b0c: 3 queries, 12 consulted, 12 cited
+  p_1c254206b9: SSLError: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-3.1-flash-lite:generateC
+  100/651  p_3a8cf65dd3: 4 queries, 14 consulted, 14 cited
+  p_c12353f047: SSLError: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-3.1-flash-lite:generateC
+  125/651  p_b4ab90719a: 3 queries, 9 consulted, 9 cited
+  150/651  p_64fbc13b32: 3 queries, 17 consulted, 17 cited
+  p_a39a0c3da6: ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+  175/651  p_38b089c644: 4 queries, 15 consulted, 15 cited
+  200/651  p_a59f3a45dc: 0 queries, 0 consulted, 0 cited
+  225/651  p_f7b6ca704e: 3 queries, 9 consulted, 9 cited
+  250/651  p_cd397779cf: 3 queries, 11 consulted, 11 cited
+  275/651  p_02887c840f: 4 queries, 9 consulted, 9 cited
+  300/651  p_79a68fd18a: 0 queries, 0 consulted, 0 cited
+  325/651  p_f05180b556: 2 queries, 6 consulted, 6 cited
+  350/651  p_8353173d47: 3 queries, 14 consulted, 14 cited
+  375/651  p_67c202dc28: 3 queries, 14 consulted, 14 cited
+  400/651  p_5456f6a28a: 4 queries, 11 consulted, 11 cited
+  425/651  p_d680b14886: 4 queries, 15 consulted, 15 cited
+  450/651  p_fe3deb9894: 3 queries, 11 consulted, 11 cited
+  475/651  p_9f8b56a287: 3 queries, 10 consulted, 10 cited
+  500/651  p_639237e5c2: 4 queries, 15 consulted, 15 cited
+  525/651  p_461ab81837: 4 queries, 12 consulted, 12 cited
+  550/651  p_863ad1bdaf: 3 queries, 13 consulted, 13 cited
+  575/651  p_bec8816501: 0 queries, 0 consulted, 0 cited
+  600/651  p_6d2d04205b: 0 queries, 0 consulted, 0 cited
+  625/651  p_4023cb9ed5: 4 queries, 20 consulted, 20 cited
+done 646, failed 5
+gemini: 5 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\gemini\20260929
+done 5, failed 0
+{'date': '20260929', 'engine': 'gemini', 'prompts_saved': 651, 'searched': 525, 'input_tokens': 9391, 'output_tokens': 478296, 'minutes': 40.2, 'finished': '2026-09-29 21:03'}

@@ -1,0 +1,60 @@
+=== 2026-10-03 20:00 daily replay
+openai: 651 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\openai\20261003
+  25/651  p_d3e91b0ac0: 0 queries, 0 consulted, 0 cited
+  50/651  p_01841709a2: 0 queries, 0 consulted, 0 cited
+  75/651  p_313a41148e: 4 queries, 27 consulted, 2 cited
+  100/651  p_e0b07bb5f1: 0 queries, 0 consulted, 0 cited
+  125/651  p_b4ab90719a: 4 queries, 30 consulted, 3 cited
+  150/651  p_b3ef249363: 4 queries, 27 consulted, 4 cited
+  175/651  p_9a879e9c63: 0 queries, 0 consulted, 0 cited
+  200/651  p_4d8bfc0f14: 8 queries, 52 consulted, 4 cited
+  225/651  p_f7b6ca704e: 0 queries, 0 consulted, 0 cited
+  250/651  p_43d5133b5a: 4 queries, 26 consulted, 4 cited
+  275/651  p_787ed024bf: 0 queries, 0 consulted, 0 cited
+  300/651  p_04ef432c6a: 4 queries, 25 consulted, 3 cited
+  325/651  p_527e02cec7: 0 queries, 0 consulted, 0 cited
+  350/651  p_e174d733dd: 0 queries, 0 consulted, 0 cited
+  375/651  p_5327bcb15d: 4 queries, 28 consulted, 2 cited
+  400/651  p_54314289c1: 4 queries, 31 consulted, 3 cited
+  425/651  p_4aa262622e: 4 queries, 24 consulted, 2 cited
+  450/651  p_89c1e0405b: 4 queries, 27 consulted, 5 cited
+  475/651  p_dd77b42340: 0 queries, 0 consulted, 0 cited
+  500/651  p_0d16f8b92d: 0 queries, 0 consulted, 0 cited
+  525/651  p_57a60a9c98: 8 queries, 54 consulted, 6 cited
+  550/651  p_ad2225d057: 0 queries, 0 consulted, 0 cited
+  575/651  p_a4bedd2fc2: 4 queries, 29 consulted, 5 cited
+  600/651  p_dcea528613: 0 queries, 0 consulted, 0 cited
+  625/651  p_05f3cb71cc: 4 queries, 26 consulted, 3 cited
+  650/651  p_97011c2a1b: 4 queries, 33 consulted, 4 cited
+done 651, failed 0
+{'date': '20261003', 'engine': 'openai', 'prompts_saved': 651, 'searched': 456, 'input_tokens': 5344693, 'output_tokens': 350623, 'minutes': 6.5, 'finished': '2026-10-03 20:07'}
+=== 2026-10-03 20:09 daily replay
+gemini: 651 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\gemini\20261003
+  25/651  p_465b21bc4e: 0 queries, 0 consulted, 0 cited
+  50/651  p_9370e4220d: 4 queries, 11 consulted, 11 cited
+  75/651  p_b187420778: 0 queries, 0 consulted, 0 cited
+  100/651  p_a1734571ad: 4 queries, 10 consulted, 10 cited
+  125/651  p_f54cb13058: 3 queries, 10 consulted, 10 cited
+  150/651  p_5291308afb: 3 queries, 11 consulted, 11 cited
+  175/651  p_8094702f09: 3 queries, 9 consulted, 9 cited
+  200/651  p_4299a34532: 3 queries, 9 consulted, 9 cited
+  225/651  p_08c7ae9e0f: 3 queries, 8 consulted, 8 cited
+  250/651  p_cc61f30308: 3 queries, 15 consulted, 15 cited
+  275/651  p_e179405f0d: 3 queries, 11 consulted, 11 cited
+  300/651  p_1f3ed81f7a: 3 queries, 9 consulted, 9 cited
+  325/651  p_a2a24cb7fc: 4 queries, 10 consulted, 10 cited
+  350/651  p_bc122ccfab: 3 queries, 6 consulted, 6 cited
+  375/651  p_f703bd6294: 5 queries, 17 consulted, 17 cited
+  400/651  p_30454b361c: 3 queries, 5 consulted, 5 cited
+  425/651  p_d680b14886: 0 queries, 0 consulted, 0 cited
+  450/651  p_89c1e0405b: 4 queries, 15 consulted, 15 cited
+  475/651  p_b3b2f552fc: 0 queries, 0 consulted, 0 cited
+  500/651  p_7de49780a2: 4 queries, 12 consulted, 12 cited
+  525/651  p_16489fc674: 2 queries, 10 consulted, 10 cited
+  550/651  p_745634d04a: 0 queries, 0 consulted, 0 cited
+  575/651  p_0443ae98db: 0 queries, 0 consulted, 0 cited
+  600/651  p_a99787e9e4: 2 queries, 8 consulted, 8 cited
+  625/651  p_234df506df: 3 queries, 11 consulted, 11 cited
+  650/651  p_97011c2a1b: 3 queries, 10 consulted, 10 cited
+done 651, failed 0
+{'date': '20261003', 'engine': 'gemini', 'prompts_saved': 651, 'searched': 511, 'input_tokens': 9391, 'output_tokens': 478522, 'minutes': 19.7, 'finished': '2026-10-03 20:29'}

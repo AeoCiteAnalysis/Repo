@@ -1,0 +1,65 @@
+=== 2026-10-07 20:00 daily replay
+openai: 651 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\openai\20261007
+  25/651  p_8803c1ee1c: 3 queries, 29 consulted, 2 cited
+  50/651  p_1639320407: 0 queries, 0 consulted, 0 cited
+  75/651  p_040d8fe308: 4 queries, 37 consulted, 2 cited
+  100/651  p_cdc9fc4256: 4 queries, 28 consulted, 3 cited
+  125/651  p_d648670839: 8 queries, 27 consulted, 2 cited
+  150/651  p_ccfe22b01d: 8 queries, 55 consulted, 6 cited
+  175/651  p_9a879e9c63: 0 queries, 0 consulted, 0 cited
+  200/651  p_4d8bfc0f14: 8 queries, 43 consulted, 3 cited
+  225/651  p_08c7ae9e0f: 1 queries, 33 consulted, 2 cited
+  250/651  p_d19850e446: 4 queries, 24 consulted, 2 cited
+  275/651  p_02887c840f: 4 queries, 34 consulted, 4 cited
+  300/651  p_1f3ed81f7a: 4 queries, 23 consulted, 2 cited
+  325/651  p_e83a57db99: 0 queries, 0 consulted, 0 cited
+  350/651  p_e44e64cf67: 0 queries, 0 consulted, 0 cited
+  375/651  p_5327bcb15d: 8 queries, 58 consulted, 6 cited
+  400/651  p_f539895b64: 4 queries, 25 consulted, 3 cited
+  425/651  p_12b22eaddf: 8 queries, 58 consulted, 7 cited
+  450/651  p_9e30b0d042: 2 queries, 30 consulted, 2 cited
+  475/651  p_82cb86a389: 8 queries, 52 consulted, 5 cited
+  500/651  p_938df30596: 0 queries, 0 consulted, 0 cited
+  525/651  p_7ad28d55ff: 0 queries, 0 consulted, 0 cited
+  550/651  p_08d6fed30f: 4 queries, 30 consulted, 4 cited
+  575/651  p_a4bedd2fc2: 4 queries, 21 consulted, 3 cited
+  600/651  p_a99787e9e4: 4 queries, 29 consulted, 1 cited
+  625/651  p_e89f1df9ee: 4 queries, 24 consulted, 4 cited
+  650/651  p_97011c2a1b: 4 queries, 27 consulted, 4 cited
+done 651, failed 0
+{'date': '20261007', 'engine': 'openai', 'prompts_saved': 651, 'searched': 445, 'input_tokens': 5250788, 'output_tokens': 346041, 'minutes': 7.4, 'finished': '2026-10-07 20:08'}
+=== 2026-10-07 20:10 daily replay
+gemini: 651 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\gemini\20261007
+  25/651  p_d3e91b0ac0: 3 queries, 11 consulted, 11 cited
+  50/651  p_1639320407: 4 queries, 13 consulted, 13 cited
+  75/651  p_521ca2ebb9: 4 queries, 12 consulted, 12 cited
+  100/651  p_cdc9fc4256: 4 queries, 15 consulted, 15 cited
+  125/651  p_f54cb13058: 4 queries, 16 consulted, 16 cited
+  150/651  p_5291308afb: 3 queries, 12 consulted, 12 cited
+  175/651  p_643078cd8e: 0 queries, 0 consulted, 0 cited
+  p_20ce04fd93: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+  p_4d8bfc0f14: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+  p_5561ba684d: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+  200/651  p_f28abe604f: 0 queries, 0 consulted, 0 cited
+  p_3e70c2ba2d: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+  225/651  p_cfc3421820: 3 queries, 12 consulted, 12 cited
+  250/651  p_9a8f8cace8: 4 queries, 15 consulted, 15 cited
+  275/651  p_711ef92bdb: 4 queries, 15 consulted, 15 cited
+  300/651  p_d7ef34ed4a: 2 queries, 7 consulted, 7 cited
+  325/651  p_507bfa1022: 2 queries, 5 consulted, 5 cited
+  350/651  p_b5937e2979: 0 queries, 0 consulted, 0 cited
+  375/651  p_f703bd6294: 3 queries, 17 consulted, 17 cited
+  400/651  p_3628b9aa7e: 0 queries, 0 consulted, 0 cited
+  425/651  p_56a08fd847: 3 queries, 12 consulted, 12 cited
+  450/651  p_fe3deb9894: 3 queries, 11 consulted, 11 cited
+  475/651  p_9f8b56a287: 3 queries, 11 consulted, 11 cited
+  500/651  p_639237e5c2: 4 queries, 11 consulted, 11 cited
+  525/651  p_4e0af3147d: 7 queries, 20 consulted, 20 cited
+  550/651  p_745634d04a: 4 queries, 10 consulted, 10 cited
+  575/651  p_a4bedd2fc2: 4 queries, 16 consulted, 16 cited
+  600/651  p_81868ea1a7: 5 queries, 18 consulted, 18 cited
+  625/651  p_263fb191fd: 3 queries, 8 consulted, 8 cited
+done 647, failed 4
+gemini: 4 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\gemini\20261007
+done 4, failed 0
+{'date': '20261007', 'engine': 'gemini', 'prompts_saved': 651, 'searched': 532, 'input_tokens': 9391, 'output_tokens': 480837, 'minutes': 34.6, 'finished': '2026-10-07 20:45'}

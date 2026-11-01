@@ -1,0 +1,63 @@
+=== 2026-10-09 20:01 daily replay
+openai: 651 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\openai\20261009
+  25/651  p_d3e91b0ac0: 0 queries, 0 consulted, 0 cited
+  50/651  p_1639320407: 0 queries, 0 consulted, 0 cited
+  75/651  p_c96626649d: 4 queries, 26 consulted, 2 cited
+  100/651  p_e0b07bb5f1: 0 queries, 0 consulted, 0 cited
+  125/651  p_7d732985c0: 4 queries, 20 consulted, 2 cited
+  150/651  p_94fdec5c10: 8 queries, 44 consulted, 5 cited
+  175/651  p_9a879e9c63: 0 queries, 0 consulted, 0 cited
+  200/651  p_4299a34532: 0 queries, 0 consulted, 0 cited
+  225/651  p_3ab55ebeb2: 0 queries, 0 consulted, 0 cited
+  250/651  p_ec0c7ff48c: 4 queries, 25 consulted, 1 cited
+  275/651  p_711ef92bdb: 4 queries, 25 consulted, 4 cited
+  300/651  p_4dc742055c: 4 queries, 31 consulted, 1 cited
+  325/651  p_6018025a7f: 4 queries, 26 consulted, 1 cited
+  350/651  p_bbfa001878: 2 queries, 19 consulted, 1 cited
+  375/651  p_e951f0b14a: 4 queries, 32 consulted, 3 cited
+  400/651  p_f539895b64: 0 queries, 0 consulted, 0 cited
+  425/651  p_a7fcee534f: 4 queries, 27 consulted, 3 cited
+  450/651  p_91b14b0489: 4 queries, 25 consulted, 5 cited
+  475/651  p_dd77b42340: 0 queries, 0 consulted, 0 cited
+  500/651  p_5ad283f674: 4 queries, 29 consulted, 5 cited
+  525/651  p_8c092755d1: 0 queries, 0 consulted, 0 cited
+  550/651  p_9d63e8b756: 4 queries, 25 consulted, 4 cited
+  575/651  p_a4bedd2fc2: 4 queries, 21 consulted, 3 cited
+  600/651  p_9799ca08e9: 0 queries, 0 consulted, 0 cited
+  625/651  p_e89f1df9ee: 4 queries, 23 consulted, 3 cited
+  650/651  p_1639fee7c4: 0 queries, 0 consulted, 0 cited
+done 651, failed 0
+{'date': '20261009', 'engine': 'openai', 'prompts_saved': 651, 'searched': 453, 'input_tokens': 5321796, 'output_tokens': 352372, 'minutes': 13.7, 'finished': '2026-10-09 20:15'}
+=== 2026-10-09 20:27 daily replay
+gemini: 651 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\gemini\20261009
+  25/651  p_d3e91b0ac0: 4 queries, 10 consulted, 10 cited
+  50/651  p_66e0641874: 3 queries, 14 consulted, 14 cited
+  75/651  p_c7903a7435: 4 queries, 15 consulted, 15 cited
+  100/651  p_1eee604706: 4 queries, 15 consulted, 15 cited
+  p_c12353f047: SSLError: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Max retries exceeded with url: /v1beta/models/gemini-3.1-flash-lite:generateC
+  p_0aeabf223f: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+  125/651  p_7d732985c0: 3 queries, 14 consulted, 14 cited
+  150/651  p_64fbc13b32: 3 queries, 18 consulted, 18 cited
+  175/651  p_643078cd8e: 0 queries, 0 consulted, 0 cited
+  200/651  p_c72251d504: 4 queries, 9 consulted, 9 cited
+  225/651  p_64e3dd5e0d: 4 queries, 11 consulted, 11 cited
+  250/651  p_9a8f8cace8: 3 queries, 12 consulted, 12 cited
+  275/651  p_e5838813f5: 0 queries, 0 consulted, 0 cited
+  300/651  p_d7ef34ed4a: 2 queries, 7 consulted, 7 cited
+  325/651  p_507bfa1022: 3 queries, 5 consulted, 5 cited
+  350/651  p_e174d733dd: 4 queries, 15 consulted, 15 cited
+  375/651  p_67c202dc28: 0 queries, 0 consulted, 0 cited
+  400/651  p_30454b361c: 3 queries, 5 consulted, 5 cited
+  425/651  p_2a187d9fe3: 3 queries, 8 consulted, 8 cited
+  450/651  p_fe3deb9894: 3 queries, 9 consulted, 9 cited
+  475/651  p_af585edeb8: 4 queries, 13 consulted, 13 cited
+  500/651  p_5ad283f674: 4 queries, 15 consulted, 15 cited
+  525/651  p_4e0af3147d: 6 queries, 21 consulted, 21 cited
+  550/651  p_ad2225d057: 4 queries, 16 consulted, 16 cited
+  575/651  p_8aa280e4e5: 4 queries, 16 consulted, 16 cited
+  600/651  p_81868ea1a7: 3 queries, 12 consulted, 12 cited
+  625/651  p_4023cb9ed5: 3 queries, 8 consulted, 8 cited
+done 649, failed 2
+gemini: 2 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\gemini\20261009
+done 2, failed 0
+{'date': '20261009', 'engine': 'gemini', 'prompts_saved': 651, 'searched': 537, 'input_tokens': 9391, 'output_tokens': 485498, 'minutes': 40.8, 'finished': '2026-10-09 21:08'}

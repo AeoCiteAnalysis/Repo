@@ -1,0 +1,14 @@
+=== 2026-09-27 20:06 daily replay
+openai: 0 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\openai\20260927
+done 0, failed 0
+{'date': '20260927', 'engine': 'openai', 'prompts_saved': 651, 'searched': 448, 'input_tokens': 5289491, 'output_tokens': 358636, 'minutes': 0.0, 'finished': '2026-09-27 20:06'}
+gemini: 0 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\gemini\20260927
+done 0, failed 0
+{'date': '20260927', 'engine': 'gemini', 'prompts_saved': 651, 'searched': 541, 'input_tokens': 9391, 'output_tokens': 485272, 'minutes': 0.0, 'finished': '2026-09-27 20:06'}
+=== 2026-09-27 20:06 daily replay
+openai: 0 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\openai\20260927
+done 0, failed 0
+{'date': '20260927', 'engine': 'openai', 'prompts_saved': 651, 'searched': 448, 'input_tokens': 5289491, 'output_tokens': 358636, 'minutes': 0.0, 'finished': '2026-09-27 20:06'}
+gemini: 0 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\gemini\20260927
+done 0, failed 0
+{'date': '20260927', 'engine': 'gemini', 'prompts_saved': 651, 'searched': 541, 'input_tokens': 9391, 'output_tokens': 485272, 'minutes': 0.0, 'finished': '2026-09-27 20:06'}
