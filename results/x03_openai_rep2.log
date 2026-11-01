@@ -1,0 +1,8 @@
+openai: 150 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\openai\20260927
+  25/150  p_8803c1ee1c: 2 queries, 29 consulted, 2 cited
+  50/150  p_01841709a2: 0 queries, 0 consulted, 0 cited
+  75/150  p_c96626649d: 4 queries, 28 consulted, 2 cited
+  100/150  p_a40bc20992: 4 queries, 23 consulted, 3 cited
+  125/150  p_7d732985c0: 4 queries, 22 consulted, 2 cited
+  150/150  p_5291308afb: 8 queries, 45 consulted, 4 cited
+done 150, failed 0

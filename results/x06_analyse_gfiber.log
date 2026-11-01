@@ -1,0 +1,73 @@
+parsing 5762 pages (0 cached)
+{'rows': 25025, 'lists': 888, 'pages': 10706, 'pct_rows_with_text': np.float64(64.14385614385615), 'pct_cited_rows_with_text': np.float64(89.52530404080031), 'pct_uncited_rows_with_text': np.float64(61.26534970635345)}
+embedding 158,309 title/paragraph units of 5,762 pages
+                                   model  lists  rows  mcfadden_r2
+                            S0 rank only    876 24749       0.2857
+           S0b rank + text-missing flags    876 24749       0.3101
+                S1 + match to the prompt    876 24749       0.3141
+        S2 + match to the engine queries    876 24749       0.3148
+                      S3 + page features    876 24749       0.3335
+M only (no rank): match + queries + page    876 24749       0.1787
+          S3 text-only rows (robustness)    853 15544       0.2765
+                         model        variable   coef    se     p  odds_ratio                 unit
+            S3 + page features        log_rank -0.739 0.020 0.000       0.478 per doubling of rank
+            S3 + page features      multi_call  2.230 0.117 0.000       9.297           has vs not
+            S3 + page features    text_missing -1.192 0.167 0.000       0.304           has vs not
+            S3 + page features       is_reddit -1.288 0.183 0.000       0.276           has vs not
+            S3 + page features      emb_best_z  0.148 0.044 0.001       1.159   per SD within list
+            S3 + page features     emb_title_z  0.014 0.036 0.703       1.014   per SD within list
+            S3 + page features          bm25_z  0.076 0.036 0.036       1.079   per SD within list
+            S3 + page features        q_best_z  0.109 0.038 0.005       1.115   per SD within list
+            S3 + page features     log_words_z -0.421 0.070 0.000       0.657   per SD within list
+            S3 + page features  log_headings_z  0.279 0.037 0.000       1.321   per SD within list
+            S3 + page features         has_faq -0.065 0.067 0.333       0.937           has vs not
+            S3 + page features has_summary_box -0.013 0.108 0.907       0.988           has vs not
+            S3 + page features      has_author -0.114 0.080 0.151       0.892           has vs not
+            S3 + page features      has_schema -0.128 0.072 0.074       0.879           has vs not
+            S3 + page features       type_list -0.570 0.121 0.000       0.566           has vs not
+            S3 + page features type_comparison -0.948 0.205 0.000       0.388           has vs not
+            S3 + page features      role_brand  0.513 0.071 0.000       1.670           has vs not
+            S3 + page features     authority_z -0.028 0.027 0.288       0.972   per SD within list
+S3 text-only rows (robustness)        log_rank -0.706 0.022 0.000       0.493 per doubling of rank
+S3 text-only rows (robustness)      multi_call  2.327 0.128 0.000      10.243           has vs not
+S3 text-only rows (robustness)      emb_best_z  0.145 0.044 0.001       1.156   per SD within list
+S3 text-only rows (robustness)     emb_title_z  0.007 0.036 0.845       1.007   per SD within list
+S3 text-only rows (robustness)          bm25_z  0.084 0.036 0.021       1.088   per SD within list
+S3 text-only rows (robustness)        q_best_z  0.115 0.038 0.003       1.122   per SD within list
+S3 text-only rows (robustness)     log_words_z -0.441 0.071 0.000       0.643   per SD within list
+S3 text-only rows (robustness)  log_headings_z  0.284 0.038 0.000       1.329   per SD within list
+S3 text-only rows (robustness)         has_faq -0.075 0.068 0.268       0.928           has vs not
+S3 text-only rows (robustness) has_summary_box  0.025 0.108 0.815       1.026           has vs not
+S3 text-only rows (robustness)      has_author -0.128 0.081 0.114       0.880           has vs not
+S3 text-only rows (robustness)      has_schema -0.127 0.073 0.082       0.880           has vs not
+S3 text-only rows (robustness)       type_list -0.516 0.125 0.000       0.597           has vs not
+S3 text-only rows (robustness) type_comparison -0.906 0.207 0.000       0.404           has vs not
+S3 text-only rows (robustness)      role_brand  0.576 0.075 0.000       1.779           has vs not
+S3 text-only rows (robustness)     authority_z -0.011 0.028 0.700       0.989   per SD within list
+     band match_tercile  pct_cited  rows
+ rank 1-3           low       33.4   692
+ rank 1-3           mid       40.5   857
+ rank 1-3          high       43.2  1099
+rank 4-10           low       13.1  1703
+rank 4-10           mid       16.2  1871
+rank 4-10          high       18.3  2366
+ rank 11+           low        2.7  2883
+ rank 11+           mid        3.7  2258
+ rank 11+          high        5.1  2113
+       variable    coef     se      p  r2_within  rows
+   text_missing -1.0286 0.0592 0.0000     0.3228 25025
+      is_reddit -0.5639 0.0339 0.0000     0.3228 25025
+     emb_best_z  0.0594 0.0161 0.0002     0.3228 25025
+    emb_title_z -0.0163 0.0134 0.2232     0.3228 25025
+         bm25_z  0.0539 0.0120 0.0000     0.3228 25025
+       q_best_z  0.1886 0.0145 0.0000     0.3228 25025
+    log_words_z -0.4637 0.0234 0.0000     0.3228 25025
+ log_headings_z  0.2684 0.0132 0.0000     0.3228 25025
+        has_faq  0.0134 0.0267 0.6149     0.3228 25025
+has_summary_box  0.1555 0.0377 0.0000     0.3228 25025
+     has_author -0.4774 0.0296 0.0000     0.3228 25025
+     has_schema -0.0410 0.0274 0.1348     0.3228 25025
+      type_list -0.1051 0.0418 0.0120     0.3228 25025
+type_comparison  0.0554 0.0576 0.3362     0.3228 25025
+     role_brand  0.6574 0.0238 0.0000     0.3228 25025
+    authority_z  0.0199 0.0084 0.0185     0.3228 25025

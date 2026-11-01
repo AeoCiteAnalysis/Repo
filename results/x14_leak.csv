@@ -1,0 +1,9 @@
+dataset,engine,mode,pct_correct,n,k,chance_closed
+gfiber,gemini,closed,51.85185185185185,27,9,11.11111111111111
+gfiber,gemini,open,55.55555555555556,27,9,11.11111111111111
+gfiber,openai,closed,25.925925925925924,27,9,11.11111111111111
+gfiber,openai,open,33.33333333333333,27,9,11.11111111111111
+workorb,gemini,closed,33.33333333333333,30,10,10.0
+workorb,gemini,open,33.33333333333333,30,10,10.0
+workorb,openai,closed,20.0,30,10,10.0
+workorb,openai,open,13.333333333333334,30,10,10.0

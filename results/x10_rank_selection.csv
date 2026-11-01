@@ -1,0 +1,6 @@
+model,value,cited,not_cited,coef,p,rank_factor,odds_ratio,mcfadden_r2
+share of consulted pages from a prior website,24.394634916080907,48.14187998025527,21.705698704077804,,,,,
+retrieval: prior site only,,,,1.0649362249048202,0.0,2.0920773961562467,,
+retrieval: + X6 features,,,,0.46096869020599834,1.8147052893793163e-267,1.37646572880064,,
+selection: rank + prior site,,,,,9.527820761117635e-205,,2.1530485211921415,0.28052784922410556
+selection: rank + X6 features + prior site,,,,,3.346309276816072e-51,,1.597954959938595,0.32772260139416587

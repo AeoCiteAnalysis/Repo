@@ -1,0 +1,27 @@
+gemini: 646 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\gemini\20260927
+  25/646  p_ea25e2762f: 4 queries, 13 consulted, 13 cited
+  50/646  p_492fa1a3bd: 2 queries, 5 consulted, 5 cited
+  75/646  p_1c254206b9: 0 queries, 0 consulted, 0 cited
+  100/646  p_9ea79f4948: 0 queries, 0 consulted, 0 cited
+  125/646  p_92116126af: 4 queries, 13 consulted, 13 cited
+  150/646  p_86cd6f94c4: 3 queries, 13 consulted, 13 cited
+  175/646  p_38b089c644: 5 queries, 17 consulted, 17 cited
+  200/646  p_a59f3a45dc: 0 queries, 0 consulted, 0 cited
+  225/646  p_f7b6ca704e: 3 queries, 16 consulted, 16 cited
+  250/646  p_49a608cd0f: 2 queries, 8 consulted, 8 cited
+  275/646  p_e5838813f5: 4 queries, 8 consulted, 8 cited
+  300/646  p_f239534c87: 3 queries, 10 consulted, 10 cited
+  325/646  p_0ad982673f: 1 queries, 5 consulted, 5 cited
+  350/646  p_b5937e2979: 3 queries, 11 consulted, 11 cited
+  375/646  p_67c202dc28: 4 queries, 15 consulted, 15 cited
+  400/646  p_5456f6a28a: 3 queries, 12 consulted, 12 cited
+  425/646  p_5752640352: 1 queries, 7 consulted, 7 cited
+  450/646  p_c9f705120b: 5 queries, 22 consulted, 22 cited
+  475/646  p_6cd75e1920: 2 queries, 8 consulted, 8 cited
+  500/646  p_0d16f8b92d: 4 queries, 18 consulted, 18 cited
+  525/646  p_fbe3c1c47a: 0 queries, 0 consulted, 0 cited
+  550/646  p_863ad1bdaf: 3 queries, 11 consulted, 11 cited
+  575/646  p_fe4c574f53: 5 queries, 14 consulted, 14 cited
+  600/646  p_dcea528613: 3 queries, 14 consulted, 14 cited
+  625/646  p_2a9df3d576: 2 queries, 11 consulted, 11 cited
+done 646, failed 0

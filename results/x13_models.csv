@@ -1,0 +1,25 @@
+split,engine,model,test_pairs,accuracy,log_loss
+random half of days,Gemini,brand score (engine-wide),22348,67.19169500626454,0.6171227684570724
+random half of days,Gemini,brand score per topic,22348,67.41990334705567,0.6045487066572472
+random half of days,Gemini,brand score per question,22348,76.9062108466082,0.48548315062329855
+random half of days,Gemini,pair majority per question (no transitivity),22348,75.58170753534992,0.5552962960333969
+random half of days,ChatGPT,brand score (engine-wide),43837,64.08057120697129,0.6360560898502274
+random half of days,ChatGPT,brand score per topic,43837,65.2850331911399,0.6239027062909868
+random half of days,ChatGPT,brand score per question,43837,74.05388142436755,0.5240894013769924
+random half of days,ChatGPT,pair majority per question (no transitivity),43837,73.46989985628578,0.5725412623798709
+random half of days,Perplexity,brand score (engine-wide),54485,67.15793337615857,0.6188092092099745
+random half of days,Perplexity,brand score per topic,54485,67.95264751766541,0.6017929474037175
+random half of days,Perplexity,brand score per question,54485,78.87308433513812,0.45167848194416466
+random half of days,Perplexity,pair majority per question (no transitivity),54485,78.60144994035055,0.48013519462586884
+first 60 -> last 30 days,Gemini,brand score (engine-wide),20153,68.66471493077954,0.6063651833991349
+first 60 -> last 30 days,Gemini,brand score per topic,20153,68.78876594055475,0.5961430835594562
+first 60 -> last 30 days,Gemini,brand score per question,20153,76.47000446583635,0.48881545595670817
+first 60 -> last 30 days,Gemini,pair majority per question (no transitivity),20153,75.57683719545477,0.5499250529197838
+first 60 -> last 30 days,ChatGPT,brand score (engine-wide),29228,64.07554399890516,0.6344631631741671
+first 60 -> last 30 days,ChatGPT,brand score per topic,29228,64.9274668126454,0.6252812805080361
+first 60 -> last 30 days,ChatGPT,brand score per question,29228,73.56986451348023,0.5281383583212765
+first 60 -> last 30 days,ChatGPT,pair majority per question (no transitivity),29228,73.18667031613522,0.5625892369257705
+first 60 -> last 30 days,Perplexity,brand score (engine-wide),32861,68.50978363409513,0.6103425645174896
+first 60 -> last 30 days,Perplexity,brand score per topic,32861,69.03928669243176,0.5952622061037697
+first 60 -> last 30 days,Perplexity,brand score per question,32861,79.95191868780621,0.43663728411915403
+first 60 -> last 30 days,Perplexity,pair majority per question (no transitivity),32861,80.11320410212714,0.45312120557231966

@@ -1,0 +1,229 @@
+key,brand,dataset,engine,mode,rep,k_options,answer,correct
+Google Fiber|openai|closed|0,Google Fiber,gfiber,openai,closed,0,9,Google Fiber,True
+Google Fiber|openai|closed|2,Google Fiber,gfiber,openai,closed,2,9,Google Fiber,True
+Google Fiber|openai|open|1,Google Fiber,gfiber,openai,open,1,9,Google Fiber,True
+Google Fiber|openai|open|2,Google Fiber,gfiber,openai,open,2,9,T-Mobile Internet,False
+Google Fiber|gemini|closed|0,Google Fiber,gfiber,gemini,closed,0,9,Quantum Fiber,False
+Google Fiber|gemini|open|0,Google Fiber,gfiber,gemini,open,0,9,Google Fiber,True
+Google Fiber|gemini|open|1,Google Fiber,gfiber,gemini,open,1,9,Google Fiber,True
+Google Fiber|gemini|closed|1,Google Fiber,gfiber,gemini,closed,1,9,Google Fiber,True
+Google Fiber|openai|open|0,Google Fiber,gfiber,openai,open,0,9,Google Fiber,True
+Google Fiber|gemini|open|2,Google Fiber,gfiber,gemini,open,2,9,Google Fiber,True
+Google Fiber|gemini|closed|2,Google Fiber,gfiber,gemini,closed,2,9,Google Fiber,True
+AT&T Fiber|openai|open|0,AT&T Fiber,gfiber,openai,open,0,9,Frontier Communications,False
+AT&T Fiber|openai|closed|1,AT&T Fiber,gfiber,openai,closed,1,9,Google Fiber,False
+Google Fiber|openai|closed|1,Google Fiber,gfiber,openai,closed,1,9,Google Fiber,True
+AT&T Fiber|openai|closed|2,AT&T Fiber,gfiber,openai,closed,2,9,AT&T Fiber,True
+AT&T Fiber|openai|open|1,AT&T Fiber,gfiber,openai,open,1,9,Cox Communications,False
+AT&T Fiber|gemini|closed|0,AT&T Fiber,gfiber,gemini,closed,0,9,Quantum Fiber,False
+AT&T Fiber|gemini|open|0,AT&T Fiber,gfiber,gemini,open,0,9,Frontier Communications,False
+AT&T Fiber|gemini|open|1,AT&T Fiber,gfiber,gemini,open,1,9,Frontier Communications,False
+AT&T Fiber|openai|closed|0,AT&T Fiber,gfiber,openai,closed,0,9,Verizon,False
+AT&T Fiber|openai|open|2,AT&T Fiber,gfiber,openai,open,2,9,Cox Communications,False
+AT&T Fiber|gemini|closed|1,AT&T Fiber,gfiber,gemini,closed,1,9,Quantum Fiber,False
+AT&T Fiber|gemini|open|2,AT&T Fiber,gfiber,gemini,open,2,9,Frontier Communications,False
+AT&T Fiber|gemini|closed|2,AT&T Fiber,gfiber,gemini,closed,2,9,Metronet,False
+Xfinity|openai|closed|2,Xfinity,gfiber,openai,closed,2,9,Spectrum,False
+Xfinity|openai|closed|1,Xfinity,gfiber,openai,closed,1,9,Spectrum,False
+Xfinity|openai|closed|0,Xfinity,gfiber,openai,closed,0,9,Xfinity,True
+Xfinity|openai|open|1,Xfinity,gfiber,openai,open,1,9,Comcast Xfinity,True
+Xfinity|openai|open|2,Xfinity,gfiber,openai,open,2,9,Comcast Xfinity,True
+Xfinity|gemini|open|0,Xfinity,gfiber,gemini,open,0,9,Comcast Xfinity,True
+Xfinity|gemini|closed|0,Xfinity,gfiber,gemini,closed,0,9,Xfinity,True
+Xfinity|gemini|open|1,Xfinity,gfiber,gemini,open,1,9,Comcast Xfinity,True
+Xfinity|gemini|closed|1,Xfinity,gfiber,gemini,closed,1,9,Xfinity,True
+Xfinity|openai|open|0,Xfinity,gfiber,openai,open,0,9,Mediacom,False
+Quantum Fiber|openai|open|0,Quantum Fiber,gfiber,openai,open,0,9,AT&T Fiber,False
+Xfinity|gemini|closed|2,Xfinity,gfiber,gemini,closed,2,9,Xfinity,True
+Xfinity|gemini|open|2,Xfinity,gfiber,gemini,open,2,9,Comcast Xfinity,True
+Quantum Fiber|openai|closed|0,Quantum Fiber,gfiber,openai,closed,0,9,Google Fiber,False
+Quantum Fiber|openai|open|2,Quantum Fiber,gfiber,openai,open,2,9,AT&T Fiber,False
+Quantum Fiber|gemini|open|0,Quantum Fiber,gfiber,gemini,open,0,9,Frontier,False
+Quantum Fiber|openai|closed|2,Quantum Fiber,gfiber,openai,closed,2,9,Google Fiber,False
+Quantum Fiber|openai|closed|1,Quantum Fiber,gfiber,openai,closed,1,9,Google Fiber,False
+Quantum Fiber|gemini|closed|0,Quantum Fiber,gfiber,gemini,closed,0,9,Google Fiber,False
+Quantum Fiber|gemini|open|1,Quantum Fiber,gfiber,gemini,open,1,9,Frontier,False
+Quantum Fiber|gemini|closed|1,Quantum Fiber,gfiber,gemini,closed,1,9,Google Fiber,False
+Quantum Fiber|gemini|closed|2,Quantum Fiber,gfiber,gemini,closed,2,9,Google Fiber,False
+Quantum Fiber|gemini|open|2,Quantum Fiber,gfiber,gemini,open,2,9,Frontier,False
+Spectrum|openai|open|0,Spectrum,gfiber,openai,open,0,9,Astound Broadband (RCN),False
+Spectrum|openai|closed|0,Spectrum,gfiber,openai,closed,0,9,AT&T Fiber,False
+Quantum Fiber|openai|open|1,Quantum Fiber,gfiber,openai,open,1,9,AT&T Fiber,False
+Spectrum|openai|open|1,Spectrum,gfiber,openai,open,1,9,Ziply Fiber,False
+Spectrum|gemini|open|0,Spectrum,gfiber,gemini,open,0,9,Google Fiber,False
+Spectrum|openai|open|2,Spectrum,gfiber,openai,open,2,9,Frontier Communications,False
+Spectrum|openai|closed|2,Spectrum,gfiber,openai,closed,2,9,Astound,False
+Spectrum|gemini|closed|0,Spectrum,gfiber,gemini,closed,0,9,Google Fiber,False
+Spectrum|gemini|open|1,Spectrum,gfiber,gemini,open,1,9,Google Fiber,False
+Spectrum|openai|closed|1,Spectrum,gfiber,openai,closed,1,9,Astound,False
+Spectrum|gemini|closed|2,Spectrum,gfiber,gemini,closed,2,9,Metronet,False
+T-Mobile|openai|open|0,T-Mobile,gfiber,openai,open,0,9,T-Mobile,True
+Spectrum|gemini|closed|1,Spectrum,gfiber,gemini,closed,1,9,Google Fiber,False
+Spectrum|gemini|open|2,Spectrum,gfiber,gemini,open,2,9,Google Fiber,False
+T-Mobile|openai|closed|1,T-Mobile,gfiber,openai,closed,1,9,AT&T Fiber,False
+T-Mobile|openai|closed|0,T-Mobile,gfiber,openai,closed,0,9,T-Mobile,True
+T-Mobile|gemini|open|0,T-Mobile,gfiber,gemini,open,0,9,T-Mobile,True
+T-Mobile|gemini|closed|0,T-Mobile,gfiber,gemini,closed,0,9,T-Mobile,True
+T-Mobile|openai|closed|2,T-Mobile,gfiber,openai,closed,2,9,Verizon,False
+T-Mobile|gemini|open|1,T-Mobile,gfiber,gemini,open,1,9,T-Mobile,True
+T-Mobile|gemini|closed|1,T-Mobile,gfiber,gemini,closed,1,9,T-Mobile,True
+T-Mobile|gemini|open|2,T-Mobile,gfiber,gemini,open,2,9,T-Mobile,True
+T-Mobile|gemini|closed|2,T-Mobile,gfiber,gemini,closed,2,9,T-Mobile,True
+T-Mobile|openai|open|1,T-Mobile,gfiber,openai,open,1,9,Mediacom,False
+T-Mobile|openai|open|2,T-Mobile,gfiber,openai,open,2,9,T-Mobile,True
+Metronet|openai|closed|0,Metronet,gfiber,openai,closed,0,9,Quantum Fiber,False
+Metronet|openai|closed|1,Metronet,gfiber,openai,closed,1,9,Google Fiber,False
+Metronet|openai|open|2,Metronet,gfiber,openai,open,2,9,WOW! Fiber,False
+Metronet|openai|open|0,Metronet,gfiber,openai,open,0,9,Google Fiber,False
+Metronet|openai|closed|2,Metronet,gfiber,openai,closed,2,9,Google Fiber,False
+Metronet|openai|open|1,Metronet,gfiber,openai,open,1,9,Google Fiber,False
+Metronet|gemini|open|0,Metronet,gfiber,gemini,open,0,9,Google Fiber,False
+Metronet|gemini|closed|0,Metronet,gfiber,gemini,closed,0,9,Quantum Fiber,False
+Metronet|gemini|open|1,Metronet,gfiber,gemini,open,1,9,Google Fiber,False
+Metronet|gemini|open|2,Metronet,gfiber,gemini,open,2,9,Google Fiber,False
+Metronet|gemini|closed|2,Metronet,gfiber,gemini,closed,2,9,Google Fiber,False
+Metronet|gemini|closed|1,Metronet,gfiber,gemini,closed,1,9,Quantum Fiber,False
+Astound|openai|open|0,Astound,gfiber,openai,open,0,9,Ziply Fiber,False
+Astound|openai|open|1,Astound,gfiber,openai,open,1,9,WOW! (WideOpenWest),False
+Astound|openai|closed|1,Astound,gfiber,openai,closed,1,9,Google Fiber,False
+Astound|openai|open|2,Astound,gfiber,openai,open,2,9,"WOW! Internet, Cable & Phone",False
+Astound|gemini|open|1,Astound,gfiber,gemini,open,1,9,Astound Broadband,True
+Astound|gemini|open|0,Astound,gfiber,gemini,open,0,9,Astound Broadband,True
+Astound|gemini|closed|0,Astound,gfiber,gemini,closed,0,9,Astound,True
+Astound|openai|closed|0,Astound,gfiber,openai,closed,0,9,Metronet,False
+Astound|openai|closed|2,Astound,gfiber,openai,closed,2,9,Google Fiber,False
+Astound|gemini|closed|1,Astound,gfiber,gemini,closed,1,9,Astound,True
+Astound|gemini|open|2,Astound,gfiber,gemini,open,2,9,Astound Broadband,True
+Verizon|openai|open|0,Verizon,gfiber,openai,open,0,9,Verizon,True
+Astound|gemini|closed|2,Astound,gfiber,gemini,closed,2,9,Astound,True
+Verizon|openai|open|2,Verizon,gfiber,openai,open,2,9,Verizon,True
+Verizon|openai|closed|1,Verizon,gfiber,openai,closed,1,9,AT&T Fiber,False
+Verizon|openai|closed|2,Verizon,gfiber,openai,closed,2,9,Verizon,True
+Verizon|openai|open|1,Verizon,gfiber,openai,open,1,9,Verizon,True
+Verizon|gemini|open|0,Verizon,gfiber,gemini,open,0,9,Verizon,True
+Verizon|gemini|open|1,Verizon,gfiber,gemini,open,1,9,Verizon,True
+Verizon|gemini|closed|0,Verizon,gfiber,gemini,closed,0,9,Verizon,True
+Verizon|gemini|closed|1,Verizon,gfiber,gemini,closed,1,9,Verizon,True
+Verizon|openai|closed|0,Verizon,gfiber,openai,closed,0,9,Google Fiber,False
+Verizon|gemini|open|2,Verizon,gfiber,gemini,open,2,9,Verizon,True
+Verizon|gemini|closed|2,Verizon,gfiber,gemini,closed,2,9,Verizon,True
+Workorb|openai|open|2,Workorb,workorb,openai,open,2,10,Procore,False
+Workorb|openai|open|1,Workorb,workorb,openai,open,1,10,Better Proposals,False
+Workorb|openai|closed|1,Workorb,workorb,openai,closed,1,10,Responsive,False
+Workorb|openai|open|0,Workorb,workorb,openai,open,0,10,Deltek GovWin,False
+Workorb|openai|closed|2,Workorb,workorb,openai,closed,2,10,Loopio,False
+Workorb|openai|closed|0,Workorb,workorb,openai,closed,0,10,OpenAsset,False
+Workorb|gemini|open|0,Workorb,workorb,gemini,open,0,10,Cosential (by Unanet),False
+Workorb|gemini|closed|0,Workorb,workorb,gemini,closed,0,10,Inventive AI,False
+Workorb|gemini|open|1,Workorb,workorb,gemini,open,1,10,Unanet (specifically the **Cosential** product line),False
+Workorb|gemini|open|2,Workorb,workorb,gemini,open,2,10,Cosential (by Unanet),False
+Workorb|gemini|closed|1,Workorb,workorb,gemini,closed,1,10,OpenAsset,False
+Workorb|gemini|closed|2,Workorb,workorb,gemini,closed,2,10,Inventive AI,False
+Loopio|openai|closed|1,Loopio,workorb,openai,closed,1,10,OpenAsset,False
+Loopio|openai|closed|0,Loopio,workorb,openai,closed,0,10,Loopio,True
+Loopio|openai|open|1,Loopio,workorb,openai,open,1,10,Loopio,True
+Loopio|openai|open|2,Loopio,workorb,openai,open,2,10,Better Proposal,False
+Loopio|openai|closed|2,Loopio,workorb,openai,closed,2,10,Loopio,True
+Loopio|gemini|open|0,Loopio,workorb,gemini,open,0,10,Loopio,True
+Loopio|gemini|closed|0,Loopio,workorb,gemini,closed,0,10,Loopio,True
+Loopio|gemini|closed|1,Loopio,workorb,gemini,closed,1,10,Responsive,False
+Loopio|gemini|open|1,Loopio,workorb,gemini,open,1,10,Loopio,True
+Loopio|gemini|open|2,Loopio,workorb,gemini,open,2,10,Loopio,True
+Loopio|gemini|closed|2,Loopio,workorb,gemini,closed,2,10,Loopio,True
+Unanet|openai|closed|0,Unanet,workorb,openai,closed,0,10,Unanet,True
+Unanet|openai|closed|1,Unanet,workorb,openai,closed,1,10,Loopio,False
+Unanet|openai|open|1,Unanet,workorb,openai,open,1,10,Deltek,False
+Unanet|openai|open|2,Unanet,workorb,openai,open,2,10,WinDMS,False
+Loopio|openai|open|0,Loopio,workorb,openai,open,0,10,Qvidian,False
+Unanet|openai|open|0,Unanet,workorb,openai,open,0,10,Deltek,False
+Unanet|gemini|closed|0,Unanet,workorb,gemini,closed,0,10,Unanet,True
+Unanet|gemini|open|0,Unanet,workorb,gemini,open,0,10,Unanet,True
+Unanet|gemini|open|1,Unanet,workorb,gemini,open,1,10,Ajera (Deltek),False
+Unanet|openai|closed|2,Unanet,workorb,openai,closed,2,10,Deltek,False
+Unanet|gemini|closed|1,Unanet,workorb,gemini,closed,1,10,Deltek,False
+Unanet|gemini|open|2,Unanet,workorb,gemini,open,2,10,Unanet,True
+Unanet|gemini|closed|2,Unanet,workorb,gemini,closed,2,10,Deltek,False
+OpenAsset|openai|closed|0,OpenAsset,workorb,openai,closed,0,10,OpenAsset,True
+OpenAsset|openai|open|1,OpenAsset,workorb,openai,open,1,10,Bonsai Partners,False
+OpenAsset|openai|open|2,OpenAsset,workorb,openai,open,2,10,Kapture CX,False
+OpenAsset|openai|closed|2,OpenAsset,workorb,openai,closed,2,10,Loopio,False
+OpenAsset|gemini|closed|0,OpenAsset,workorb,gemini,closed,0,10,OpenAsset,True
+OpenAsset|openai|closed|1,OpenAsset,workorb,openai,closed,1,10,OpenAsset,True
+OpenAsset|gemini|open|0,OpenAsset,workorb,gemini,open,0,10,OpenAsset,True
+OpenAsset|gemini|closed|1,OpenAsset,workorb,gemini,closed,1,10,OpenAsset,True
+OpenAsset|gemini|open|1,OpenAsset,workorb,gemini,open,1,10,OpenAsset,True
+OpenAsset|gemini|open|2,OpenAsset,workorb,gemini,open,2,10,Unanet (formerly Cosential),False
+OpenAsset|gemini|closed|2,OpenAsset,workorb,gemini,closed,2,10,OpenAsset,True
+OpenAsset|openai|open|0,OpenAsset,workorb,openai,open,0,10,Accelo,False
+Joist AI|openai|open|2,Joist AI,workorb,openai,open,2,10,Better Proposals,False
+Joist AI|openai|open|1,Joist AI,workorb,openai,open,1,10,Pursuit Analytics,False
+Joist AI|openai|closed|1,Joist AI,workorb,openai,closed,1,10,Loopio,False
+Joist AI|openai|open|0,Joist AI,workorb,openai,open,0,10,Cosential,False
+Joist AI|gemini|open|0,Joist AI,workorb,gemini,open,0,10,Unanet (formerly Cosential),False
+Joist AI|gemini|closed|1,Joist AI,workorb,gemini,closed,1,10,OpenAsset,False
+Joist AI|gemini|closed|0,Joist AI,workorb,gemini,closed,0,10,Arphie,False
+Joist AI|openai|closed|0,Joist AI,workorb,openai,closed,0,10,Loopio,False
+Joist AI|gemini|open|1,Joist AI,workorb,gemini,open,1,10,Unanet (formerly Cosential),False
+Joist AI|gemini|open|2,Joist AI,workorb,gemini,open,2,10,Unanet (formerly Cosential),False
+Joist AI|gemini|closed|2,Joist AI,workorb,gemini,closed,2,10,Joist AI,True
+Joist AI|openai|closed|2,Joist AI,workorb,openai,closed,2,10,Inventive AI,False
+Deltek|openai|open|0,Deltek,workorb,openai,open,0,10,Deltek GovWin,True
+Deltek|openai|closed|2,Deltek,workorb,openai,closed,2,10,Loopio,False
+Deltek|openai|open|2,Deltek,workorb,openai,open,2,10,Deltek,True
+Deltek|openai|open|1,Deltek,workorb,openai,open,1,10,Deltek,True
+Deltek|gemini|open|0,Deltek,workorb,gemini,open,0,10,Deltek,True
+Deltek|gemini|closed|0,Deltek,workorb,gemini,closed,0,10,Deltek,True
+Deltek|openai|closed|1,Deltek,workorb,openai,closed,1,10,Deltek,True
+Deltek|gemini|open|1,Deltek,workorb,gemini,open,1,10,Deltek,True
+Deltek|gemini|open|2,Deltek,workorb,gemini,open,2,10,Deltek,True
+Deltek|gemini|closed|1,Deltek,workorb,gemini,closed,1,10,Deltek,True
+Deltek|gemini|closed|2,Deltek,workorb,gemini,closed,2,10,Deltek,True
+Responsive|openai|closed|0,Responsive,workorb,openai,closed,0,10,Loopio,False
+Responsive|openai|open|2,Responsive,workorb,openai,open,2,10,Qwilr,False
+Deltek|openai|closed|0,Deltek,workorb,openai,closed,0,10,Loopio,False
+Responsive|openai|open|1,Responsive,workorb,openai,open,1,10,Qvidian,False
+Responsive|openai|closed|2,Responsive,workorb,openai,closed,2,10,Loopio,False
+Responsive|gemini|open|0,Responsive,workorb,gemini,open,0,10,Loopio,False
+Responsive|gemini|closed|0,Responsive,workorb,gemini,closed,0,10,Responsive,False
+Responsive|openai|open|0,Responsive,workorb,openai,open,0,10,Qwilr,False
+Responsive|gemini|open|1,Responsive,workorb,gemini,open,1,10,Loopio,False
+Responsive|openai|closed|1,Responsive,workorb,openai,closed,1,10,Loopio,False
+Responsive|gemini|closed|1,Responsive,workorb,gemini,closed,1,10,Responsive,False
+Responsive|gemini|open|2,Responsive,workorb,gemini,open,2,10,Loopio,False
+Responsive|gemini|closed|2,Responsive,workorb,gemini,closed,2,10,Responsive,False
+AutoGenAI|openai|closed|0,AutoGenAI,workorb,openai,closed,0,10,Loopio,False
+AutoGenAI|openai|open|1,AutoGenAI,workorb,openai,open,1,10,Qvidian,False
+AutoGenAI|openai|closed|1,AutoGenAI,workorb,openai,closed,1,10,Loopio,False
+AutoGenAI|openai|open|2,AutoGenAI,workorb,openai,open,2,10,Vendor K,False
+AutoGenAI|gemini|open|0,AutoGenAI,workorb,gemini,open,0,10,Loopio,False
+AutoGenAI|gemini|closed|0,AutoGenAI,workorb,gemini,closed,0,10,OpenAsset,False
+AutoGenAI|openai|open|0,AutoGenAI,workorb,openai,open,0,10,PandaDoc,False
+AutoGenAI|gemini|open|1,AutoGenAI,workorb,gemini,open,1,10,Loopio,False
+AutoGenAI|openai|closed|2,AutoGenAI,workorb,openai,closed,2,10,Loopio,False
+AutoGenAI|gemini|closed|1,AutoGenAI,workorb,gemini,closed,1,10,Inventive AI,False
+AutoGenAI|gemini|open|2,AutoGenAI,workorb,gemini,open,2,10,Loopio,False
+AutoGenAI|gemini|closed|2,AutoGenAI,workorb,gemini,closed,2,10,Deltek,False
+Inventive AI|openai|closed|0,Inventive AI,workorb,openai,closed,0,10,Loopio,False
+Inventive AI|openai|open|1,Inventive AI,workorb,openai,open,1,10,Qvidian,False
+Inventive AI|gemini|closed|0,Inventive AI,workorb,gemini,closed,0,10,AutoGenAI,False
+Inventive AI|openai|open|0,Inventive AI,workorb,openai,open,0,10,QorusDocs,False
+Inventive AI|gemini|open|0,Inventive AI,workorb,gemini,open,0,10,Loopio,False
+Inventive AI|openai|closed|1,Inventive AI,workorb,openai,closed,1,10,Loopio,False
+Inventive AI|openai|open|2,Inventive AI,workorb,openai,open,2,10,BidOps,False
+Inventive AI|openai|closed|2,Inventive AI,workorb,openai,closed,2,10,Loopio,False
+Inventive AI|gemini|open|2,Inventive AI,workorb,gemini,open,2,10,Loopio,False
+Inventive AI|gemini|open|1,Inventive AI,workorb,gemini,open,1,10,Loopio,False
+Inventive AI|gemini|closed|1,Inventive AI,workorb,gemini,closed,1,10,Joist AI,False
+Inventive AI|gemini|closed|2,Inventive AI,workorb,gemini,closed,2,10,Workorb,False
+Arphie|openai|open|0,Arphie,workorb,openai,open,0,10,Responsive AI,False
+Arphie|openai|open|1,Arphie,workorb,openai,open,1,10,Qwilr,False
+Arphie|openai|closed|1,Arphie,workorb,openai,closed,1,10,Loopio,False
+Arphie|openai|open|2,Arphie,workorb,openai,open,2,10,Qwilr,False
+Arphie|gemini|open|0,Arphie,workorb,gemini,open,0,10,Loopio,False
+Arphie|gemini|closed|0,Arphie,workorb,gemini,closed,0,10,Responsive,False
+Arphie|gemini|closed|1,Arphie,workorb,gemini,closed,1,10,Responsive,False
+Arphie|openai|closed|2,Arphie,workorb,openai,closed,2,10,OpenAsset,False
+Arphie|gemini|open|1,Arphie,workorb,gemini,open,1,10,Loopio,False
+Arphie|gemini|closed|2,Arphie,workorb,gemini,closed,2,10,Responsive,False
+Arphie|gemini|open|2,Arphie,workorb,gemini,open,2,10,Loopio,False
+Arphie|openai|closed|0,Arphie,workorb,openai,closed,0,10,Deltek,False

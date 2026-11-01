@@ -1,0 +1,3 @@
+parsing 0 pages (658 cached)
+{'rows': 1571, 'lists': 51, 'pages': 1063, 'pct_rows_with_text': np.float64(56.842775302355186), 'pct_cited_rows_with_text': np.float64(80.2588996763754), 'pct_uncited_rows_with_text': np.float64(51.10935023771791)}
+embedding 20,949 title/paragraph units of 658 pages

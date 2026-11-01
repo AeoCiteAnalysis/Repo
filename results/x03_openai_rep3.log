@@ -1,0 +1,28 @@
+openai: 651 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\openai\20260927
+  25/651  p_d3e91b0ac0: 0 queries, 0 consulted, 0 cited
+  50/651  p_1639320407: 0 queries, 0 consulted, 0 cited
+  75/651  p_c96626649d: 4 queries, 29 consulted, 2 cited
+  100/651  p_cdc9fc4256: 4 queries, 27 consulted, 2 cited
+  125/651  p_7d732985c0: 3 queries, 23 consulted, 2 cited
+  150/651  p_b3ef249363: 8 queries, 41 consulted, 2 cited
+  175/651  p_38b089c644: 4 queries, 29 consulted, 3 cited
+  200/651  p_8f9f99609b: 4 queries, 27 consulted, 1 cited
+  225/651  p_9ccbeed419: 4 queries, 24 consulted, 4 cited
+  250/651  p_9a8f8cace8: 4 queries, 30 consulted, 2 cited
+  275/651  p_711ef92bdb: 4 queries, 33 consulted, 1 cited
+  300/651  p_8c9fd737b4: 4 queries, 23 consulted, 2 cited
+  325/651  p_6cff1e716c: 4 queries, 28 consulted, 4 cited
+  350/651  p_34e6ee370e: 0 queries, 0 consulted, 0 cited
+  375/651  p_ae03047855: 8 queries, 48 consulted, 5 cited
+  400/651  p_f539895b64: 4 queries, 22 consulted, 2 cited
+  425/651  p_31599508d2: 0 queries, 0 consulted, 0 cited
+  450/651  p_fe3deb9894: 0 queries, 0 consulted, 0 cited
+  475/651  p_9f8b56a287: 4 queries, 26 consulted, 1 cited
+  500/651  p_da15c53423: 4 queries, 30 consulted, 2 cited
+  525/651  p_4e0af3147d: 8 queries, 52 consulted, 3 cited
+  550/651  p_08d6fed30f: 4 queries, 28 consulted, 3 cited
+  575/651  p_15a6392e97: 8 queries, 44 consulted, 4 cited
+  600/651  p_a99787e9e4: 4 queries, 27 consulted, 2 cited
+  625/651  p_05f3cb71cc: 4 queries, 28 consulted, 3 cited
+  650/651  p_804f6f4dae: 0 queries, 0 consulted, 0 cited
+done 651, failed 0

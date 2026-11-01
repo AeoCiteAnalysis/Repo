@@ -1,0 +1,22 @@
+engine,,gemini,gemini,openai,openai
+mode,,closed,open,closed,open
+dataset,brand,,,,
+gfiber,AT&T Fiber,0.0,0.0,33.0,0.0
+gfiber,Astound,100.0,100.0,0.0,0.0
+gfiber,Google Fiber,67.0,100.0,100.0,67.0
+gfiber,Metronet,0.0,0.0,0.0,0.0
+gfiber,Quantum Fiber,0.0,0.0,0.0,0.0
+gfiber,Spectrum,0.0,0.0,0.0,0.0
+gfiber,T-Mobile,100.0,100.0,33.0,67.0
+gfiber,Verizon,100.0,100.0,33.0,100.0
+gfiber,Xfinity,100.0,100.0,33.0,67.0
+workorb,Arphie,0.0,0.0,0.0,0.0
+workorb,AutoGenAI,0.0,0.0,0.0,0.0
+workorb,Deltek,100.0,100.0,33.0,100.0
+workorb,Inventive AI,0.0,0.0,0.0,0.0
+workorb,Joist AI,33.0,0.0,0.0,0.0
+workorb,Loopio,67.0,100.0,67.0,33.0
+workorb,OpenAsset,100.0,67.0,67.0,0.0
+workorb,Responsive,0.0,0.0,0.0,0.0
+workorb,Unanet,33.0,67.0,33.0,0.0
+workorb,Workorb,0.0,0.0,0.0,0.0

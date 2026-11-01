@@ -1,0 +1,64 @@
+                                                 0       1
+engine                                     ChatGPT  Gemini
+prompts                                        651     651
+searched                                       448     541
+collected_zero_share_when_replay_searched    0.071   0.133
+collected_zero_share_when_replay_did_not     0.831   0.298
+replay_cited_in_collected_last14             0.585   0.551
+collected_lastday_in_previous13              0.655   0.803
+                                              0
+pairs                                   32270.0
+pct_pairs_consulted                        10.6
+pct_citations_consulted                    28.6
+pct_pairs_cited                             3.1
+pct_citations_cited                        14.8
+consulted_per_prompt                       26.0
+cited_per_prompt                            3.0
+pct_consulted_cited                        10.4
+pct_consulted_ever_cited_in_collection     26.8
+rank_bin  consulted  pct_cited_replay  pct_ever_cited_collected  mean_collected_citations
+       1       1039             47.45                     72.28                     13.91
+       2       1030             37.18                     62.23                      8.74
+       3       1032             28.88                     54.94                      6.75
+     4-5       2054             20.64                     50.68                      5.01
+    6-10       5094             12.09                     38.28                      2.77
+   11-20      10002              3.24                     16.07                      0.82
+     21+       4774              0.23                      3.35                      0.09
+             coef     se    p  odds_ratio
+log_rank   -0.905  0.018  0.0       0.404
+multi_call  2.280  0.114  0.0       9.778
+ pairs    r2  r2_within_prompt  coef_log_rank  coef_multi_call
+ 24749 0.241             0.258         -0.538             0.54
+ replays outcome                                     model  n_urls  within_share  explained_within  reliability_within  stable_unexplained  pct_pages_consulted
+       1   total                     replay retrieval only    6178         0.888             0.206               0.845               0.567               21.738
+       1   total                  replay retrieval + cited    6178         0.888             0.225               0.845               0.550               21.738
+       1 breadth                     replay retrieval only    6178         0.839             0.179               0.757               0.485               21.738
+       1 breadth                  replay retrieval + cited    6178         0.839             0.184               0.757               0.481               21.738
+       1   depth                     replay retrieval only    6178         0.918             0.079               0.888               0.742               21.738
+       1   depth                  replay retrieval + cited    6178         0.918             0.099               0.888               0.724               21.738
+       2   total                     replay retrieval only    6178         0.888             0.232               0.845               0.544               27.614
+       2   total                  replay retrieval + cited    6178         0.888             0.255               0.845               0.523               27.614
+       2 breadth                     replay retrieval only    6178         0.839             0.199               0.757               0.469               27.614
+       2 breadth                  replay retrieval + cited    6178         0.839             0.205               0.757               0.463               27.614
+       2   depth                     replay retrieval only    6178         0.918             0.091               0.888               0.731               27.614
+       2   depth                  replay retrieval + cited    6178         0.918             0.113               0.888               0.711               27.614
+       3   total                       page variables (E1)    6178         0.888             0.007               0.845               0.744               31.029
+       3   total                         replay cited only    6178         0.888             0.246               0.845               0.532               31.029
+       3   total                     replay retrieval only    6178         0.888             0.240               0.845               0.537               31.029
+       3   total                  replay retrieval + cited    6178         0.888             0.269               0.845               0.511               31.029
+       3   total         page variables + replay retrieval    6178         0.888             0.253               0.845               0.525               31.029
+       3   total page variables + replay retrieval + cited    6178         0.888             0.281               0.845               0.500               31.029
+       3 breadth                       page variables (E1)    6178         0.839             0.039               0.757               0.603               31.029
+       3 breadth                         replay cited only    6178         0.839             0.168               0.757               0.495               31.029
+       3 breadth                     replay retrieval only    6178         0.839             0.205               0.757               0.464               31.029
+       3 breadth                  replay retrieval + cited    6178         0.839             0.211               0.757               0.458               31.029
+       3 breadth         page variables + replay retrieval    6178         0.839             0.246               0.757               0.429               31.029
+       3 breadth page variables + replay retrieval + cited    6178         0.839             0.252               0.757               0.424               31.029
+       3   depth                       page variables (E1)    6178         0.918             0.018               0.888               0.798               31.029
+       3   depth                         replay cited only    6178         0.918             0.125               0.888               0.700               31.029
+       3   depth                     replay retrieval only    6178         0.918             0.095               0.888               0.727               31.029
+       3   depth                  replay retrieval + cited    6178         0.918             0.126               0.888               0.699               31.029
+       3   depth         page variables + replay retrieval    6178         0.918             0.119               0.888               0.706               31.029
+       3   depth page variables + replay retrieval + cited    6178         0.918             0.149               0.888               0.678               31.029
+ prompts  pct_search_agree  jaccard_queries  jaccard_consulted  jaccard_cited
+     651             92.78            0.027              0.206          0.205

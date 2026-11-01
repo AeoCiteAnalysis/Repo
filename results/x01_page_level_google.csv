@@ -1,0 +1,7 @@
+model,r2_within,effect_pct,p,pages_in_any_top10
+R2 features,0.04887719124938961,,,408
+R2 features + serp_prompts_top10,0.07645949781780847,19.371110739337393,2.1290146139691235e-35,408
+R2 features + serp_rank_weighted,0.0718437233871505,17.497135897499525,9.352791408123121e-28,408
+R2 features + serp_any,0.07179687462281381,144.0745808753594,3.762870342630968e-32,408
+"mixed model, within-website variance explained (Step-A6 features)",0.035738612136405834,,,408
+"mixed model, within-website variance explained (+ search breadth)",0.06585491355387518,,,408

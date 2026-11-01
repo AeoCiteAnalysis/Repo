@@ -1,0 +1,32 @@
+  embedded 200/12031 pages
+  embedded 2200/12031 pages
+  embedded 4200/12031 pages
+  embedded 6200/12031 pages
+  embedded 8200/12031 pages
+  embedded 10200/12031 pages
+  embedded 12031/12031 pages
+    engine     score  pages  mean_auc  median_auc  share_pages_auc_above_0_5
+       all  emb_best  11975     0.878       0.937                      0.963
+       all emb_title  11967     0.869       0.939                      0.946
+       all      bm25  12031     0.849       0.923                      0.928
+   ChatGPT  emb_best   6297     0.873       0.931                      0.963
+   ChatGPT emb_title   6295     0.853       0.919                      0.935
+   ChatGPT      bm25   6307     0.838       0.912                      0.921
+    Gemini  emb_best   6915     0.880       0.946                      0.955
+    Gemini emb_title   6909     0.881       0.959                      0.948
+    Gemini      bm25   6961     0.862       0.938                      0.934
+Perplexity  emb_best   1569     0.894       0.964                      0.961
+Perplexity emb_title   1569     0.896       0.977                      0.949
+Perplexity      bm25   1570     0.850       0.942                      0.917
+              term  odds_ratio_per_sd  ci_low  ci_high   p  n_pairs  n_pages
+          emb_best             1.4522  1.4147   1.4908 0.0   409927    12031
+         emb_title             1.4806  1.4457   1.5164 0.0   409927    12031
+              bm25             1.7337  1.7150   1.7526 0.0   409927    12031
+log_prompt_sources             1.1498  1.1279   1.1721 0.0   409927    12031
+                                                            model  r2_within  breadth_strong_pct_per_sd  breadth_strong_p  top10_mean_sim_pct_per_sd  top10_mean_sim_p
+                             R2 features (Step-A6 match features)     0.0489                        NaN               NaN                        NaN               NaN
+                                     R2 features + breadth_strong     0.0587                    17.1715               0.0                        NaN               NaN
+                                     R2 features + top10_mean_sim     0.0494                        NaN               NaN                     8.6545            0.0216
+                    R2 features + breadth_strong + top10_mean_sim     0.0588                    18.0076               0.0                    -4.4415            0.1883
+mixed model, within-website variance explained (Step-A6 features)     0.0357                        NaN               NaN                        NaN               NaN
+       mixed model, within-website variance explained (+ breadth)     0.0387                        NaN               NaN                        NaN               NaN

@@ -1,0 +1,27 @@
+openai: 646 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\openai\20260927
+  25/646  p_6c722dc880: 4 queries, 29 consulted, 2 cited
+  50/646  p_1e67629662: 4 queries, 30 consulted, 5 cited
+  75/646  p_c7085be281: 0 queries, 0 consulted, 0 cited
+  100/646  p_15c8a09d1f: 4 queries, 30 consulted, 3 cited
+  125/646  p_d3e20fb8fd: 3 queries, 36 consulted, 8 cited
+  150/646  p_5291308afb: 8 queries, 50 consulted, 6 cited
+  175/646  p_1c65b6b2f6: 4 queries, 28 consulted, 2 cited
+  200/646  p_72e829860b: 4 queries, 28 consulted, 4 cited
+  225/646  p_64e3dd5e0d: 8 queries, 39 consulted, 2 cited
+  250/646  p_cd397779cf: 0 queries, 0 consulted, 0 cited
+  275/646  p_a736bd48e7: 8 queries, 50 consulted, 3 cited
+  300/646  p_a3d0d0c1e2: 0 queries, 0 consulted, 0 cited
+  325/646  p_0ad982673f: 3 queries, 32 consulted, 1 cited
+  350/646  p_40a99db286: 4 queries, 30 consulted, 4 cited
+  375/646  p_09592159f1: 2 queries, 27 consulted, 1 cited
+  400/646  p_54314289c1: 8 queries, 53 consulted, 5 cited
+  425/646  p_a9a0f1bc2f: 4 queries, 26 consulted, 2 cited
+  450/646  p_c26cbaeb85: 4 queries, 29 consulted, 4 cited
+  475/646  p_82cb86a389: 8 queries, 48 consulted, 5 cited
+  500/646  p_16ecdf02d6: 0 queries, 0 consulted, 0 cited
+  525/646  p_b7839b8def: 4 queries, 31 consulted, 4 cited
+  550/646  p_45d0e59ac4: 4 queries, 38 consulted, 4 cited
+  575/646  p_1221378009: 8 queries, 50 consulted, 6 cited
+  600/646  p_67c09b0d57: 4 queries, 29 consulted, 4 cited
+  625/646  p_4023cb9ed5: 8 queries, 58 consulted, 2 cited
+done 646, failed 0

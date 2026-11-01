@@ -1,0 +1,11 @@
+engine provider      kind dataset  pages  answers  depth  page_top 10  site_top 10  page_11-30  site_11-30  page_31-50  site_31-50  page_not found  site_not found
+gemini   google     cited  gfiber    503       40     50          5.8         36.6         1.2         3.2         0.0         0.2            93.0            60.0
+gemini   google     cited workorb     98        8     50          0.0          3.1         0.0         0.0         0.0         0.0           100.0            96.9
+openai     bing     cited  gfiber    131       49     30          1.5         41.2         0.8         6.9         0.0         0.0            97.7            51.9
+openai     bing     cited workorb     24       10     30          0.0          4.2         0.0         0.0         0.0         0.0           100.0            95.8
+openai     bing retrieved  gfiber   1407       50     30          0.8         22.2         0.4         4.3         0.0         0.1            98.9            73.3
+openai     bing retrieved workorb    304       10     30          0.3          3.3         0.0         0.0         0.0         0.0            99.7            96.7
+openai   google     cited  gfiber    131       49     50          5.3         38.2         0.0         2.3         0.0         2.3            94.7            57.3
+openai   google     cited workorb     24       10     50          0.0          0.0         0.0         0.0         0.0         0.0           100.0           100.0
+openai   google retrieved  gfiber   1407       50     50          2.5         44.5         0.4         4.0         0.1         2.1            97.0            49.4
+openai   google retrieved workorb    304       10     50          0.0          3.0         0.0         0.0         0.0         0.0           100.0            97.0

@@ -1,0 +1,4 @@
+engine,questions,pct_with_cycle,pct_with_robust_cycle,cycles,robust_cycles
+Gemini,201,0.4975124378109453,0.0,1,0
+ChatGPT,275,4.0,0.36363636363636365,13,1
+Perplexity,284,5.633802816901409,0.0,25,0

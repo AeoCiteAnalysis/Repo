@@ -1,0 +1,11 @@
+engine,measure,value,ci_low,ci_high,p
+gemini,identical repeats: mean Kendall tau,0.7604519774011297,,,
+gemini,identical repeats: consulted-source overlap (Jaccard),0.24247018250519256,,,
+gemini,identical repeats: search-query overlap (Jaccard),0.11373645187204509,,,
+gemini,tau per +1 source overlap (slope),0.2635068784653671,0.06967074960491437,0.4573430073258198,0.007711750156861293
+gemini,predicted tau with identical sources (overlap = 1),0.960066294953626,,,
+openai,identical repeats: mean Kendall tau,0.560919540229885,,,
+openai,identical repeats: consulted-source overlap (Jaccard),0.23514143795267464,,,
+openai,identical repeats: search-query overlap (Jaccard),0.017594279544645496,,,
+openai,tau per +1 source overlap (slope),1.247037406574292,0.4802966179391701,2.013778195209414,0.0014340355526018366
+openai,predicted tau with identical sources (overlap = 1),1.514726777841524,,,

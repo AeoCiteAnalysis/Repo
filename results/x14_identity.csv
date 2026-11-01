@@ -1,0 +1,41 @@
+engine,part,outcome,term,value,ci_low,ci_high,p,detail
+gemini,reveal brand names: RMS change in top-3 per product (pp),top3,reveal,24.109126902482387,,,,
+gemini,repeat same prompt: RMS change in top-3 per product (pp),top3,placebo,7.216878364870322,,,,
+gemini,reveal brand names: RMS ratio to repeat,top3,ratio,3.340658617698013,2.4846193538112296,4.472135954999579,,
+gemini,reveal brand names: Kendall tau masked vs shown,ranking,tau,0.7675,,,,
+gemini,repeat same prompt: Kendall tau,ranking,tau,0.9166666666666666,,,,
+gemini,reveal publisher names: RMS change in top-3 per product (pp),top3,reveal,11.547005383792516,,,,
+gemini,repeat same prompt: RMS change in top-3 per product (pp),top3,placebo,7.216878364870322,,,,
+gemini,reveal publisher names: RMS ratio to repeat,top3,ratio,1.6,1.3083424789652702,2.000138696521637,,
+gemini,reveal publisher names: Kendall tau masked vs shown,ranking,tau,0.8708333333333333,,,,
+gemini,repeat same prompt: Kendall tau,ranking,tau,0.9166666666666666,,,,
+gemini,publisher shown (little-known publisher),source_cited,sp,-1.7045454545454337,-3.866125557503107,0.4570346484122398,0.12221131986666575,
+gemini,extra if publisher well known,source_cited,spxfam,2.0470112079700975,-1.4155981414891803,5.509620557429376,0.24658522791739557,
+gemini,publisher shown (little-known publisher),top3,sp,-0.8116883116882995,-2.1241319679994715,0.5007553446228724,0.22545459390417377,
+gemini,extra if publisher well known,top3,spxfam,1.6678526952499457,-1.0170419865604976,4.352747377060389,0.22340384836106364,
+openai,reveal brand names: RMS change in top-3 per product (pp),top3,reveal,26.14064523559687,,,,
+openai,repeat same prompt: RMS change in top-3 per product (pp),top3,placebo,12.162099599438687,,,,
+openai,reveal brand names: RMS ratio to repeat,top3,ratio,2.14935299796454,1.772737645613848,2.5886297148441435,,
+openai,reveal brand names: Kendall tau masked vs shown,ranking,tau,0.5908333333333332,,,,
+openai,repeat same prompt: Kendall tau,ranking,tau,0.7466666666666666,,,,
+openai,reveal publisher names: RMS change in top-3 per product (pp),top3,reveal,15.745369689742652,,,,
+openai,repeat same prompt: RMS change in top-3 per product (pp),top3,placebo,12.162099599438687,,,,
+openai,reveal publisher names: RMS ratio to repeat,top3,ratio,1.2946259452166748,1.069425854734864,1.5749485591003316,,
+openai,reveal publisher names: Kendall tau masked vs shown,ranking,tau,0.695,,,,
+openai,repeat same prompt: Kendall tau,ranking,tau,0.7466666666666666,,,,
+openai,publisher shown (little-known publisher),source_cited,sp,-2.353896103896054,-5.702030798614444,0.9942385908223346,0.16821970500376549,
+openai,extra if publisher well known,source_cited,spxfam,7.576498843622092,2.9782627820655163,12.174734905178669,0.0012403881019241256,
+openai,publisher shown (little-known publisher),top3,sp,-0.9740259740259768,-3.004781311818495,1.0567293637665416,0.34718073179882214,
+openai,extra if publisher well known,top3,spxfam,2.0014232342999776,-2.163723836690065,6.16657030529002,0.3462972648469005,
+gemini,permuted: name effect,top3,gfiber,17.700000000000003,,,7.029035467824914e-07,Google Fiber 68.2; AT&T Fiber 66.8; Metronet 65.7; Verizon 63.6; Quantum Fiber 61.8; Astound 55.9; Xfinity 55.0; Spectrum 52.6; T-Mobile 50.5
+gemini,permuted: name effect,top3,workorb,10.0,,,0.796231860912384,Responsive 64.0; Workorb 64.0; OpenAsset 63.0; Arphie 63.0; Loopio 60.0; Joist AI 59.0; Unanet 59.0; Inventive AI 58.0; AutoGenAI 56.0; Deltek 54.0
+openai,permuted: name effect,top3,gfiber,41.4,,,5.207778525611861e-51,Google Fiber 80.0; Verizon 72.7; AT&T Fiber 71.4; Quantum Fiber 66.4; Metronet 61.3; Astound 59.5; T-Mobile 49.1; Spectrum 41.7; Xfinity 38.6
+openai,permuted: name effect,top3,workorb,30.0,,,1.0291332009586318e-06,Loopio 74.0; Deltek 67.0; Responsive 67.0; Unanet 65.0; OpenAsset 63.0; Workorb 59.0; Joist AI 58.0; AutoGenAI 52.0; Inventive AI 51.0; Arphie 44.0
+gemini,identical: name effect,top3,gfiber,0.0,,,3.992810424715801e-161,AT&T Fiber 60.0; Astound 60.0; Google Fiber 60.0; Metronet 60.0; Quantum Fiber 60.0; Spectrum 60.0; T-Mobile 60.0; Verizon 60.0; Xfinity 60.0
+gemini,identical: name effect,top3,workorb,4.0,,,0.031332852760068766,Deltek 62.0; Unanet 61.0; AutoGenAI 60.0; Arphie 60.0; Joist AI 60.0; Inventive AI 60.0; Workorb 60.0; OpenAsset 60.0; Responsive 59.0; Loopio 58.0
+openai,identical: name effect,top3,gfiber,5.400000000000006,,,5.691243639615947e-06,Google Fiber 62.7; Verizon 61.4; AT&T Fiber 60.9; Quantum Fiber 60.9; Metronet 60.9; Astound 60.0; Xfinity 58.2; Spectrum 57.8; T-Mobile 57.3
+openai,identical: name effect,top3,workorb,16.0,,,2.4705431087343153e-09,Deltek 69.0; Loopio 64.0; Unanet 64.0; Arphie 60.0; OpenAsset 60.0; AutoGenAI 58.0; Workorb 58.0; Joist AI 58.0; Responsive 56.0; Inventive AI 53.0
+gemini,brand reveal effect vs name_premium_pp (19 brands),reveal_pp,spearman,0.48723610427161296,,,0.03435526775003864,pearson 0.44 (p=0.062)
+gemini,brand reveal effect vs leak (19 brands),reveal_pp,spearman,0.07900447402374629,,,0.7478342976753094,pearson 0.22 (p=0.369)
+openai,brand reveal effect vs name_premium_pp (19 brands),reveal_pp,spearman,0.8105501552908654,,,2.5725652357073866e-05,pearson 0.80 (p=0.000)
+openai,brand reveal effect vs leak (19 brands),reveal_pp,spearman,0.39935853338397764,,,0.09028244252789061,pearson 0.38 (p=0.110)

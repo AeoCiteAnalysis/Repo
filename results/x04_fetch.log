@@ -1,0 +1,38 @@
+openai: 120 prompts, 468 searches needed, 1030 left
+  50/468
+  100/468
+  150/468
+  200/468
+  ReadTimeout
+  250/468
+  300/468
+  ReadTimeout
+  350/468
+  ReadTimeout
+  ReadTimeout
+  ReadTimeout
+  400/468
+  450/468
+gemini: 120 prompts, 193 searches needed, 499 left
+  ReadTimeout
+  ReadTimeout
+  ReadTimeout
+  ReadTimeout
+  ReadTimeout
+  ReadTimeout
+  ReadTimeout
+  ReadTimeout
+  50/193
+  100/193
+  150/193
+  ReadTimeout
+ReadTimeout
+  ReadTimeout
+  50/235
+  ReadTimeout
+  ReadTimeout
+  ReadTimeout
+  100/235
+  150/235
+  200/235
+  ReadTimeout

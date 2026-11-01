@@ -1,0 +1,45 @@
+engine,part,measure,value,ci_low,ci_high,note
+openai,pairs,mean majority share (6 answers per pair),87.3888888888889,,,
+openai,pairs,% of pairs unanimous,60.66666666666667,,,
+openai,pairs,% of pairs where order decides (first shown always wins),1.6666666666666667,,,
+openai,pairs,first-shown product wins (%),46.77966101694916,44.108050847457626,49.66101694915254,
+openai,cycles,% of brand triples with a majority cycle,1.5,,,6 of 400
+openai,cycles,cycles that survive resampling (>=90% of bootstraps),0.0,,,
+openai,full,"Kendall tau, identical repeat (same order)",0.560919540229885,,,
+openai,full,"pair agreement, identical repeat (%)",78.04597701149426,,,
+openai,full,"Kendall tau, different presentation order",0.4573426573426574,,,
+openai,prediction,full ranking: pairs ordered as Bradley-Terry predicts (%),77.93785310734464,,,
+openai,prediction,full ranking: pairs ordered as pair majority predicts (%),79.04936871038566,,,
+openai,prediction,drop-one ranking: pairs as Bradley-Terry predicts (%),77.47899159663865,,,
+openai,prediction,add-one ranking: pairs as Bradley-Terry predicts (%),75.55555555555553,,,
+openai,prediction,paraphrased question: pairs as Bradley-Terry predicts (%),80.11111111111113,,,
+openai,prediction,held-out pair majority predicted by Bradley-Terry (%),84.6441947565543,,,
+openai,reversal,% of strong pairwise preferences (>=5 of 6) reversed in the full ranking,4.395604395604396,,,182 strong pairs
+openai,context,"flips of otherwise unanimous pairs: drop, no filler (%)",4.502369668246446,,,n=422
+openai,context,"flips of otherwise unanimous pairs: drop, filler (%)",,,,n=0
+openai,context,flips of otherwise unanimous pairs: add (%),4.088050314465408,,,n=318
+openai,context,flips of otherwise unanimous pairs: repeat (%),2.9526029526029527,,,n=1287
+openai,paraphrase,"Kendall tau, paraphrase vs original (same order)",0.5543859649122806,,,
+openai,paraphrase,tau difference: paraphrase minus identical repeat,-0.012012012012012,-0.108117823706059,0.0888888888888888,
+gemini,pairs,mean majority share (6 answers per pair),92.7222222222222,,,
+gemini,pairs,% of pairs unanimous,76.33333333333333,,,
+gemini,pairs,% of pairs where order decides (first shown always wins),3.6666666666666665,,,
+gemini,pairs,first-shown product wins (%),53.09882747068677,50.50251256281408,55.99036850921273,
+gemini,cycles,% of brand triples with a majority cycle,0.75,,,3 of 400
+gemini,cycles,cycles that survive resampling (>=90% of bootstraps),1.0,,,
+gemini,full,"Kendall tau, identical repeat (same order)",0.7604519774011297,,,
+gemini,full,"pair agreement, identical repeat (%)",88.0225988700565,,,
+gemini,full,"Kendall tau, different presentation order",0.7193220338983051,,,
+gemini,prediction,full ranking: pairs ordered as Bradley-Terry predicts (%),85.12605042016806,,,
+gemini,prediction,full ranking: pairs ordered as pair majority predicts (%),84.82793117246898,,,
+gemini,prediction,drop-one ranking: pairs as Bradley-Terry predicts (%),84.41666666666667,,,
+gemini,prediction,add-one ranking: pairs as Bradley-Terry predicts (%),81.26984126984127,,,
+gemini,prediction,paraphrased question: pairs as Bradley-Terry predicts (%),85.44444444444446,,,
+gemini,prediction,held-out pair majority predicted by Bradley-Terry (%),85.56338028169014,,,
+gemini,reversal,% of strong pairwise preferences (>=5 of 6) reversed in the full ranking,6.550218340611353,,,229 strong pairs
+gemini,context,"flips of otherwise unanimous pairs: drop, no filler (%)",2.925531914893617,,,n=752
+gemini,context,"flips of otherwise unanimous pairs: drop, filler (%)",,,,n=0
+gemini,context,flips of otherwise unanimous pairs: add (%),1.4184397163120568,,,n=564
+gemini,context,flips of otherwise unanimous pairs: repeat (%),0.9700176366843032,,,n=2268
+gemini,paraphrase,"Kendall tau, paraphrase vs original (same order)",0.731111111111111,,,
+gemini,paraphrase,tau difference: paraphrase minus identical repeat,-0.0182336182336182,-0.0777777777777777,0.0398860398860398,

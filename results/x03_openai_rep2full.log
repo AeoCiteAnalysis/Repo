@@ -1,0 +1,22 @@
+openai: 501 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\replay\openai\20260927
+  25/501  p_9a879e9c63: 0 queries, 0 consulted, 0 cited
+  50/501  p_e1be031d13: 0 queries, 0 consulted, 0 cited
+  75/501  p_f7b6ca704e: 0 queries, 0 consulted, 0 cited
+  100/501  p_9a8f8cace8: 4 queries, 26 consulted, 2 cited
+  125/501  p_02887c840f: 4 queries, 35 consulted, 3 cited
+  150/501  p_d7ef34ed4a: 4 queries, 29 consulted, 3 cited
+  175/501  p_6018025a7f: 4 queries, 24 consulted, 1 cited
+  200/501  p_bbfa001878: 2 queries, 17 consulted, 1 cited
+  225/501  p_e20ca4843c: 4 queries, 23 consulted, 1 cited
+  250/501  p_30454b361c: 4 queries, 21 consulted, 1 cited
+  275/501  p_31599508d2: 0 queries, 0 consulted, 0 cited
+  300/501  p_fe3deb9894: 1 queries, 26 consulted, 2 cited
+  325/501  p_82cb86a389: 8 queries, 45 consulted, 4 cited
+  350/501  p_5ad283f674: 4 queries, 31 consulted, 3 cited
+  375/501  p_e98db3c72c: 4 queries, 36 consulted, 2 cited
+  400/501  p_0b4e2992a7: 12 queries, 72 consulted, 5 cited
+  425/501  p_a4bedd2fc2: 4 queries, 22 consulted, 2 cited
+  450/501  p_313a6d7708: 0 queries, 0 consulted, 0 cited
+  475/501  p_e89f1df9ee: 3 queries, 21 consulted, 3 cited
+  500/501  p_07428e77b2: 8 queries, 51 consulted, 3 cited
+done 501, failed 0
