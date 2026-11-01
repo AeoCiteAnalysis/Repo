@@ -1,0 +1,16 @@
+date,engine,measure,median_before,median_after
+20260701,GEMINI,pct_no_citations,9.09,12.73
+20260706,GEMINI,pct_no_citations,12.73,7.27
+20260708,GEMINI,n_unresolved_redirects,27.0,19.0
+20260716,GEMINI,n_unresolved_redirects,19.0,28.0
+20260723,GEMINI,pct_no_citations,10.91,23.64
+20260724,GEMINI,n_unresolved_redirects,27.0,19.0
+20260726,GEMINI,n_unresolved_redirects,28.0,19.0
+20260825,GEMINI,pct_no_citations,16.36,21.82
+20260826,GEMINI,n_unresolved_redirects,20.0,0.0
+20260920,GEMINI,pct_no_citations,20.0,14.55
+20260929,GEMINI,pct_no_citations,20.0,14.55
+20260712,PERPLEXITY,avg_citations,2.38,0.0
+20260722,PERPLEXITY,avg_answer_chars,3094.36,1991.73
+20260730,PERPLEXITY,avg_citations,0.27,0.0
+20260930,PERPLEXITY,avg_answer_chars,1960.95,2907.0

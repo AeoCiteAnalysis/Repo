@@ -1,0 +1,16 @@
+engine,support,in_prior,rows,pct_mentioned
+Gemini,own page cited,True,1284,100.0
+Gemini,own page cited,False,962,100.0
+Gemini,third-party page naming it cited,True,2240,35.3125
+Gemini,third-party page naming it cited,False,885,6.666666666666667
+Gemini,no cited page naming it,True,7816,6.729785056294781
+Gemini,no cited page naming it,False,11113,2.249617565013948
+ChatGPT,own page cited,True,29,100.0
+ChatGPT,own page cited,False,422,100.0
+ChatGPT,third-party page naming it cited,True,80,85.0
+ChatGPT,third-party page naming it cited,False,185,28.64864864864865
+ChatGPT,no cited page naming it,True,701,12.553495007132668
+ChatGPT,no cited page naming it,False,22883,1.44648865970371
+Perplexity,own page cited,,34,100.0
+Perplexity,third-party page naming it cited,,61,59.01639344262295
+Perplexity,no cited page naming it,,24205,13.716174344143772

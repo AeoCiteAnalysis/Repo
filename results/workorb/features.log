@@ -1,0 +1,57 @@
+round 2026-09-27: parsing 7117 pages
+  parsed 1000/7117
+  parsed 2000/7117
+  parsed 3000/7117
+  parsed 4000/7117
+  parsed 5000/7117
+  parsed 6000/7117
+  parsed 7000/7117
+parsed 7117, failed 0
+  embedded 200/7117 pages
+  embedded 400/7117 pages
+  embedded 600/7117 pages
+  embedded 800/7117 pages
+  embedded 1000/7117 pages
+  embedded 1200/7117 pages
+  embedded 1400/7117 pages
+  embedded 1600/7117 pages
+  embedded 1800/7117 pages
+  embedded 2000/7117 pages
+  embedded 2200/7117 pages
+  embedded 2400/7117 pages
+  embedded 2600/7117 pages
+  embedded 2800/7117 pages
+  embedded 3000/7117 pages
+  embedded 3200/7117 pages
+  embedded 3400/7117 pages
+  embedded 3600/7117 pages
+  embedded 3800/7117 pages
+  embedded 4000/7117 pages
+  embedded 4200/7117 pages
+  embedded 4400/7117 pages
+  embedded 4600/7117 pages
+  embedded 4800/7117 pages
+  embedded 5000/7117 pages
+  embedded 5200/7117 pages
+  embedded 5400/7117 pages
+  embedded 5600/7117 pages
+  embedded 5800/7117 pages
+  embedded 6000/7117 pages
+  embedded 6200/7117 pages
+  embedded 6400/7117 pages
+  embedded 6600/7117 pages
+  embedded 6800/7117 pages
+  embedded 7000/7117 pages
+  embedded 7117/7117 pages
+wrote 7117 rows -> data/tables/page_features.csv
+page_type
+article            2636
+list               1449
+other              1379
+how-to              780
+comparison          331
+support/help        260
+review list         108
+product/service     100
+pricing/plans        61
+forum                13

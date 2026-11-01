@@ -1,0 +1,883 @@
+brand,domain,role,confidence,note,citations
+Flowcase,flowcase.com,competitor,sure,llm: proposal and bid management software,3246
+,youtube.com,third_party,sure,llm: video hosting and streaming platform,2523
+Responsive,responsive.io,competitor,sure,llm: proposal and RFP response software,1261
+AutoGenAI,autogenai.com,competitor,sure,llm: AI proposal and RFP response software,1106
+SiftHub,sifthub.io,competitor,likely,llm: proposal/RFP software and related content,1081
+Inventive AI,inventive.ai,competitor,sure,llm: AI proposal automation and sales enablement software,847
+,kantiv.com,third_party,sure,llm: marketing and consulting services,719
+QorusDocs,qorusdocs.com,competitor,sure,llm: proposal and document automation software,690
+SparrowGenie,sparrowgenie.com,competitor,sure,llm: AI RFP response software,669
+Monograph,monograph.com,competitor,sure,llm: architecture firm business management software,655
+Bidara,bidara.ai,competitor,likely,llm: AI proposal software,647
+Arphie,arphie.ai,competitor,sure,llm: AI software for RFPs and proposal responses,626
+Proposify,proposify.com,competitor,sure,llm: proposal and quote software,539
+,gartner.com,third_party,sure,llm: research and advisory services,512
+,medium.com,third_party,sure,llm: publishing and blogging platform,509
+Contravault,contravault.com,competitor,likely,llm: AI RFP and bidding software content/tools,484
+,reddit.com,third_party,sure,llm: community discussion forums,481
+Milient Software,milientsoftware.com,competitor,sure,"llm: project management and practice management software for architecture, engineerin",456
+,autodesk.com,third_party,sure,llm: design and construction software,442
+AutoRFP.ai,autorfp.ai,competitor,sure,llm: AI proposal and RFP response software,421
+Civio,civio.ai,competitor,sure,llm: AI proposal and RFP response software,406
+Deltek,deltek.com,competitor,sure,"llm: ERP, project management, and business software for professional services and pro",398
+Better Proposals,betterproposals.io,competitor,sure,llm: proposal software,397
+GetAccept,getaccept.com,competitor,sure,llm: sales proposal and contract management software,395
+Thalamus,thalamushq.ai,competitor,sure,llm: AI proposal and RFP response software,386
+,cs.toronto.edu,third_party,sure,llm: computer science department content,383
+RFP.ai,rfp.ai,competitor,sure,llm: AI RFP response software,350
+Tenderbolt,tenderbolt.ai,competitor,sure,llm: AI RFP and proposal software,349
+,zapier.com,third_party,sure,llm: workflow automation and app integrations,344
+,apmp.org,third_party,sure,llm: proposal and bid management resources and membership for proposal professionals,340
+,oneflow.com,third_party,sure,llm: contract automation and e-signature software,319
+,g2.com,third_party,sure,llm: software reviews and marketplace listings,317
+Propal,propal.io,competitor,sure,llm: proposal management software,302
+,quantumbyte.ai,third_party,likely,llm: AI software and services,300
+Flodoc,flodoc.ai,competitor,sure,llm: AI proposal software for AEC firms,291
+,procore.com,third_party,sure,llm: construction management software,271
+Hey Iris,heyiris.ai,competitor,sure,llm: AI proposal and RFP software,263
+PASconcept,pasconcept.com,competitor,sure,llm: ERP and proposal management software for AEC firms,259
+Tribble,tribble.ai,competitor,sure,llm: AI proposal and RFP response software,249
+ikaun,ikaun.com,competitor,sure,llm: AEC proposal and business development software,234
+,read.ai,third_party,sure,llm: AI meeting assistant and workplace analytics software,233
+,dancumberlandlabs.com,third_party,sure,llm: AI consulting and software services,218
+Upland Software,uplandsoftware.com,competitor,sure,"llm: enterprise software, including proposal/RFP automation",218
+,projectworks.com,third_party,sure,llm: project management and business management software for professional services fi,215
+DeepRFP,deeprfp.com,competitor,sure,llm: RFP response and proposal automation software,212
+PandaDoc,pandadoc.com,competitor,sure,"llm: document automation and e-signature software, including proposal software",211
+,glean.com,third_party,sure,llm: enterprise AI search and knowledge management software,206
+,trimble.com,third_party,sure,llm: construction software and connected construction/field and project management to,205
+Sequesto,sequesto.com,competitor,sure,llm: RFP response and bid management software,205
+,aecplustech.com,third_party,sure,llm: AEC software reviews and tool directories,203
+,erpfocus.com,third_party,sure,llm: ERP reviews and comparison content,201
+,stambaughness.com,third_party,sure,llm: AEC consulting and technology solutions,189
+,bloomfire.com,third_party,sure,llm: knowledge management software,186
+,factorapp.com,third_party,likely,llm: project management software,185
+,ifs.com,third_party,sure,"llm: ERP, EAM, and enterprise software for industrial and construction companies",179
+Xait,xait.com,competitor,sure,llm: proposal and bid management software,177
+,daminion.net,third_party,sure,llm: digital asset management software,174
+ProcureSpark,procurespark.ai,competitor,likely,llm: AI procurement and proposal/RFP software,173
+,nomic.ai,third_party,sure,llm: AI data and embedding platform,166
+,dropbox.com,third_party,sure,llm: cloud file storage and collaboration software,162
+,dev.to,third_party,sure,llm: publishing/community platform for developers,159
+RFPM,rfpm.ai,competitor,sure,llm: proposal/RFP management software,159
+,egnyte.com,third_party,sure,llm: file content management and secure collaboration software,157
+,monday.com,third_party,sure,llm: Work management and project management software,155
+,thedigitalprojectmanager.com,third_party,sure,llm: project management content and software reviews,151
+,coworker.ai,third_party,sure,llm: AI knowledge management software,151
+Proposal.biz,proposal.biz,competitor,sure,llm: proposal and RFP-response software,148
+,techtarget.com,third_party,sure,llm: media and analyst content,148
+,albato.com,third_party,sure,llm: workflow automation and app integrations,146
+,en.wikipedia.org,third_party,sure,llm: an online encyclopedia and reference site,145
+Offorte,offorte.com,competitor,sure,llm: proposal software,144
+Ask MOA,askmoa.ai,competitor,sure,llm: AI proposal automation software for AEC firms,141
+,prnewswire.com,third_party,sure,llm: press release distribution and PR services,139
+Steerlab,steerlab.ai,competitor,sure,llm: AI software for RFP and proposal workflows,136
+,getapp.com,third_party,sure,llm: software reviews and comparisons marketplace,134
+COBL,cobl.ai,competitor,sure,llm: AI proposal software,134
+,aechub.org,third_party,sure,llm: AEC industry content and research,133
+Anchor AI,getanchor.ai,competitor,sure,llm: AI software for proposal/RFP response and document intelligence,133
+,actionsync.ai,third_party,likely,llm: AI knowledge management and search software,132
+,capterra.com,third_party,sure,llm: software reviews and listings marketplace,129
+,atlasworkspace.ai,third_party,likely,llm: AI workspace and knowledge management software,128
+,guideflow.com,third_party,sure,llm: interactive product demos and demo software,126
+Jinba,jinba.io,competitor,likely,llm: proposal automation / AI software for business workflows,125
+Foveate,foveate.com,competitor,sure,llm: AI proposal and business development software for AEC firms,125
+Treblehook,treblehook.com,competitor,likely,llm: AEC project data and business software,124
+,celum.com,third_party,sure,llm: digital asset management software,123
+,wrike.com,third_party,sure,llm: project management and work management software,119
+VisibleThread,visiblethread.com,competitor,sure,llm: proposal response and content management software,117
+,kminstitute.org,third_party,sure,llm: knowledge management education and content,116
+,construction.autodesk.com,third_party,sure,llm: AEC construction management software and document/data collaboration tools,115
+,wispaper.ai,third_party,sure,llm: AI paper checking and editing software,115
+Joist,joist.com,competitor,sure,llm: contractor business management software,114
+,softwareadvice.com,third_party,sure,llm: software reviews and software buying guidance,113
+,hinzconsulting.com,third_party,sure,llm: proposal consulting and writing services,113
+Eagle,goveagle.com,competitor,sure,llm: proposal and RFP response software for government contractors,112
+Expedience Software,expediencesoftware.com,competitor,sure,llm: proposal automation and content management software,112
+,plutio.com,third_party,sure,llm: all-in-one business management software for freelancers and small teams,111
+Qwilr,qwilr.com,competitor,sure,llm: proposal and sales document software,109
+,v7labs.com,third_party,sure,llm: AI data annotation and computer vision software,107
+,atlassian.com,third_party,sure,"llm: project management, collaboration, and workflow software",107
+Blueberry AI,blueberry-ai.com,competitor,likely,llm: digital asset management software,105
+,erpresearch.com,third_party,sure,llm: ERP research and consulting content,104
+ProjectMark,projectmark.com,competitor,sure,llm: proposal and business development software for AEC firms,103
+PropAgent,propagent.ai,competitor,sure,llm: AI proposal management software for AEC firms,103
+,lohfeldconsulting.com,third_party,sure,llm: proposal and business development consulting services,102
+,checkthat.ai,third_party,sure,llm: AI search and comparison content for software brands,101
+,messinagroupinc.com,third_party,sure,llm: digital transformation and AI consulting services,100
+,seismic.com,third_party,sure,llm: sales enablement and content management software,99
+,deckary.com,third_party,sure,llm: AI document review and summarization software,98
+,aecmag.com,third_party,sure,llm: AEC industry news and editorial content,98
+1up,1up.ai,competitor,sure,llm: AI-powered RFP response software,97
+,goodday.work,third_party,sure,llm: project management software,97
+,fieldwire.com,third_party,sure,llm: construction management software,97
+,hubspot.com,third_party,sure,"llm: CRM, sales, marketing, and customer service software",97
+,integrately.com,third_party,sure,llm: workflow automation and app integrations,95
+,micromenders.com,third_party,sure,llm: IT services and support,95
+Projectory,projectory.ai,competitor,sure,llm: proposal automation software,94
+,learn.microsoft.com,third_party,sure,"llm: software, cloud services, and documentation",94
+Proposal Helper,proposalhelper.com,competitor,likely,llm: proposal writing and proposal automation services/software,94
+,aecfoundry.com,third_party,sure,llm: AEC AI consulting and software services,93
+Procurement Sciences,procurementsciences.com,competitor,sure,llm: procurement and bid management software,93
+,meilisearch.com,third_party,sure,llm: open-source and hosted search engine / search infrastructure,92
+,novatr.com,third_party,sure,llm: AEC upskilling and training programs,92
+,bentley.com,third_party,sure,llm: AEC infrastructure and engineering software,91
+,sumble.com,third_party,sure,llm: sales intelligence and company/contact data,91
+,apagen.com,third_party,likely,llm: construction software and consulting services,91
+,rfpaihub.com,third_party,likely,llm: RFP/proposal software content and comparisons,90
+,arkance.world,third_party,sure,llm: AEC and construction technology solutions and software services,90
+,constructconnect.com,third_party,sure,llm: construction software and data services,90
+,hebbia.com,third_party,sure,llm: AI enterprise search and knowledge discovery software,90
+,theaecassociates.com,third_party,sure,llm: AEC consulting and digital solutions,89
+BidHawk,blog.bidhawk.ai,competitor,sure,llm: proposal and bid management software,89
+,hive.com,third_party,sure,llm: project management and productivity software,88
+,ecosystem.hubspot.com,third_party,sure,"llm: CRM, marketing, and sales software marketplace",87
+,ailucius.com,third_party,sure,llm: AI tools and services for tender/compliance writing,86
+,support.procore.com,third_party,sure,llm: construction management software,85
+,filevine.com,third_party,sure,llm: legal case management and workflow software,85
+,hso.com,third_party,sure,"llm: business and IT consulting, Microsoft solutions, and enterprise software impleme",83
+,microsoft.com,third_party,sure,llm: software and cloud services,83
+LotusPetal AI,lotuspetal.ai,competitor,likely,llm: AI proposal and RFP-response software,83
+,scoro.com,third_party,sure,"llm: business management software (project management, CRM, ERP, time/budgeting)",83
+,certified-nets.com,third_party,likely,llm: IT and collaboration tools for architects/design teams,82
+,cmicglobal.com,third_party,sure,llm: construction management software,82
+,support.microsoft.com,third_party,sure,llm: software and cloud productivity tools,82
+,clockify.me,third_party,sure,llm: time tracking and timesheet software,80
+RoboReg,roboreg.ca,competitor,likely,llm: AI/regtech software for proposal and document workflow automation,78
+Unanet,unanet.quantum-intl.com,competitor,sure,llm: Unanet software and related documentation/services,78
+,getharvest.com,third_party,sure,llm: time tracking and project management software,78
+,cons4arch.com,third_party,likely,llm: construction and architecture consulting/software services,78
+,net-effect.com,third_party,likely,llm: AEC digital transformation and consulting services,77
+Capture Planning,captureplanning.com,competitor,sure,llm: proposal and capture planning software/services,77
+,salesforce.com,third_party,sure,llm: CRM and sales/service software,77
+,builtworlds.com,third_party,sure,"llm: AEC industry media, research, and networking content",76
+,scite.ai,third_party,sure,llm: research citation analysis and AI literature search tools,76
+RenderDraw,renderdraw.com,competitor,likely,llm: proposal/RFP workflow software for AEC,74
+,kontainer.com,third_party,sure,llm: digital asset management software,74
+EarlyBird,myearlybird.ai,competitor,sure,llm: AI software for proposal writing,74
+,timecamp.com,third_party,sure,llm: time tracking and productivity software,74
+,stackwise.site,third_party,likely,llm: AI software for document intelligence and RAG workflows,74
+,picajet.com,third_party,likely,llm: digital asset management and related AI content services,73
+,appexchange.salesforce.com,third_party,sure,llm: app marketplace and business software apps,72
+,erpsoftwareblog.com,third_party,sure,llm: ERP-related content and comparisons,72
+,paperguide.ai,third_party,sure,llm: AI research and reference/citation management software,71
+SOPX,sopx.io,competitor,likely,llm: proposal and knowledge management software for AEC firms,70
+,aec.technology,third_party,sure,llm: AEC technology consulting and digital transformation services,70
+,project-management.com,third_party,sure,llm: project management content and software reviews,70
+TenderPilot,trytenderpilot.com,competitor,sure,llm: tender/bid management software for construction and AEC teams,70
+Noumi,noumi.ai,competitor,likely,llm: AI proposal-writing and related workflow software,70
+,playbook.com,third_party,likely,llm: digital asset management and creative file organization software,69
+,doxis.com,third_party,sure,llm: document management and intelligent information management software,69
+,learn.g2.com,third_party,sure,llm: software reviews and buyer guides,68
+,lindy.ai,third_party,sure,llm: AI agent and workflow automation software,68
+,bbehmermedia.com,third_party,sure,llm: marketing/content services,67
+Sweetspot,sweetspot.so,competitor,sure,llm: proposal software and AI proposal generation tools,67
+Polrai,polrai.com,competitor,sure,llm: AI proposal and marketing software for AEC firms,67
+,exoplatform.com,third_party,sure,llm: enterprise collaboration and knowledge management software,67
+,manus.im,third_party,sure,llm: AI assistant / general-purpose automation agent,67
+,oneteg.com,third_party,likely,llm: construction software and field service management tools,67
+,himalayas.app,third_party,sure,llm: job search and company information platform,67
+,axerosolutions.com,third_party,sure,llm: employee intranet and digital workplace software,67
+,peerspot.com,third_party,sure,llm: peer reviews and software comparison/research platform,66
+,mindstudio.ai,third_party,sure,llm: AI app and workflow automation software,66
+,bfs-industries.com,third_party,likely,llm: industrial and facility services/equipment,66
+,mediavalet.com,third_party,sure,llm: digital asset management software,66
+coposal,coposal.com,competitor,sure,llm: proposal software for managing proposals and CRM-related workflows,65
+,engineeringmanagementinstitute.org,third_party,sure,"llm: AEC education, training, and industry content",65
+,onyx.app,third_party,sure,llm: enterprise search and AI knowledge retrieval software,64
+,onesuite.io,third_party,sure,llm: project management and CRM software,64
+,commercial-consulting.co.uk,third_party,sure,llm: commercial consulting and bid/proposal guidance,64
+StepScale,stepscale.ai,competitor,sure,llm: AI-powered proposal and RFP response software,64
+,buildertrend.com,third_party,sure,llm: construction management software for contractors,64
+,arch.tamu.edu,third_party,sure,llm: architecture and construction education,64
+Pozal AI,pozal.ai,competitor,likely,llm: AI proposal and RFP response software,63
+,bynder.com,third_party,sure,llm: digital asset management software,63
+Canto,canto.com,competitor,sure,llm: digital asset management (DAM) software,63
+12d Synergy,12dsynergy.com,competitor,sure,llm: AEC document and project information management software,62
+HummingDeck,hummingdeck.com,competitor,likely,llm: proposal and business development software for AEC firms,62
+,buildingventures.com,third_party,sure,llm: venture capital / investments,62
+,smartsheet.com,third_party,sure,llm: work management and project management software,62
+Stargazy,stargazy.io,competitor,likely,llm: proposal software and RFP/proposal tech content/tools,61
+,kmslh.com,third_party,sure,llm: knowledge management and workplace productivity software,60
+Proposia,proposia.ai,competitor,sure,llm: AI proposal-writing software,60
+Pitchflow,mypitchflow.com,competitor,likely,llm: proposal and pitch management software,59
+,millergraphics.com,third_party,sure,llm: digital print and marketing services,59
+CMAP,cmap.io,competitor,sure,"llm: CRM and business development software for architecture, engineering, and constru",58
+BuildVision AI,buildvisionai.com,competitor,likely,llm: construction proposal and bidding software,58
+,alpha-sense.com,third_party,sure,llm: market intelligence and enterprise search software,57
+,weberassoc.com,third_party,sure,"llm: architecture, engineering, and consulting services",57
+,oracle.com,third_party,sure,"llm: enterprise software, including construction project management/ERP tools",57
+,openai.com,third_party,sure,llm: AI models and AI software/platforms,57
+,gosearch.ai,third_party,sure,llm: AI enterprise search and knowledge management software,57
+Cypress AI,cypressai.co,competitor,sure,llm: AI software for RFP/proposal response and related workflow automation,57
+,knowledge.hubspot.com,third_party,sure,llm: CRM and marketing/sales software,57
+,juro.com,third_party,sure,llm: contract automation software,56
+,brandfolder.com,third_party,sure,llm: digital asset management (DAM) software,56
+,fileorbis.com,third_party,sure,llm: enterprise file management and document/content governance software,56
+,softwareconnect.com,third_party,sure,llm: software reviews and comparison guides,56
+,zweiggroup.com,third_party,sure,"llm: AEC consulting, research, training, and media",56
+,buildfitters.com,third_party,likely,llm: construction bid/proposal management content and services,56
+,paymoapp.com,third_party,sure,llm: project management and time tracking software,56
+,wonderstruct.co,third_party,sure,llm: AEC consulting and services,56
+,elicit.com,third_party,sure,llm: AI research and writing tools,55
+,sage.com,third_party,sure,"llm: accounting, ERP, and construction management software",55
+,transfunnel.com,third_party,sure,llm: HubSpot consulting and integrations,55
+EA Global,eaglobal.ai,competitor,likely,"llm: AI software for RFP, tender, and bid/proposal automation",55
+,clickhelp.com,third_party,sure,llm: knowledge base and technical writing software,55
+,domo.com,third_party,sure,llm: business intelligence and data analytics software,55
+,consensus.app,third_party,sure,llm: AI research and paper search tools,55
+,imagebankx.com,third_party,sure,llm: digital asset management (DAM) software,55
+,viasocket.com,third_party,sure,llm: automation and workflow integration software,54
+,eurostep.com,third_party,sure,llm: product lifecycle management and digital thread software,54
+Cincom,cincom.com,competitor,sure,llm: CPQ and proposal automation software,54
+,ci-hub.com,third_party,sure,llm: digital asset management and integration software,54
+,datagrid.com,third_party,likely,llm: data management and AI software,54
+,perplexity.ai,third_party,sure,llm: AI search and answer assistant software,54
+,speckle.systems,third_party,sure,llm: AEC data collaboration and model management software,54
+,usewonderful.com,third_party,likely,llm: AI-powered CRM and revenue operations software,53
+Deltek (ParisTech site),paristech.com,competitor,likely,llm: ERP and project management software for project-based businesses,53
+BidResponder,bidresponder.com,competitor,sure,llm: proposal/RFP response software,53
+,redteamconsulting.com,third_party,sure,llm: consulting and proposal services,53
+,aprimo.com,third_party,sure,llm: digital asset management and marketing operations software,53
+TotalSynergy,totalsynergy.com,competitor,sure,llm: AEC practice management and project accounting software,53
+,lcmd.io,third_party,likely,llm: construction project management software,53
+,frontify.com,third_party,sure,llm: digital asset management and brand management software,53
+FeatPaper,featpaper.io,competitor,likely,llm: AI proposal software,53
+,strativera.com,third_party,likely,llm: marketing and CRM integration consulting/software services,52
+,globenewswire.com,third_party,sure,llm: press release distribution service,52
+,graitec.com,third_party,sure,llm: AEC and manufacturing software and services,52
+GetAlai,getalai.com,competitor,sure,llm: AI sales proposal software,52
+,birdviewpsa.com,third_party,sure,llm: professional services automation (PSA) software,52
+,ictworks.org,third_party,sure,"llm: ICT-focused articles, analysis, and community content",52
+,mkrcpas.com,third_party,sure,llm: CPA and accounting services for construction-related businesses,51
+Winning the Business,winningthebusiness.com,competitor,likely,llm: proposal and business development resources/software for AEC and professional se,51
+,solutionsreview.com,third_party,sure,llm: software reviews and comparisons,50
+,blog.hagerman.com,third_party,sure,"llm: AEC technology and services, including CAD/BIM software solutions and consulting",50
+,metam.tech,third_party,likely,llm: AEC digital services and software solutions,50
+Conveyor,conveyor.com,competitor,sure,llm: AI RFP response software,50
+,library.hkust.edu.hk,third_party,sure,llm: university library and research services,49
+Pwin,pwin.ai,competitor,sure,llm: AI proposal and RFP response software,49
+AutoProposal,autoproposal.io,competitor,likely,llm: AI proposal automation software for businesses,49
+,scaleflex.com,third_party,sure,llm: digital asset management and media optimization software,49
+Response Now,responsenow.co,competitor,sure,llm: proposal and RFP response software,48
+,agiled.app,third_party,sure,llm: business management and CRM software,48
+,teraopenscience.com,third_party,likely,llm: knowledge management software,48
+,llamaindex.ai,third_party,sure,llm: AI infrastructure and developer tools,48
+,enterprise-knowledge.com,third_party,sure,llm: knowledge management consulting and enterprise information services,48
+,help.autodesk.com,third_party,sure,llm: construction and design software,47
+,business.adobe.com,third_party,sure,"llm: enterprise content management, digital asset management, and experience manageme",47
+Cassidy AI,cassidyai.com,competitor,likely,llm: AI automation software for knowledge work and proposals,47
+,extend.ai,third_party,sure,llm: AI workflow automation and document processing software,47
+,help.openai.com,third_party,sure,llm: AI software and ChatGPT support services,46
+BreezeDocs,breezedocs.ai,competitor,likely,llm: RFP response automation software,46
+Realm,withrealm.com,competitor,sure,llm: RFP/proposal automation software,46
+,arxiv.org,third_party,sure,llm: preprint research papers archive,46
+,workhuman.com,third_party,sure,llm: employee recognition and rewards software,45
+Bid Solutions,bidsolutions.com,competitor,sure,llm: proposal and bid management software,45
+IFS,blog.ifs.com,competitor,sure,llm: ERP and enterprise software for industrial and construction-related businesses,45
+Rohirrim,rohirrim.ai,competitor,sure,llm: AI proposal-response software for RFPs and related sales/proposal workflows,45
+,engineeringsoftwaretrials.com,third_party,likely,llm: software trial reviews and comparisons for engineering/AEC software,44
+,ignitionapp.com,third_party,sure,"llm: proposal, quoting, and client agreement software for service businesses",44
+,rib-software.com,third_party,sure,llm: construction and engineering software,44
+,tmetric.com,third_party,sure,llm: time tracking and expense tracking software,44
+Deltek,help.deltek.com,competitor,sure,"llm: AEC ERP, CRM, and project management software",43
+,stackai.com,third_party,sure,llm: AI workflow automation and agent-building software,43
+,stravito.com,third_party,sure,llm: knowledge management and enterprise search software,43
+AltaFlow,altaflow.com,competitor,likely,llm: proposal automation software,43
+,citely.ai,third_party,sure,llm: AI citation checking and verification software,43
+,ingenious.build,third_party,likely,llm: construction software / AI construction management software,43
+,panorama-consulting.com,third_party,sure,llm: ERP consulting and implementation services,43
+Ittariv AI,ittariv.ai,competitor,likely,llm: AI software for proposal/RFP and knowledge management workflows,43
+,ovaledge.com,third_party,sure,llm: data governance and catalog software,42
+,ustechautomations.com,third_party,sure,llm: automation and consulting services,42
+DocBeacon,docbeacon.io,competitor,sure,llm: proposal tracking software and related proposal management tools,42
+,ravenna.ai,third_party,likely,llm: AI knowledge management and support software,42
+,asana.com,third_party,sure,llm: project management and work management software,42
+BidHawk,bidhawk.ai,competitor,sure,llm: AI RFP and proposal software,42
+,flozic.ai,third_party,sure,llm: AI workflow automation software,42
+,kimi.ai,third_party,sure,llm: AI assistant and research/chat software,42
+,n8n.io,third_party,sure,llm: workflow automation and integration software,42
+,wmkagency.com,third_party,sure,llm: marketing agency services,41
+Knowledge Architecture,knowledge-architecture.com,competitor,sure,llm: knowledge management software for AEC firms,41
+,archdesk.com,third_party,sure,llm: construction management software,41
+,baserow.io,third_party,sure,llm: low-code database and workflow software,41
+,exptechnical.com,third_party,likely,llm: technical consulting and software/services for AEC project data and related work,41
+,kore.ai,third_party,sure,llm: conversational AI and enterprise AI agent software,40
+,capstonees.com,third_party,likely,llm: engineering services and consulting,40
+Wonit,wonit.ai,competitor,sure,llm: AI proposal and bid intelligence software,40
+,united-bim.com,third_party,likely,llm: BIM services and software/content for AEC,40
+,beyondsoftware.com,third_party,sure,llm: professional services automation and ERP software,39
+,marketplace.microsoft.com,third_party,sure,llm: software marketplace listings for third-party apps,39
+Yoop Knows,yoopknows.com,competitor,likely,llm: proposal and document automation software,39
+,projectmanager.com,third_party,sure,llm: project management software,39
+,productive.io,third_party,sure,llm: agency and professional services management software,39
+,forbes.com,third_party,sure,llm: media and business information,39
+,projectinsight.com,third_party,sure,llm: project portfolio and project management software,39
+Lorka,lorka.ai,competitor,likely,llm: AI proposal and business proposal writing software,39
+Concord CRM,concordcrm.com,competitor,sure,llm: CRM software with proposal management,39
+,taskade.com,third_party,sure,llm: AI productivity and workflow automation software,39
+,templafy.com,third_party,sure,llm: document automation and template management software,38
+,community.onlyoffice.com,third_party,sure,llm: document collaboration and office productivity software,38
+,blogs.dimensionless.ai,third_party,sure,llm: AI software for proposal and content management,38
+AgencyPitch,agencypitch.io,competitor,sure,llm: proposal and pitch software for agencies,38
+,slack.com,third_party,sure,llm: team communication and collaboration software,38
+,researchgate.net,third_party,sure,llm: research networking and publication sharing platform,38
+,grouppmx.com,third_party,sure,llm: AEC project management and construction management software/services,38
+,clickup.com,third_party,sure,llm: project management and productivity software,37
+ProShort,proshort.ai,competitor,likely,llm: AI proposal and sales enablement software,37
+,rfpschoolwatch.com,third_party,likely,llm: RFP/proposal education and content resources,37
+,remoteae.com,third_party,likely,llm: AEC-focused recruiting and staffing services,37
+,zoho.com,third_party,sure,"llm: business software suite (CRM, finance, automation, collaboration, and related ap",37
+Virtuall,virtuall.pro,competitor,likely,llm: digital asset management software,37
+Trussnote,trussnote.com,competitor,likely,llm: proposal and business development software for AEC firms,37
+RFP Ninja,rfpninja.com,competitor,sure,llm: RFP response software,36
+,specuwin.com,third_party,likely,llm: AEC estimating and construction software,36
+,academy.openai.com,third_party,sure,llm: AI software and training resources,36
+,buildtwin.com,third_party,likely,llm: BIM/digital twin software for AEC,36
+,help.dropbox.com,third_party,sure,llm: cloud file storage and collaboration software,36
+,ttms.com,third_party,sure,llm: enterprise IT and digital transformation services,36
+Proposerly,proposerly.com,competitor,sure,llm: proposal and RFP response software,36
+Prolifiq,prolifiq.com,competitor,sure,llm: sales proposal software,36
+,enterprisesoftwarereview.com,third_party,sure,llm: software reviews and comparisons,36
+Strytis,strytis.com,competitor,sure,llm: proposal and bid management software for construction,36
+,storyflow.so,third_party,likely,llm: digital asset and content management software,36
+,teamwork.com,third_party,sure,llm: project management and collaboration software,36
+,fast.io,third_party,sure,llm: cloud file storage and delivery,36
+,slickplan.com,third_party,sure,llm: website planning and visual sitemap software,36
+,findstack.com,third_party,sure,llm: software comparison and review platform,36
+,websiteplanet.com,third_party,sure,llm: website reviews and comparisons,35
+,aia.org,third_party,sure,llm: architecture industry association resources and advocacy,35
+,mangoapps.com,third_party,sure,llm: workplace collaboration and intranet software,35
+,mckinsey.com,third_party,sure,llm: management consulting services,35
+,marketplace.bynder.com,third_party,sure,llm: digital asset management and brand management software,35
+,bouwflow.be,third_party,sure,llm: construction management software,35
+,slite.com,third_party,sure,llm: team knowledge base and documentation software,34
+,rfp.wiki,third_party,sure,llm: RFP response and software vendor comparison info,34
+,cognism.com,third_party,sure,llm: sales intelligence and B2B lead generation software,34
+,resources.imaginit.com,third_party,sure,llm: AEC software and technology services,34
+,reco.works,third_party,sure,llm: knowledge management and expertise retention software,34
+,ibm.com,third_party,sure,"llm: enterprise software, AI, cloud, and IT services",34
+,statisfy.com,third_party,sure,llm: knowledge management software,33
+,12d.co,third_party,sure,llm: civil engineering and surveying software,33
+RFP Engine,rfp-engine.com,competitor,sure,llm: RFP response automation software,33
+MyProposal,myproposal.app,competitor,sure,llm: proposal software,33
+KyznFlow,kyznflow.ai,competitor,likely,llm: proposal automation software,33
+BidReview,bidreview.ai,competitor,likely,llm: AI bid and tender software,33
+,gep.com,third_party,sure,llm: procurement and supply chain software/services,33
+,trustpilot.com,third_party,sure,llm: customer review platform,33
+,eazybe.com,third_party,sure,llm: WhatsApp sales and CRM tools for businesses,32
+,smarterway.ai,third_party,likely,llm: AI automation and sales/CRM workflow software,32
+,onetrace.com,third_party,sure,llm: construction project management software,32
+,cingularis.com,third_party,likely,llm: proposal and marketing services/software for firms,32
+,cyntexa.com,third_party,sure,llm: Salesforce consulting and implementation services,32
+RFP Response Builder,rfpresponsebuilder.com,competitor,sure,llm: RFP response software,32
+,connecting-software.com,third_party,sure,llm: integration/connector software for business apps and cloud services,31
+,cloudtalk.io,third_party,sure,llm: cloud call center and sales communication software,31
+,sourcely.net,third_party,sure,llm: citation and research assistance software,31
+,skyvia.com,third_party,sure,llm: data integration and ETL/iPaaS software,31
+,uibakery.io,third_party,sure,llm: low-code app development platform,31
+,americanbar.org,third_party,sure,"llm: legal association membership, resources, and publications",31
+Pelles,pelles.ai,competitor,likely,llm: AI proposal and document automation software for AEC firms,31
+,stockpress.co,third_party,sure,llm: digital asset management software,30
+,constructionbids.ai,third_party,likely,llm: construction bid management and related construction software content,30
+,tonality.de,third_party,sure,llm: architectural/acoustic facade and building products,30
+,storyteq.com,third_party,sure,llm: digital asset management and marketing content software,30
+,morpheustechgroup.com,third_party,sure,llm: IT services and technology consulting,30
+GovDash,govdash.com,competitor,sure,llm: proposal and capture management software for government contractors,30
+,otio.ai,third_party,sure,llm: AI productivity and document workflow software,30
+,happeo.com,third_party,sure,llm: digital workplace intranet and employee communications software,30
+,planswift.com,third_party,sure,llm: construction estimating software,29
+Amaiko,amaiko.ai,competitor,likely,llm: AI-powered business development and proposal support software,29
+,energent.ai,third_party,sure,llm: AI data cleaning and metadata tools,29
+,unito.io,third_party,sure,llm: workflow and integration automation software,29
+,amber.de,third_party,sure,llm: knowledge management and digital workplace software,29
+,edcontrols.co.uk,third_party,sure,llm: construction management software,29
+,buildin.ai,third_party,sure,llm: AI knowledge base and workspace software,29
+,wunderbuild.com,third_party,sure,llm: construction management software,29
+,lister.ai,third_party,sure,llm: AI tools and software directories/reviews,29
+,archademia.com,third_party,likely,llm: architecture-focused AI and workflow/software insights,29
+,everworker.ai,third_party,sure,llm: AI automation software and agents,29
+RFP AI,rfpai.io,competitor,sure,llm: AI-powered RFP response software,28
+Archix,archix.ai,competitor,likely,llm: AI proposal and workflow software for architecture firms,28
+,zarifautomates.com,third_party,sure,llm: AI automation and business automation services/software,28
+,cdrdv2-public.intel.com,third_party,sure,llm: semiconductors and technology products,28
+Operate,operate.io,competitor,sure,llm: AEC operations and bid management software,28
+,bimcorner.com,third_party,likely,llm: BIM and AEC digital collaboration content/services,28
+,meridian-west.com,third_party,likely,llm: proposal and business development consulting/services,28
+,dealhub.io,third_party,sure,llm: CPQ and revenue lifecycle management software,27
+Altura,altura.io,competitor,sure,llm: proposal and bid management software,27
+,vntana.com,third_party,sure,llm: 3D digital asset management and product content software,27
+,cortextual.com,third_party,sure,llm: knowledge management and AI productivity software,27
+Asset Bank,assetbank.co.uk,competitor,sure,llm: digital asset management software,27
+,pmspace.ai,third_party,likely,llm: project management software,27
+,planhub.com,third_party,likely,llm: construction networking and bid management software/services,27
+Hubble,hubble.build,competitor,likely,llm: construction project management software,27
+,onlc.com,third_party,sure,llm: IT training and computer/software classes,27
+,photodeck.com,third_party,sure,llm: digital asset management and photo proofing software,27
+,jasper.ai,third_party,sure,llm: AI content creation and marketing copy software,27
+,knack.com,third_party,sure,llm: no-code database apps and workflow software,26
+,unifygtm.com,third_party,likely,llm: GTM and sales operations software content/tools,26
+,ambersearch.de,third_party,sure,llm: AI-powered enterprise search and knowledge management software,26
+,hudson-bidwriters.com,third_party,sure,llm: RFP/proposal bid writing services and related consulting,26
+,stackct.com,third_party,sure,llm: construction estimating and preconstruction software,26
+SpecLens,speclens.ai,competitor,sure,llm: AI software for RFP/proposal work,26
+,businesswire.com,third_party,sure,llm: newswire and press release distribution,26
+MearasTec,mearastec.com,competitor,likely,llm: proposal management and related software/services,26
+,chitika.com,third_party,likely,llm: digital marketing and advertising-related content/services,26
+,make.com,third_party,sure,llm: workflow automation software,26
+Achieva AI,achieva.ai,competitor,likely,llm: AI sales proposal automation software,26
+,coffee.ai,third_party,likely,llm: AI sales enablement and CRM software,26
+,folderit.com,third_party,sure,llm: document management software,26
+Bridge,bridgeapp.ai,competitor,likely,llm: AI proposal automation and knowledge management software,26
+,notionforarchitecture.com,third_party,sure,llm: architecture-focused Notion templates and workflows,26
+,infrakit.com,third_party,likely,llm: construction management software,26
+Adeaca,adeaca.com,competitor,sure,llm: ERP software for architecture and engineering firms,26
+Unanet,unanet.projectxyz.com,competitor,sure,llm: project management and ERP software for AEC and professional services firms,25
+,viewpoint.com,third_party,sure,llm: construction management software,25
+,toggl.com,third_party,sure,llm: time tracking and productivity software,25
+,themartechtroops.com,third_party,sure,llm: martech consulting and integration services,25
+,techcommunity.microsoft.com,third_party,sure,llm: software and cloud services,25
+,demystifyingplm.com,third_party,likely,llm: PLM and BIM software insights/content,25
+,msdynamicsworld.com,third_party,sure,llm: Microsoft Dynamics news and community content,25
+,codelessplatforms.com,third_party,sure,llm: low-code automation and CRM integration software,25
+,elium.com,third_party,sure,llm: knowledge management and internal collaboration software,25
+,softwarefinder.com,third_party,sure,llm: software discovery and reviews marketplace,25
+,crafty.so,third_party,likely,llm: workspace and office amenities management software,25
+ProposalOS,proposalos.org,competitor,likely,llm: proposal and RFP-response software,25
+,qandle.com,third_party,sure,llm: HR software and employee management tools,25
+Pentimenti AI,pentimenti.ai,competitor,likely,llm: AI software for proposal/RFP response and decision support,25
+,greyling.com,third_party,sure,llm: AEC marketing and public relations services,25
+,numerous.ai,third_party,sure,llm: AI spreadsheet automation and data tools,24
+,safetyculture.com,third_party,sure,llm: workplace operations and safety management software,24
+,leewayhertz.com,third_party,sure,llm: AI/ software development services and enterprise AI solutions,24
+,celoxis.com,third_party,sure,llm: project management software,24
+,edison365.com,third_party,sure,llm: proposal and work management software,24
+,support.bynder.com,third_party,sure,llm: digital asset management software,24
+,kissflow.com,third_party,sure,llm: no-code workflow and process automation software,24
+,kixie.com,third_party,sure,llm: sales engagement and dialing software,24
+,adsknews.autodesk.com,third_party,sure,llm: construction and design software,24
+RFP Verse,rfpverse.com,competitor,likely,llm: RFP response software,24
+,blog.hubspot.com,third_party,sure,"llm: marketing, sales, and CRM software",24
+,adcirruserp.com,third_party,sure,llm: ERP software,24
+,blog.drofus.com,third_party,sure,llm: AEC data management software,24
+,nonlinear.build,third_party,likely,llm: AI software for construction and AEC workflows,23
+,scispace.com,third_party,sure,llm: AI research and writing tools,23
+,archivinci.com,third_party,sure,llm: AI design and visualization software for architects,23
+,research.mines.edu,third_party,sure,llm: university research and academic resources,23
+Proposal Matrix,proposalmatrix.com,competitor,sure,llm: proposal and RFP response software,23
+,bigtime.net,third_party,sure,"llm: project time tracking, PSA, and project management software",23
+,dbgallery.com,third_party,sure,llm: digital asset management and image management software,23
+,bluebeam.com,third_party,sure,llm: construction document markup and collaboration software,23
+,blog.procedureflow.com,third_party,sure,llm: knowledge management and workflow automation software,23
+Penna,penna.app,competitor,sure,llm: AI proposal workflow / proposal automation software,23
+,personio.com,third_party,sure,llm: HR software,23
+,differenzforce.com,third_party,sure,llm: software development and digital transformation services,23
+WACO3,waco3.io,competitor,likely,llm: AI proposal software for sales and business development,23
+,aec-business.com,third_party,likely,llm: AEC industry content and consulting resources,23
+,worldmetrics.org,third_party,sure,"llm: publishes metrics, rankings, and informational lists",23
+,adobe.com,third_party,sure,llm: creative and document software,23
+,workyard.com,third_party,sure,llm: construction workforce management and jobsite operations software,23
+,gitnux.org,third_party,sure,llm: review/comparison content and rankings,22
+,1827marketing.com,third_party,sure,llm: marketing agency services,22
+Arched,arched.ai,competitor,sure,llm: AI proposal and bid management software for AEC firms,22
+Orange Logic,orangelogic.com,competitor,sure,llm: digital asset management software,22
+,offprompt.blog,third_party,likely,llm: AI and business automation content/services,22
+,photolibsoftware.com,third_party,sure,llm: photo library and digital asset management software,22
+,blogs.oregonstate.edu,third_party,sure,llm: university blog and educational content,22
+Fresh Proposals,freshproposals.com,competitor,sure,llm: proposal software,22
+,questionpro.com,third_party,sure,llm: survey and experience management software,22
+BidPlan,bidplan.ai,competitor,sure,llm: bid response and proposal automation software for AEC firms,22
+Joist,support.joistapp.com,competitor,sure,"llm: construction estimating, invoicing, and job management software",22
+,success-craft.com,third_party,sure,llm: software development and digital consulting services,22
+,hyland.com,third_party,sure,llm: enterprise content management and document management software,22
+McCormick Systems,mccormicksys.com,competitor,sure,llm: construction estimating and business management software,22
+PandaDoc,support.pandadoc.com,competitor,sure,llm: document automation and e-signature software,21
+ProposalConnect,proposalconnect.io,competitor,likely,llm: proposal/RFP response software,21
+,knowron.com,third_party,sure,llm: AI knowledge management and enterprise search software,21
+Instructional Solutions,instructionalsolutions.com,competitor,likely,llm: proposal and RFP response software/services,21
+,fedbizaccess.com,third_party,likely,llm: federal government contracting and proposal assistance software/services,21
+Build with Dave,buildwithdave.com,competitor,likely,llm: construction estimating and takeoff software,21
+,apmic.org,third_party,sure,llm: industry association content and resources,21
+Anchor,sayanchor.com,competitor,sure,llm: proposal and business development software for agencies,21
+,help.salesforce.com,third_party,sure,llm: CRM and related sales software,21
+,flippingbook.com,third_party,sure,llm: interactive digital publications and flipbook software,21
+,sourceforge.net,third_party,sure,llm: software directory and reviews,21
+,sitecore.com,third_party,sure,llm: digital experience and content management software,21
+,collabworx.in,third_party,likely,llm: construction project management software/services,21
+,aiopsschool.com,third_party,likely,llm: AI/ops training and educational content,21
+Local CRM,localcrm.com,competitor,likely,llm: local CRM software,21
+,teamgps.com,third_party,likely,llm: construction workforce management and business software,21
+,clicktime.com,third_party,sure,llm: time tracking and timesheet software,21
+,mdpi.com,third_party,sure,llm: academic journals and scholarly publishing,21
+,estimatingedge.com,third_party,sure,llm: construction estimating software,20
+,mindee.com,third_party,sure,llm: AI document processing and data extraction software,20
+,utleystrategies.com,third_party,sure,llm: proposal and RFP consulting/services,20
+,support.google.com,third_party,sure,llm: support/help resources for Google products,20
+,takeoffconvert.com,third_party,likely,llm: construction estimating and takeoff software,20
+,tecdynamics.co.uk,third_party,likely,llm: ERP and business software services,20
+,intellectible.com,third_party,likely,llm: proposal and business-development software services/content,20
+,legalfly.com,third_party,sure,llm: AI contract review software,20
+Proposify,legacy-support.proposify.com,competitor,sure,llm: proposal and document automation software,20
+Buoyant,trybuoyant.ai,competitor,sure,llm: proposal/RFP response automation software,20
+,zensets.com,third_party,sure,llm: design and documentation software for AEC teams,20
+,workflowmax.com,third_party,sure,llm: job management and workflow software for service businesses,20
+,grooper.com,third_party,sure,llm: document intelligence and process automation software,20
+,betterworks.com,third_party,sure,"llm: employee performance, goal management, and HR software",20
+,pmc.ncbi.nlm.nih.gov,third_party,sure,llm: scientific research articles,20
+,graphwise.ai,third_party,sure,llm: knowledge graph and enterprise knowledge management software,20
+,beebole.com,third_party,sure,llm: time tracking and workforce management software,20
+,fluidtopics.com,third_party,sure,llm: knowledge management and technical documentation software,20
+,blog.echo3d.com,third_party,sure,llm: 3D content management and AR/VR tools,20
+,help.trimble.com,third_party,sure,llm: construction software and support documentation,20
+,constructionexec.com,third_party,sure,llm: construction industry media and educational content,20
+RFP Extract,rfpextract.com,competitor,sure,llm: RFP extraction and response software,20
+,assembly.com,third_party,sure,llm: construction and project management software,20
+Novilo,novilo.ai,competitor,likely,llm: proposal management software,20
+,smpsboston.starchapter.com,third_party,sure,llm: professional association chapter management and marketing/community content,20
+,snaptrude.com,third_party,sure,llm: architectural design and BIM software,20
+,pipedrive.com,third_party,sure,llm: CRM and sales pipeline software,20
+,convotis.com,third_party,sure,llm: IT consulting and digital transformation services,20
+,cohnreznick.com,third_party,sure,"llm: consulting, accounting, and advisory services",20
+,convergepanel.com,third_party,sure,llm: AI answer verification and source grounding tools,20
+,mentimeter.com,third_party,sure,llm: interactive presentation and audience engagement software,20
+,rolustech.com,third_party,sure,llm: software development and CRM/ERP implementation services,20
+Brainial,brainial.com,competitor,sure,llm: AI proposal and bid-response software,19
+,croclub.com,third_party,sure,llm: sales and proposal software resources,19
+,planradar.com,third_party,sure,llm: construction project management software,19
+,pro.houzz.com,third_party,sure,llm: home design and contractor software/services,19
+,go.psmj.com,third_party,sure,llm: AEC consulting and training services,19
+Weflow,weflow.ai,competitor,likely,llm: AI-powered proposal and sales automation software,19
+,bizdata360.com,third_party,likely,llm: data and analytics services/software,19
+,quickbase.com,third_party,sure,llm: low-code application development and workflow automation software,19
+,wellness360.co,third_party,sure,llm: employee wellness and benefits software,19
+Bedrock AI,bedrockai.co,competitor,likely,llm: AI software for proposal and business development workflows,19
+,mar-flex.com,third_party,likely,llm: architectural and construction project management / estimating software,19
+,capsulecrm.com,third_party,sure,llm: CRM software,19
+,ferndesk.com,third_party,sure,llm: knowledge base and customer support software,19
+,facebook.com,third_party,sure,llm: social networking and advertising platform,19
+,flaree.app,third_party,sure,llm: employee retention software,19
+Salentis,salentis.com,competitor,likely,llm: proposal management and AI-driven proposal review software/services,19
+,next-tech.com,third_party,likely,llm: construction and project management software,19
+,plan.io,third_party,sure,llm: project management software,19
+Vercor,vercor.ai,competitor,sure,llm: AI proposal and RFP response software,19
+,alphaapexgroup.com,third_party,likely,llm: construction consulting and business services,19
+,storydoc.com,third_party,sure,llm: interactive presentation and document software,19
+,leahai.com,third_party,likely,llm: AI document review and related legal/contract automation software,19
+Turingon,turingon.ai,competitor,likely,llm: AI proposal automation and compliance-review software,19
+,linarc.com,third_party,sure,llm: construction management software,19
+,jeeva.ai,third_party,sure,llm: AI sales automation and outreach software,19
+,elastic.co,third_party,sure,"llm: search, observability, and security software",18
+Beam,trybeam.com,competitor,sure,llm: construction estimating and bidding software,18
+,uplifted.ai,third_party,sure,llm: creative asset management and AI marketing software,18
+,docupilot.com,third_party,sure,llm: document generation and automation software,18
+,zipdo.co,third_party,sure,llm: comparison and listicle content; not software,18
+,technostructacademy.com,third_party,sure,llm: AEC training and education content,18
+,discoveredlabs.com,third_party,likely,llm: AI/ML consulting and content about AI systems,18
+,nektar.io,third_party,sure,llm: sales and revenue operations software,18
+,vitruvisoftware.com,third_party,sure,llm: construction management software,18
+,seedandsociety.com,third_party,likely,llm: marketing and creative services for brands and communities,18
+,notion.com,third_party,sure,llm: workspace and productivity software,18
+,aws.amazon.com,third_party,sure,llm: cloud computing and AI infrastructure services,18
+,zekaiwork.com,third_party,likely,llm: AI tools and workflow/content resources for work,18
+,aechub.io,third_party,likely,llm: AEC software/content hub and common data environment (CDE) resources,18
+,wonderchat.io,third_party,sure,llm: AI chatbot and customer support software,18
+,support.getharvest.com,third_party,sure,llm: time tracking and project management software,18
+,anitasamuel.substack.com,third_party,sure,llm: newsletter and articles,18
+,advocatemagazine.com,third_party,sure,llm: legal magazine/media content,18
+Quote.cloud,quote.cloud,competitor,likely,llm: proposal quoting and sales quote software,18
+Palcode,palcode.ai,competitor,likely,llm: AI software for bid/proposal and workflow automation,18
+,conga.com,third_party,sure,llm: document automation and revenue lifecycle management software,18
+Grittr,gritt.io,competitor,likely,llm: business development and proposal software for AEC firms,17
+,aventienterprises.com,third_party,likely,llm: enterprise software and business services,17
+,acumatica.com,third_party,sure,"llm: cloud ERP software for businesses, including construction",17
+,zbrain.ai,third_party,sure,llm: enterprise AI and automation software,17
+,opentext.com,third_party,sure,llm: enterprise information management and content/digital asset management software,17
+,athento.com,third_party,sure,llm: document management and content services software,17
+,softwareequity.com,third_party,sure,llm: software investing and advisory content,17
+CRM Software Blog / AEC360,crmsoftwareblog.com,competitor,likely,llm: CRM and related business software for AEC firms,17
+,softwarereviews.com,third_party,sure,llm: software reviews and comparison content,17
+,itsagoconnect.com,third_party,likely,llm: business software and consulting services,17
+,acquia.com,third_party,sure,"llm: digital experience and content management software, including DAM",17
+,2050-materials.com,third_party,sure,llm: AEC materials management software,17
+,docora.dev,third_party,sure,llm: AI document search and knowledge retrieval software,17
+,timesheet.dovico.com,third_party,sure,llm: time tracking and timesheet software,17
+Marketlink AEC,marketlinkaec.com,competitor,likely,llm: AEC marketing and proposal-related services/software,17
+,businesswith.com,third_party,sure,llm: software comparison and review content,17
+,kpsol.com,third_party,sure,llm: knowledge management software and services,17
+,altersquare.medium.com,third_party,sure,llm: publishing platform / blog hosting,17
+Winify AI,winifyai.com,competitor,sure,llm: AI-powered RFP and proposal automation software,17
+Zime,zime.ai,competitor,likely,llm: AI software for proposals and bid management,17
+Carly,usecarly.com,competitor,likely,llm: AI proposal and business-development software,17
+,knowlix.ai,third_party,likely,llm: AI knowledge management and workflow software,17
+,strategicproposals.com,third_party,sure,llm: proposal consulting and training,17
+,marketer.smps.org,third_party,sure,llm: AEC marketing association content and resources,17
+,apideck.com,third_party,sure,llm: API integration and unified API software,17
+Arahi,arahi.ai,competitor,likely,llm: AI proposal and sales-response software,17
+,chapsvision.com,third_party,sure,"llm: enterprise software, including AI search and data/knowledge management",17
+,caddcentre.com,third_party,sure,llm: CAD/BIM training and related services,17
+,projectp.com,third_party,likely,llm: AEC project management software,17
+,informedinfrastructure.com,third_party,sure,llm: AEC industry media and content,17
+,formathemagazine.com,third_party,sure,llm: Architecture and design media/content,17
+,schnackel.com,third_party,sure,llm: AEC design and engineering services,17
+,casrai.org,third_party,sure,llm: research integrity and scholarly communication resources,16
+Tektome,tektome.com,competitor,sure,llm: Proposal and bid management software for AEC firms,16
+,the-brand-algorithm.com,third_party,sure,llm: brand strategy and marketing services,16
+,capturenexus.com,third_party,likely,llm: document and data capture software,16
+,aichief.com,third_party,sure,llm: AI tools and software reviews,16
+,elementor.com,third_party,sure,llm: website building and design software,16
+,edsi.com,third_party,sure,llm: HR consulting and workforce development services,16
+,usu.com,third_party,sure,llm: enterprise service management and knowledge management software,16
+,docs.govpro.ai,third_party,likely,llm: government proposal software documentation,16
+,meltplan.com,third_party,likely,llm: construction and architecture software/blog content,16
+,mimeo.com,third_party,sure,llm: printing and document distribution software/services,16
+,lingoapp.com,third_party,sure,llm: digital asset management software,16
+,streamline.ai,third_party,sure,llm: AI workflow and automation software,16
+PaperMule,papermule.co.uk,competitor,likely,llm: digital asset management and related marketing software/services,16
+,serviceware-se.com,third_party,sure,llm: service management and customer service software,16
+BST Global,bstglobal.com,competitor,sure,llm: AEC ERP and project management software,16
+,software.iquasar.com,third_party,likely,llm: business software and CRM/ERP-related solutions,16
+Newforma,newforma.com,competitor,sure,llm: AEC project information management and collaboration software,16
+,custify.com,third_party,sure,llm: customer success and customer relationship management software,16
+,revops.tools,third_party,likely,llm: RevOps tools and resources,16
+,bimservices.net,third_party,sure,llm: BIM services and related construction technology content,16
+,bitrix24.com,third_party,sure,llm: CRM and business management software,16
+RapidRFP,rapidrfp.ai,competitor,sure,llm: AI RFP response software,16
+,premiercs.com,third_party,sure,llm: construction software and ERP/financial management solutions,16
+,westlakeroyalbuildingproducts.com,third_party,sure,llm: building products for construction,16
+,academy.evalcommunity.com,third_party,likely,llm: proposal evaluation and procurement software,16
+,prweb.com,third_party,sure,llm: press release distribution services,16
+,aeccloud.com,third_party,likely,llm: AEC cloud software and integration services for construction/engineering workflo,16
+,blog.landscapeprofessionals.org,third_party,sure,llm: landscape industry association content and resources,15
+,nfold.com,third_party,sure,llm: proposal and RFP-related services/software content,15
+,selectgcr.com,third_party,likely,llm: Federal government contracting and proposal/compliance guidance software or serv,15
+RocketDocs,rocketdocs.com,competitor,sure,llm: proposal and RFP response automation software,15
+,osforyour.business,third_party,likely,llm: AI workflow and business automation content/tools for construction and AEC firms,15
+,nutcache.com,third_party,sure,llm: project management software,15
+,pressmaster.ai,third_party,sure,llm: AI-powered writing and press release software,15
+,erp-pilot.com,third_party,likely,llm: ERP consulting and implementation services/software solutions,15
+,myhours.com,third_party,sure,llm: time tracking and project time/expense management software,15
+,theproposallab.com,third_party,sure,llm: proposal consulting and proposal content library services,15
+,linkedin.com,third_party,sure,llm: professional networking and recruiting platform,15
+,airbyte.com,third_party,sure,llm: data integration and ELT/ETL software,15
+,drawboard.com,third_party,sure,"llm: PDF markup, collaboration, and document workflow software",15
+,aecintegrations.com,third_party,sure,llm: AEC software integrations and consulting,15
+,aeco-usa.com,third_party,likely,llm: AEC consulting/software services,15
+,investors.autodesk.com,third_party,sure,llm: design and construction software,15
+,metavallon.vc,third_party,sure,llm: venture capital investing,15
+,minditsystems.com,third_party,sure,llm: custom software and IT services,15
+,capacity.com,third_party,sure,llm: AI-powered support automation and knowledge management software,15
+,succeedasyourownboss.com,third_party,sure,llm: business coaching and entrepreneurial advice,15
+,erp.today,third_party,sure,llm: ERP news and information,15
+,ejento.ai,third_party,sure,llm: AI enterprise search software,15
+,clearpeople.com,third_party,sure,llm: knowledge management and digital workplace software/services,15
+,umt.edu,third_party,sure,llm: university education and research services,15
+,kimi.com,third_party,sure,llm: AI assistant / chatbot software,15
+,myquoteiq.com,third_party,likely,llm: contractor quoting and estimating software,15
+MyTender,mytender.io,competitor,sure,llm: AI-powered tender and RFP response software,15
+,coveo.com,third_party,sure,llm: enterprise search and AI-powered search/knowledge management software,14
+RFP360,rfp360.ai,competitor,sure,llm: RFP response software,14
+,building.ca,third_party,sure,llm: construction industry media and advertising,14
+,netx.net,third_party,likely,llm: AEC project management and collaboration software,14
+,omnitracker.com,third_party,sure,llm: IT service management and enterprise workflow software,14
+,paacademy.com,third_party,likely,llm: proposal and business development training/services for AEC firms,14
+BCS ProSoft,bcsprosoft.com,competitor,sure,llm: AEC/engineering software and CRM/ERP solutions,14
+,contractorforeman.com,third_party,sure,llm: construction project management software,14
+,redstonegci.com,third_party,likely,"llm: AEC consulting and implementation services, including Unanet CRM support",14
+,remato.com,third_party,sure,llm: construction workforce and project management software,14
+,foundhq.com,third_party,sure,llm: customer relationship management and revenue operations software,14
+Semai,semai.ai,competitor,likely,llm: AI software for marketing and proposal workflows,14
+,reclaim.ai,third_party,sure,llm: AI calendar scheduling and time management software,14
+,bevisible.app,third_party,sure,llm: AI citation tracking and search visibility software,14
+,imagekit.io,third_party,sure,llm: image and video media management and delivery software,14
+,iconik.io,third_party,sure,llm: digital asset management software,14
+,archilabs.ai,third_party,sure,llm: AI tools and software for architecture firms,14
+,squirro.com,third_party,sure,llm: enterprise AI search and knowledge discovery software,14
+,nasuni.com,third_party,sure,llm: cloud file data services and file storage,14
+,evernote.com,third_party,sure,llm: note-taking and knowledge management software,14
+,engagedly.com,third_party,sure,llm: employee engagement and performance management software,14
+,aps.autodesk.com,third_party,sure,llm: AEC software APIs and developer platform,14
+,cloud.google.com,third_party,sure,llm: cloud computing and AI services,14
+,allplan.com,third_party,sure,llm: BIM and construction design software,14
+,upperedge.com,third_party,sure,llm: IT advisory and software-selection consulting,14
+,logically.app,third_party,sure,llm: AI research and citation tools,14
+,happysupport.ai,third_party,sure,llm: AI customer support and knowledge management software,14
+Oryoniq,oryoniq.com,competitor,likely,llm: AI proposal and RFP software,14
+Brault,brault.app,competitor,likely,llm: proposal/marketing software for AEC firms,14
+,cplace.com,third_party,sure,llm: project and portfolio management software,14
+BidPacto,bidpacto.com,competitor,sure,llm: proposal and RFP software,14
+,professional.mit.edu,third_party,sure,llm: professional education and executive learning programs,14
+,eesel.ai,third_party,sure,llm: AI helpdesk and internal knowledge automation software,14
+,thedamrepublic.io,third_party,sure,llm: Digital asset management content and resources,14
+,agent.nexus,third_party,likely,llm: AI enterprise search and knowledge retrieval software,14
+,knowify.com,third_party,sure,"llm: construction estimating, invoicing, and job management software",14
+,cavershamdigital.com,third_party,sure,llm: digital marketing and web services,13
+,thesify.ai,third_party,sure,llm: AI writing and research tools for academics,13
+,sovran.ai,third_party,likely,llm: AI-powered knowledge management and search software,13
+,text.com,third_party,sure,llm: customer messaging and support software,13
+CaprixAI,caprixai.com,competitor,likely,llm: AI proposal automation and RFP response software,13
+,smartpm.com,third_party,sure,llm: construction project management software,13
+Cleat,cleat.ai,competitor,sure,llm: AI proposal software for government contractors,13
+,justee.ai,third_party,sure,llm: AI document review and compliance review software,13
+,integrate.io,third_party,sure,llm: data integration / ETL and pipeline automation software,13
+,willscot.com,third_party,sure,"llm: temporary space, modular buildings, and storage solutions",13
+,filecamp.com,third_party,sure,llm: digital asset management software,13
+Nvelop,nvelop.ai,competitor,sure,llm: AI proposal and RFP/RFX response software,13
+,blog.integrately.com,third_party,sure,llm: workflow automation/integration software,13
+,permitflow.com,third_party,sure,llm: permit and construction permit management software,13
+,content.hubjoy.co,third_party,sure,llm: sales and marketing software content/services,13
+Harbor,harborhq.ai,competitor,sure,llm: AI-powered RFP response and proposal software,13
+,pelogic.io,third_party,sure,llm: AEC software development and related consulting/services,13
+,pics.io,third_party,sure,llm: digital asset management and creative project management software,13
+,research.com,third_party,sure,llm: software reviews and comparisons,13
+,atomicwork.com,third_party,sure,llm: IT service management and employee service management software,13
+ResponseDocs,responsedocs.com,competitor,sure,llm: proposal and RFP response software,13
+,sagemarketing.io,third_party,sure,llm: HubSpot services and marketing automation consulting,13
+,rsult.one,third_party,likely,llm: ERP software and industry-specific ERP solutions,13
+,tenderos.org,third_party,sure,llm: proposal and RFP response software information/resources,13
+,nix-united.com,third_party,sure,llm: custom software development and digital product services,13
+,slideshare.net,third_party,sure,llm: presentation and document sharing platform,13
+AirFP Tool,airfptool.com,competitor,likely,llm: RFP/proposal response software,13
+,jetpackcrm.com,third_party,sure,llm: CRM software and related business tools,13
+,papirfly.com,third_party,sure,llm: digital asset management and brand asset management software,13
+,gryps.io,third_party,likely,llm: procurement and sourcing software,13
+,consac.com,third_party,likely,llm: AEC software consulting and digital solutions,13
+,constructiondive.com,third_party,sure,llm: industry news and analysis,12
+BBRADAR,bbradar.com,competitor,likely,llm: business development and proposal software for AEC firms,12
+,automationlabz.com,third_party,likely,llm: automation and software services,12
+,workato.com,third_party,sure,llm: automation and integration software,12
+,growthscout.ai,third_party,likely,llm: sales and marketing automation / AI GTM software,12
+ProposalIntel,proposalintel.com,competitor,sure,llm: proposal and proposal-management software,12
+,getonecrew.com,third_party,sure,llm: construction management software,12
+,rebeccaellison.com,third_party,sure,llm: photography and photo organization advice/services,12
+,contentrules.com,third_party,sure,llm: content strategy and content operations consulting/software services,12
+,financialprofessionals.org,third_party,sure,llm: professional finance association resources and training,12
+rfp.quest,rfp.quest,competitor,likely,llm: RFP response software,12
+,larksuite.com,third_party,sure,llm: workplace collaboration and productivity software,12
+,zistemo.com,third_party,sure,llm: project time tracking and business management software,12
+,abbyy.com,third_party,sure,llm: document capture and intelligent document processing software,12
+,wifitalents.com,third_party,likely,llm: talent and hiring content/services,12
+,claritybot.io,third_party,sure,llm: AI content verification software,12
+,usenoren.ai,third_party,sure,llm: AI writing and brand-voice content software,12
+,tiny.plus,third_party,likely,llm: productivity and collaboration software,12
+,instaclustr.com,third_party,sure,llm: managed open source data infrastructure and cloud services,12
+,moveworks.com,third_party,sure,llm: enterprise AI support and workplace automation software,12
+,enago.com,third_party,sure,llm: academic editing and publication support services,12
+,kairntech.com,third_party,sure,llm: knowledge management and enterprise search software,12
+AECify,aecify.com,competitor,sure,llm: AEC proposal and business development software,12
+,docs.oracle.com,third_party,sure,llm: enterprise software and cloud applications,12
+LowTouch AI,lowtouch.ai,competitor,likely,"llm: AI agents for business workflows, including RFP response automation",12
+,writer.com,third_party,sure,llm: AI writing and content platform for businesses,12
+HCSS,hcss.com,competitor,sure,"llm: construction software, including proposal, estimating, and job costing tools",12
+,help.jasper.ai,third_party,sure,llm: AI writing and marketing content software,12
+,remote.com,third_party,sure,"llm: global HR, payroll, and employer of record software",12
+,gptzero.me,third_party,sure,llm: AI content detection software,12
+,notebooklm.google.com,third_party,sure,llm: AI note-taking and research assistant tools,12
+,syncari.com,third_party,sure,llm: data synchronization and revenue operations automation software,12
+,martechseries.com,third_party,sure,llm: marketing technology news and content,12
+QorusDocs,helpcenter.qorusdocs.com,competitor,sure,llm: proposal/RFP response software,12
+TenderRender,tenderrender.com,competitor,sure,llm: AI bid management and proposal software,12
+,tenovos.com,third_party,sure,llm: digital asset management software,12
+,jenni.ai,third_party,sure,llm: AI writing and research assistance for students and writers,12
+,ncircletech.com,third_party,sure,"llm: AI, machine learning, and data analytics services for AEC and manufacturing",12
+Deltek,info.deltek.com,competitor,sure,llm: project-based ERP and business software for professional services and constructi,12
+,hypescribe.com,third_party,likely,llm: AI knowledge management and content/marketing software,12
+,sparrowgenie.substack.com,third_party,sure,llm: newsletter/content publishing,12
+,infotech.com,third_party,sure,llm: construction software and services,12
+,softwareworld.co,third_party,sure,llm: software directory and reviews,12
+GrowCRM,growcrm.io,competitor,sure,llm: CRM software for architecture and AEC firms,11
+PropelPro,propelpro.ai,competitor,likely,llm: proposal and RFP-response software for AEC firms,11
+,pitchbook.com,third_party,sure,llm: market intelligence and data software,11
+Pitchwise,pitchwise.se,competitor,likely,llm: proposal and sales enablement software,11
+SiftHub,sifthub.ai,competitor,likely,llm: AI proposal and RFP response software,11
+,console.com,third_party,sure,llm: AI knowledge management and support software,11
+,peoplemanagingpeople.com,third_party,sure,"llm: HR and people-management content, reviews, and software roundups",11
+ResponsiveBid,responsivebid.com,competitor,sure,llm: proposal and bid management software for construction/AEC firms,11
+,platform.softwareone.com,third_party,sure,llm: software and cloud marketplace/services,11
+,friedmanpartners.com,third_party,sure,llm: consulting and advisory services for AEC firms,11
+BidAgent,bidagent.app,competitor,likely,llm: AI bid and proposal automation software,11
+,fundsforngos.org,third_party,sure,llm: grant-writing resources and funding guidance,11
+,worksection.com,third_party,sure,llm: project management software,11
+Arki,getarki.com,competitor,sure,llm: AI proposal and RFP response software,11
+,learn.uvm.edu,third_party,sure,llm: university education and training,11
+,doomshell.com,third_party,sure,llm: tech blog and software content,11
+Jint,jint.co,competitor,likely,llm: proposal and business development software,11
+,ciposoftware.com,third_party,sure,llm: construction and project management software,11
+,nasa.gov,third_party,sure,llm: space exploration and aerospace research,11
+,apps.autodesk.com,third_party,sure,llm: Autodesk app marketplace and software integrations,11
+,integrateiq.com,third_party,sure,llm: integration software and services for HubSpot and business systems,11
+,catenda.com,third_party,sure,llm: construction collaboration and BIM/CDE software,11
+Neosystems Corp,neosystemscorp.com,competitor,likely,llm: proposal and business development software/services,11
+nrev.ai,nrev.ai,competitor,likely,llm: AI proposal and bid response software,11
+,ai.google.dev,third_party,sure,llm: AI developer tools and Gemini API services,11
+Rivr,rivr.build,competitor,likely,llm: construction proposal and bid management software,11
+,community.openai.com,third_party,sure,llm: AI community forum and support discussions,11
+,searchunify.com,third_party,sure,llm: enterprise search and knowledge management software,11
+,onemetric.io,third_party,sure,llm: CRM and sales data integration/automation software,11
+,cyangate.com,third_party,likely,llm: digital asset management and related software/services,11
+,otter.ai,third_party,sure,llm: AI meeting notes and transcription software,11
+,newgensoft.com,third_party,sure,llm: enterprise content services and document management software,11
+,threadmoat.com,third_party,likely,llm: unknown software or services,11
+Docusensa,docusensa.com,competitor,likely,llm: AI RFP response and proposal automation software,11
+,devopsschool.com,third_party,sure,llm: training and educational content for IT/software topics,11
+,jotform.com,third_party,sure,llm: online forms and workflow automation software,11
+ClientPoint,clientpoint.net,competitor,sure,"llm: proposal, sales enablement, and document automation software",11
+,neudesic.com,third_party,sure,"llm: Microsoft cloud, data, AI, and application development services",10
+,shopclawmart.com,third_party,likely,llm: unknown retail/e-commerce products,10
+,congruity360.com,third_party,sure,llm: data management and analytics software,10
+,paperpal.com,third_party,sure,llm: AI writing and research tools for academics and researchers,10
+,flexor.ai,third_party,sure,llm: AI data preparation and structuring software,10
+,netsuite.com,third_party,sure,llm: cloud ERP and business management software,10
+,netwrix.com,third_party,sure,llm: IT security and data governance software,10
+SamSearch,samsearch.co,competitor,sure,llm: AI proposal and RFP software,10
+,outfunnel.com,third_party,sure,llm: marketing and sales software integrations / customer data sync,10
+Masset,getmasset.com,competitor,sure,llm: digital asset management software,10
+,glitter.io,third_party,sure,llm: knowledge management and internal communication software,10
+,procterandstreet.co.uk,third_party,sure,llm: construction consultancy and bidding advisory services,10
+,procol.ai,third_party,sure,llm: procurement and sourcing software,10
+BidGenie,bidgenie.co,competitor,likely,llm: proposal and bid management software,10
+Loopio,42536376.fs1.hubspotusercontent-na1.net,competitor,sure,llm: proposal and RFP response software,10
+,washingtontechnology.com,third_party,sure,llm: government and defense industry news media,10
+AcqForge,acqforge.com,competitor,likely,llm: proposal and business development software,10
+,weareavp.com,third_party,sure,llm: digital asset management and related creative/marketing services,10
+,adoption.microsoft.com,third_party,sure,llm: Microsoft 365 adoption and AI/workplace productivity guidance and tools,10
+,hawkins-pye.com,third_party,sure,llm: AEC marketing and business development services,10
+,papersflow.ai,third_party,sure,llm: AI tools for research writing and citation verification,10
+,coretime.com,third_party,sure,llm: workforce scheduling and time tracking software,10
+,pulse2.com,third_party,sure,llm: news and media content,10
+BidPilot HQ,bidpilothq.com,competitor,sure,llm: bid/no-bid and proposal management software for AEC firms,10
+GovCon Proposal Engine,govconproposalengine.com,competitor,sure,llm: proposal software for government contracting,10
+,aricoma.com,third_party,sure,llm: IT services and enterprise software solutions,10
+,sourcely.ai,third_party,sure,llm: AI sourcing and research software,10
+,jescartin.com,third_party,likely,llm: proposal management consulting/content,10
+,irys.ai,third_party,sure,llm: AI citation and legal research software,10
+,teamim.com,third_party,sure,llm: enterprise information management / content management software,10
+,support.toggl.com,third_party,sure,llm: time tracking and productivity software,10
+,appseconnect.com,third_party,sure,llm: software integration and automation,10
+,superkind.ai,third_party,sure,llm: AI knowledge management software,10
+,marq.com,third_party,sure,llm: brand templating and marketing asset management software,10
+,meeksmarketing.com,third_party,sure,llm: AEC marketing and business development services,10
+,caandesign.com,third_party,sure,llm: architecture and design content/media,10
+,hostmora.com,third_party,likely,llm: website hosting and related web services,10
+Mojar,mojar.ai,competitor,sure,llm: AI proposal and RFP response automation software,10
+,icagile.com,third_party,sure,llm: agile certification and training,10
+,spekit.com,third_party,sure,llm: sales enablement software,10
+,epicor.com,third_party,sure,llm: enterprise business software and ERP/financial management tools,10
+,stibosystems.com,third_party,sure,llm: master data management and product information management software,10
+,stitchflow.com,third_party,sure,llm: employee offboarding software,10
+,journyx.com,third_party,sure,llm: project time tracking and timesheet software,10
+,aisuccesslab.com,third_party,sure,llm: AI consulting and educational content,10
+,intalio.com,third_party,sure,"llm: enterprise content management, workflow, and automation software",10
+,cdn.zbrain.ai,third_party,likely,llm: AI agent and workflow software for document and response automation,10
+,thunai.ai,third_party,likely,llm: AI knowledge management and search software,10
+,livepro.com,third_party,sure,llm: knowledge management and customer service software,10
+,llmcontrols.ai,third_party,likely,llm: AI controls and governance software,10
+,m-files.com,third_party,sure,llm: enterprise content management and document management software,10
+,theaccessgroup.com,third_party,sure,llm: business software (construction/project management and broader ERP/business appl,10
+,threads.cloud,third_party,sure,llm: business communication and collaboration software,10
+,topquadrant.com,third_party,sure,llm: knowledge graph and data governance software,10
+,tryprodify.com,third_party,sure,llm: digital asset management (DAM) software,10
+,clientwinos.com,third_party,likely,llm: proposal and client-winning content for freelancers/agencies,10
+,zomentum.com,third_party,sure,llm: proposal and sales management software,10
+,electroneek.com,third_party,sure,llm: test automation and RPA software,10
+,dbia.org,third_party,sure,llm: design-build education and industry association services,10

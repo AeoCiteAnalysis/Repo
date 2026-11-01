@@ -1,0 +1,58 @@
+version,feature,mean_abs_shap,rank
+A: page + website score,title_match,0.24216182272874356,1
+A: page + website score,website_score,0.1562527862517393,2
+A: page + website score,page_type,0.13867149211624966,3
+A: page + website score,best_paragraph_match,0.12568523737068693,4
+A: page + website score,prompt_match_words,0.11859197545300086,5
+A: page + website score,n_headings,0.08678736488629427,6
+A: page + website score,page_age_days,0.0852314275219123,7
+A: page + website score,word_count,0.07099470507059105,8
+A: page + website score,outbound_links,0.07082654330632664,9
+A: page + website score,intro_match,0.06573990287859405,10
+A: page + website score,n_lists,0.0524270614473159,11
+A: page + website score,n_tables,0.018830186316785482,12
+A: page + website score,has_author,0.01678993244636215,13
+A: page + website score,has_faq,0.016267863632624224,14
+A: page + website score,has_schema,0.008736582671849348,15
+A: page + website score,has_summary_box,0.007577715384387348,16
+B: page + outside authority,title_match,0.2415441661722124,1
+B: page + outside authority,prompt_match_words,0.14332062866174525,2
+B: page + outside authority,best_paragraph_match,0.1306829066528778,3
+B: page + outside authority,page_type,0.1287698928099251,4
+B: page + outside authority,n_headings,0.08729209909596118,5
+B: page + outside authority,page_age_days,0.08170357240583899,6
+B: page + outside authority,log_cc_pagerank,0.0746143352610782,7
+B: page + outside authority,word_count,0.06938187662822756,8
+B: page + outside authority,cc_harmonic,0.06812349723824962,9
+B: page + outside authority,outbound_links,0.06340817687806305,10
+B: page + outside authority,intro_match,0.05932574808772074,11
+B: page + outside authority,n_lists,0.04551519160173082,12
+B: page + outside authority,log_majestic_ref_subnets,0.04241473597524107,13
+B: page + outside authority,log_tranco_rank,0.03640284288032183,14
+B: page + outside authority,n_tables,0.020027227759621877,15
+B: page + outside authority,has_faq,0.01472351512568458,16
+B: page + outside authority,has_author,0.014579222271634523,17
+B: page + outside authority,log_crux_rank,0.014570082335035345,18
+B: page + outside authority,has_summary_box,0.008035918452214033,19
+B: page + outside authority,has_schema,0.006451001304611279,20
+C: page + website score + authority,title_match,0.23265428254475018,1
+C: page + website score + authority,website_score,0.15305805072218875,2
+C: page + website score + authority,page_type,0.1316935544346877,3
+C: page + website score + authority,prompt_match_words,0.11862519107613795,4
+C: page + website score + authority,best_paragraph_match,0.114374711395356,5
+C: page + website score + authority,n_headings,0.08438379406438408,6
+C: page + website score + authority,page_age_days,0.07764417812750618,7
+C: page + website score + authority,word_count,0.06581560168898531,8
+C: page + website score + authority,log_cc_pagerank,0.06559370781915694,9
+C: page + website score + authority,intro_match,0.05891603738920769,10
+C: page + website score + authority,outbound_links,0.05818113977739869,11
+C: page + website score + authority,cc_harmonic,0.055818613168315705,12
+C: page + website score + authority,log_majestic_ref_subnets,0.04052235639528164,13
+C: page + website score + authority,n_lists,0.03985288679462925,14
+C: page + website score + authority,log_tranco_rank,0.03524481884876431,15
+C: page + website score + authority,n_tables,0.01775977654331735,16
+C: page + website score + authority,has_faq,0.01735653191628585,17
+C: page + website score + authority,log_crux_rank,0.013761972503768503,18
+C: page + website score + authority,has_author,0.013730939681637277,19
+C: page + website score + authority,has_summary_box,0.007432303852436218,20
+C: page + website score + authority,has_schema,0.006268373952059131,21

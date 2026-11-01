@@ -1,0 +1,1437 @@
+=== brand_domains.py apply
+role        competitor  own  third_party
+engine                                  
+GEMINI            43.7  1.6         54.7
+OPENAI            46.2  5.1         48.7
+PERPLEXITY        44.7  0.0         55.3
+label_confidence            likely  sure
+brand                                   
+12d Synergy                      0    62
+1up                              0    97
+AECify                           0    12
+Achieva AI                      26     0
+AcqForge                        10     0
+Adeaca                           0    26
+AgencyPitch                      0    38
+AirFP Tool                      13     0
+AltaFlow                        43     0
+Altura                           0    27
+Amaiko                          29     0
+Anchor                           0    21
+Anchor AI                        0   133
+Arahi                           17     0
+Arched                           0    22
+Archix                          28     0
+Arki                             0    11
+Arphie                           0   626
+Ask MOA                          0   141
+Asset Bank                       0    27
+AutoGenAI                        0  1107
+AutoProposal                    49     0
+AutoRFP.ai                       0   422
+BBRADAR                         12     0
+BCS ProSoft                      0    15
+BST Global                       0    16
+Beam                             0    18
+Bedrock AI                      19     0
+Better Proposals                 0   399
+Bid Solutions                    0    45
+BidAgent                        11     0
+BidGenie                        10     0
+BidHawk                          0   131
+BidPacto                         0    14
+BidPilot HQ                      0    10
+BidPlan                          0    22
+BidResponder                     0    53
+BidReview                       33     0
+Bidara                         647     0
+Blueberry AI                   105     0
+Brainial                         0    19
+Brault                          14     0
+BreezeDocs                      46     0
+Bridge                          26     0
+Build with Dave                 21     0
+BuildVision AI                  58     0
+Buoyant                          0    20
+CMAP                             0    58
+COBL                             0   134
+CRM Software Blog / AEC360      17     0
+Canto                            0    65
+CaprixAI                        13     0
+Capture Planning                 0    77
+Carly                           17     0
+Cassidy AI                      48     0
+Cincom                           0    54
+Civio                            0   406
+Cleat                            0    13
+ClientPoint                      0    11
+Concord CRM                      0    39
+Contravault                    484     0
+Conveyor                         0    52
+Cypress AI                       0    57
+DeepRFP                          0   212
+Deltek                           0   454
+Deltek (ParisTech site)         53     0
+DocBeacon                        0    42
+Docusensa                       11     0
+EA Global                       55     0
+Eagle                            0   112
+EarlyBird                        0    74
+Expedience Software              0   112
+FeatPaper                       53     0
+Flodoc                           0   291
+Flowcase                         0  3246
+Foveate                          0   125
+Fresh Proposals                  0    22
+GetAccept                        0   395
+GetAlai                          0    52
+GovCon Proposal Engine           0    10
+GovDash                          0    30
+Grittr                          17     0
+GrowCRM                          0    11
+HCSS                             0    12
+Harbor                           0    13
+Hey Iris                         0   264
+Hubble                          27     0
+HummingDeck                     62     0
+IFS                              0    45
+Instructional Solutions         21     0
+Inventive AI                     0   847
+Ittariv AI                      43     0
+Jinba                          125     0
+Jint                            11     0
+Joist AI                         0   730
+Knowledge Architecture           0    41
+KyznFlow                        33     0
+Local CRM                       21     0
+Loopio                           0  1554
+Lorka                           39     0
+LotusPetal AI                   83     0
+LowTouch AI                     12     0
+Marketlink AEC                  17     0
+Masset                           0    10
+McCormick Systems                0    22
+MearasTec                       26     0
+Milient Software                 0   456
+Mojar                            0    10
+Monograph                        0   655
+MyProposal                       0    33
+MyTender                         0    15
+Neosystems Corp                 11     0
+Newforma                         0    16
+Noumi                           70     0
+Novilo                          20     0
+Nvelop                           0    13
+Offorte                          0   144
+OpenAsset                        0  1526
+Operate                          0    28
+Orange Logic                     0    22
+Oryoniq                         14     0
+PASconcept                       0   259
+Palcode                         18     0
+PandaDoc                         0   234
+PaperMule                       16     0
+Pelles                          31     0
+Penna                            0    23
+Pentimenti AI                   25     0
+Pitchflow                       59     0
+Pitchwise                       11     0
+Polrai                           0    67
+Pozal AI                        63     0
+ProShort                        37     0
+ProcureSpark                   173     0
+Procurement Sciences             0    93
+ProjectMark                      0   103
+Projectory                       0    94
+Prolifiq                         0    36
+PropAgent                        0   103
+Propal                           0   302
+PropelPro                       11     0
+Proposal Helper                 94     0
+Proposal Matrix                  0    23
+Proposal.biz                     0   148
+ProposalConnect                 21     0
+ProposalIntel                    0    12
+ProposalOS                      25     0
+Proposerly                       0    36
+Proposia                         0    60
+Proposify                        0   562
+Pwin                             0    49
+QorusDocs                        0   703
+Quote.cloud                     18     0
+Qwilr                            0   121
+RFP AI                           0    28
+RFP Engine                       0    33
+RFP Extract                      0    20
+RFP Ninja                        0    36
+RFP Response Builder             0    32
+RFP Verse                       24     0
+RFP.ai                           0   350
+RFP360                           0    14
+RFPM                             0   159
+RapidRFP                         0    16
+Realm                            0    46
+RenderDraw                      74     0
+Response Now                     0    48
+ResponseDocs                     0    13
+Responsive                       0  1267
+ResponsiveBid                    0    11
+Rivr                            11     0
+RoboReg                         78     0
+RocketDocs                       0    15
+Rohirrim                         0    45
+SOPX                            70     0
+Salentis                        19     0
+SamSearch                        0    10
+Semai                           14     0
+Sequesto                         0   205
+SiftHub                       1092     0
+SparrowGenie                     0   669
+SpecLens                         0    26
+Stargazy                        61     0
+Steerlab                         0   136
+StepScale                        0    64
+Strytis                          0    36
+Sweetspot                        0    67
+Tektome                          0    16
+TenderPilot                      0    70
+TenderRender                     0    12
+Tenderbolt                       0   349
+Thalamus                         0   393
+TotalSynergy                     0    53
+Treblehook                     124     0
+Tribble                          0   249
+Trussnote                       37     0
+Turingon                        19     0
+Unanet                           0  2080
+Upland Software                  0   220
+Vercor                           0    19
+Virtuall                        37     0
+VisibleThread                    0   117
+WACO3                           23     0
+Weflow                          19     0
+Winify AI                        0    17
+Winning the Business            51     0
+Wonit                            0    40
+Workorb                          0  1495
+Xait                             0   177
+Yoop Knows                      39     0
+Zime                            17     0
+coposal                          0    65
+ikaun                            0   234
+nrev.ai                         11     0
+rfp.quest                       12     0
+=== prompt_labels.py
+LLM (gpt-5.4-mini) labelled 55 / 55 prompts
+intent
+learning     52
+comparing     3
+intent_source
+llm    55
+intent                 comparing  learning
+topic                                     
+AEC Industry Focus             1         9
+AI Capabilities                0        10
+Competitive Landscape          0         5
+Knowledge Management           0        10
+Proposal Automation            1         9
+Workflow Integration           1         9
+prompts naming a tracked brand: 5
+=== build_url_table.py
+citation rows: 165,221 total, 0 in excluded days, 1,472 unresolved redirects dropped, 71,190 used (once per answer)
+page features joined for 7,117 / 9,258 URLs
+authority joined for 9,258 URLs
+url_table_all: 9,258 URLs on 3,886 websites
+url_table (>= 2 citations): 4,916 URLs on 2,235 websites
+             size    sum
+role                    
+competitor   1272  30840
+own            37   1493
+third_party  3607  34515
+=== r01_describe.py
+
+ALL ANSWERS
+engine                     OPENAI    GEMINI  PERPLEXITY       All
+answers                   4950.00   4950.00     4950.00  14850.00
+citations                10416.00  60514.00      919.00  71849.00
+listed_per_answer            3.07     29.71        0.60     11.13
+unique_per_answer            2.10     12.23        0.19      4.84
+pct_answers_no_citation     64.61     17.58       97.47     59.89
+distinct_urls             2960.00   6470.00      326.00   9258.00
+distinct_websites         1226.00   3001.00      197.00   3895.00
+top10_website_share         28.74     22.63       31.66     22.03
+websites_for_80pct         211.00    376.00       77.00    448.00
+pct_reddit                   0.11      0.70        4.90      0.67
+pct_youtube                  0.01      4.12        2.83      3.51
+pct_linkedin                 0.08      0.00        0.76      0.02
+pct_own                      5.12      1.59        0.00      2.08
+pct_competitor              46.21     43.72       44.72     44.10
+pct_third_party             48.68     54.69       55.28     53.82
+
+PROMPT-DAYS ANSWERED BY ALL 3
+engine                     OPENAI    GEMINI  PERPLEXITY       All
+answers                   4950.00   4950.00     4950.00  14850.00
+citations                10416.00  60514.00      919.00  71849.00
+listed_per_answer            3.07     29.71        0.60     11.13
+unique_per_answer            2.10     12.23        0.19      4.84
+pct_answers_no_citation     64.61     17.58       97.47     59.89
+distinct_urls             2960.00   6470.00      326.00   9258.00
+distinct_websites         1226.00   3001.00      197.00   3895.00
+top10_website_share         28.74     22.63       31.66     22.03
+websites_for_80pct         211.00    376.00       77.00    448.00
+pct_reddit                   0.11      0.70        4.90      0.67
+pct_youtube                  0.01      4.12        2.83      3.51
+pct_linkedin                 0.08      0.00        0.76      0.02
+pct_own                      5.12      1.59        0.00      2.08
+pct_competitor              46.21     43.72       44.72     44.10
+pct_third_party             48.68     54.69       55.28     53.82
+
+top 10 websites overall:
+      website  citations  share_pct        role
+ flowcase.com       3246       4.52  competitor
+  youtube.com       2523       3.51 third_party
+   unanet.com       1724       2.40  competitor
+  workorb.com       1495       2.08         own
+openasset.com       1374       1.91  competitor
+responsive.io       1261       1.76  competitor
+   loopio.com       1169       1.63  competitor
+autogenai.com       1106       1.54  competitor
+   sifthub.io       1081       1.50  competitor
+ inventive.ai        847       1.18  competitor
+=== r02_main_model.py
+          sample  n_urls  n_websites  n_params  r2_within                  dropped_terms
+       all pages    2477         515        26   0.109533                               
+own + competitor    1079         137        24   0.134399 title_match_missing;type_forum
+     third party    1398         378        26   0.099151                               
+
+% more citations per +1 SD; yes/no features: has vs not (* p<0.05):
+sample               all pages own + competitor third party
+term                                                       
+best_paragraph_match     12.9*             11.9       14.6*
+has_author                 2.1              4.2        -0.0
+has_faq                   -1.9              3.2        -5.8
+has_schema                16.3              1.1        28.2
+has_summary_box            8.0              3.0        16.4
+intro_match                0.1             -2.1         1.0
+n_headings                7.7*              8.9        5.9*
+n_lists                   -4.8             -2.8        -5.1
+n_tables                  -2.5             -4.4        -1.9
+outbound_links             3.2              1.2         4.9
+page_age_days             -2.7             -4.0         0.4
+prompt_match_words       13.0*            14.5*        10.5
+title_match              26.4*            33.6*       17.6*
+word_count                 2.2              1.5        -0.3
+
+page types vs article (% difference, all pages):
+                term  pct_change_per_sd     p
+     type_comparison              6.794 0.577
+          type_forum            149.067 0.001
+         type_how-to              1.444 0.873
+           type_list             47.704 0.000
+          type_other              9.574 0.288
+  type_pricing/plans             13.111 0.604
+type_product/service             -6.034 0.693
+    type_review list            149.558 0.000
+   type_support/help             26.547 0.430
+=== r03_fdr.py
+sample                                 all pages             own + competitor                  third party
+term                                                                                                      
+best_paragraph_match      12.9%  q=0.0125  found   11.9%  q=0.3557  not found  14.6%  q=0.0603  borderline
+has_author             2.1%  q=0.8733  not found    4.2%  q=0.8855  not found   -0.0%  q=0.9977  not found
+has_faq               -1.9%  q=0.8733  not found    3.2%  q=0.8855  not found   -5.8%  q=0.7336  not found
+has_schema            16.3%  q=0.5094  not found    1.1%  q=0.9593  not found   28.2%  q=0.3152  not found
+has_summary_box        8.0%  q=0.5094  not found    3.0%  q=0.8855  not found   16.4%  q=0.3152  not found
+intro_match            0.1%  q=0.9847  not found   -2.1%  q=0.8855  not found    1.0%  q=0.9977  not found
+n_headings                 7.7%  q=0.0006  found    8.9%  q=0.8855  not found        5.9%  q=0.0158  found
+n_lists               -4.8%  q=0.5094  not found   -2.8%  q=0.8855  not found   -5.1%  q=0.3194  not found
+n_tables               -2.5%  q=0.654  not found   -4.4%  q=0.8855  not found   -1.9%  q=0.8438  not found
+outbound_links         3.2%  q=0.5094  not found    1.2%  q=0.8855  not found    4.9%  q=0.3194  not found
+page_age_days          -2.7%  q=0.654  not found   -4.0%  q=0.8855  not found    0.4%  q=0.9977  not found
+prompt_match_words        13.0%  q=0.0093  found  14.5%  q=0.1335  borderline   10.5%  q=0.2171  not found
+title_match                  26.4%  q=0.0  found          33.6%  q=0.0  found       17.6%  q=0.0015  found
+word_count              2.2%  q=0.654  not found    1.5%  q=0.8855  not found   -0.3%  q=0.9977  not found
+=== r04_stability_selection.py
+all pages ...
+    50/200
+    100/200
+    150/200
+    200/200
+own + competitor ...
+    50/200
+    100/200
+    150/200
+    200/200
+third party ...
+    50/200
+    100/200
+    150/200
+    200/200
+selection rate % (min-error -> 1-SE):
+sample                 all pages own + competitor third party
+term                                                         
+best_paragraph_match  100 -> 100         98 -> 93   100 -> 96
+has_author               51 -> 0          34 -> 0     62 -> 2
+has_faq                  61 -> 4         58 -> 12     71 -> 2
+has_schema               76 -> 2          49 -> 2     86 -> 4
+has_summary_box          84 -> 6          48 -> 0    94 -> 20
+intro_match              61 -> 4          46 -> 2     72 -> 8
+n_headings              98 -> 48         91 -> 49    87 -> 22
+n_lists                  70 -> 0          50 -> 8     83 -> 2
+n_tables                 57 -> 0          46 -> 3     56 -> 0
+outbound_links           81 -> 7          42 -> 1    86 -> 15
+page_age_days            75 -> 6          70 -> 8     61 -> 1
+prompt_match_words      99 -> 46         98 -> 38    96 -> 48
+title_match           100 -> 100       100 -> 100   100 -> 96
+word_count               54 -> 2          36 -> 2     60 -> 1
+=== r05_double_ml.py
+all pages ...
+    prall pages ...
+    prompt_match_words: +0.172 (0.054)
+    title_match: +0.354 (0.043)
+    intro_match: -0.049 (0.044)
+    best_paragraph_match: +0.218 (0.056)
+    word_count: +0.088 (0.039)
+    outbound_links: +0.002 (0.047)
+    n_headings: +0.116 (0.024)
+    n_tables: -0.115 (0.059)
+    n_lists: -0.102 (0.057)
+    has_faq: -0.108 (0.047)
+    has_summary_box: +0.023 (0.041)
+    has_author: -0.005 (0.058)
+    has_schema: +0.108 (0.076)
+    page_age_days: -0.080 (0.050)
+own + competitor ...
+    prompt_match_words: +0.098 (0.083)
+    title_match: +0.412 (0.062)
+    intro_match: -0.063 (0.070)
+    best_paragraph_match: +0.291 (0.091)
+    word_count: +0.060 (0.047)
+    outbound_links: -0.028 (0.089)
+    n_headings: +0.155 (0.068)
+    n_tables: -0.231 (0.181)
+    n_lists: -0.062 (0.139)
+    has_faq: -0.158 (0.080)
+    has_summary_box: -0.021 (0.056)
+    has_author: +0.059 (0.088)
+    has_schema: -0.109 (0.125)
+    page_age_days: -0.061 (0.091)
+third party ...
+    prompt_match_words: +0.130 (0.068)
+    title_match: +0.170 (0.053)
+    intro_match: -0.020 (0.050)
+    best_paragraph_match: +0.208 (0.067)
+    word_count: +0.021 (0.067)
+    outbound_links: +0.067 (0.053)
+    n_headings: +0.075 (0.026)
+    n_tables: -0.060 (0.048)
+    n_lists: -0.056 (0.052)
+    has_faq: -0.036 (0.058)
+    has_summary_box: +0.098 (0.052)
+    has_author: -0.008 (0.078)
+    has_schema: +0.118 (0.090)
+    page_age_days: -0.015 (0.054)
+sample               all pages own + competitor third party
+term                                                       
+best_paragraph_match     16.3*            22.3*       15.5*
+has_author                -0.3              4.2        -0.6
+has_faq                  -7.2*           -10.4*        -2.4
+has_schema                 7.8             -7.3         8.5
+has_summary_box            1.6             -1.4         7.0
+intro_match               -3.4             -4.3        -1.3
+n_headings                8.4*            11.3*        5.4*
+n_lists                   -6.8             -4.2        -3.8
+n_tables                  -7.7            -14.8        -4.1
+outbound_links             0.1             -1.9         4.7
+page_age_days             -5.4             -4.2        -1.1
+prompt_match_words       12.7*              7.1         9.5
+title_match              27.8*            33.1*       12.5*
+word_count                6.3*              4.2         1.4
+le                   all pages own + competitor   third party
+term                                                             
+best_paragraph_match     always up             flat     always up
+has_author            binary (n/a)     binary (n/a)  binary (n/a)
+has_faq               binary (n/a)     binary (n/a)  binary (n/a)
+has_schema            binary (n/a)     binary (n/a)  binary (n/a)
+has_summary_box       binary (n/a)     binary (n/a)  binary (n/a)
+intro_match                   flat             flat          flat
+n_headings               always up             flat     always up
+n_lists                       flat             flat          flat
+n_tables                      flat             flat          flat
+outbound_links                flat             flat     always up
+page_age_days                 flat             flat          flat
+prompt_match_words       always up        always up     always up
+title_match              always up        always up     always up
+word_count                    flat             flat          flat
+=== r07_importance.py
+A: page + website score: CV R2 = 0.089; top: title_match 0.243, website_score 0.156, page_type 0.139, best_paragraph_match 0.125, prompt_match_words 0.119, n_headings 0.088
+B: page + outside authority: CV R2 = 0.084; top: title_match 0.242, prompt_match_words 0.145, best_paragraph_match 0.131, page_type 0.128, n_headings 0.087, page_age_days 0.082
+C: page + website score + authority: CV R2 = 0.090; top: title_match 0.233, website_score 0.149, page_type 0.130, prompt_match_words 0.121, best_paragraph_match 0.111, n_headings 0.083
+                            version  cv_r2 strongest_non_page strongest_page_feature  ratio_non_page_to_page
+            A: page + website score  0.089      website_score            title_match                   0.642
+        B: page + outside authority  0.084    log_cc_pagerank            title_match                   0.312
+C: page + website score + authority  0.090      website_score            title_match                   0.639
+=== r08_simpson.py
+speed score from ['lcp', 'inp', 'cls']: 22 URLs with their own (page-level) data
+speed not testable: fewer than 100 pages with page-level Chrome UX data
+estimate                                               pooled, alone pooled, full model within website
+sample      tip             verdict                                                                   
+all pages   has_author      disappears within websites          7.7*                1.4            1.0
+            has_faq         disappears within websites         10.6*               -0.6           -1.0
+            has_schema      no effect either way                 0.8               -2.0            6.2
+            has_summary_box disappears within websites          8.6*                3.2            3.2
+third party has_author      disappears within websites          5.9*               -0.4           -0.0
+            has_faq         disappears within websites          4.9*               -1.7           -2.9
+            has_schema      no effect either way                 3.6               -0.6           10.4
+            has_summary_box disappears within websites          7.0*                4.1            6.4
+=== r09_robustness.py
+time split: train 20260624..20260830 (excl.), hold-out 20260830..20260921
+          sample  n_urls  r2_holdout  spearman_holdout  r2_website_only
+       all pages    2477       0.135             0.353            0.080
+own + competitor    1079       0.093             0.321            0.013
+     third party    1398       0.122             0.305            0.089
+sample                all pages  own + competitor  third party
+term                                                          
+best_paragraph_match          5                 5            5
+has_author                    3                 3            3
+has_faq                       3                 3            3
+has_schema                    5                 3            5
+has_summary_box               3                 3            5
+intro_match                   2                 3            3
+n_headings                    5                 5            5
+n_lists                       4                 2            4
+n_tables                      3                 2            2
+outbound_links                5                 5            5
+page_age_days                 4                 4            3
+prompt_match_words            5                 5            5
+title_match                   5                 5            5
+word_count                    3                 2            3
+
+leave-one-website-out (all pages, same sign of 8):
+term
+best_paragraph_match    8.0
+has_author              6.0
+has_faq                 8.0
+has_schema              8.0
+has_summary_box         8.0
+intro_match             3.0
+n_headings              8.0
+n_lists                 8.0
+n_tables                8.0
+outbound_links          8.0
+page_age_days           8.0
+prompt_match_words      8.0
+title_match             8.0
+word_count              8.0
+
+per engine (% per SD):
+check                 engine: ChatGPT  engine: Gemini  engine: Perplexity
+term                                                                     
+best_paragraph_match             -2.0            14.0                 2.8
+has_author                      -14.8            16.6                 0.1
+has_faq                          25.5           -13.0                 1.7
+has_schema                       14.6            12.5                -3.9
+has_summary_box                  -6.7            12.3                -2.5
+intro_match                      -7.4             5.2                -0.8
+n_headings                        8.0             2.5                 0.7
+n_lists                          -0.1            -6.7                 0.1
+n_tables                          3.2            -5.4                 4.1
+outbound_links                    0.8             2.0                 2.4
+page_age_days                    -3.2            -2.8                 3.4
+prompt_match_words                6.2            14.1                 1.5
+title_match                       0.2            31.6                 2.2
+word_count                       -2.1             3.2                 1.7
+=== r10_paragraph_depth.py
+               group                             subgroup  n_pages  median    mean  share_top_quarter  share_bottom_quarter  wilcoxon_p
+                 all                      all cited pages     6764  0.3738  0.4226             0.4054                0.2408      0.0000
+              engine                              ChatGPT     1998  0.3684  0.4170             0.4024                0.2247      0.0000
+              engine                               Gemini     4919  0.3750  0.4247             0.4052                0.2482      0.0000
+              engine                           Perplexity      252  0.3932  0.4368             0.3889                0.2579      0.0021
+           page type                              article     2610  0.3953  0.4372             0.3858                0.2621      0.0000
+           page type                           comparison      327  0.4048  0.4417             0.4037                0.2783      0.0011
+           page type                               how-to      767  0.4058  0.4250             0.4172                0.2438      0.0000
+           page type                                 list     1412  0.3885  0.4315             0.3931                0.2592      0.0000
+           page type                                other     1153  0.3333  0.3857             0.4475                0.1856      0.0000
+           page type                        pricing/plans       59  0.3824  0.4108             0.4407                0.1864      0.0511
+           page type                      product/service       94  0.2621  0.3414             0.5000                0.1383      0.0000
+           page type                          review list      102  0.3397  0.4161             0.4020                0.2255      0.0088
+           page type                         support/help      229  0.3478  0.3928             0.4061                0.1616      0.0000
+within-website model y on depth (per SD), URLs cited >= 2     2389     NaN -2.4930                NaN                   NaN      0.3128
+=== r11_engines.py
+4,950 prompt-days answered by all three engines; 71,849 citations
+    engine     page_type  n_citations_with_date  share_with_date  median_age_days  pct_under_3_months  pct_under_12_months  pct_over_3_years
+    OPENAI           all                   2724              0.3            136.5                37.5                 67.7              13.3
+    OPENAI       article                   1308              0.4            129.0                39.1                 65.9              14.5
+    OPENAI  support/help                    170              0.3            600.5                22.4                 34.1              45.9
+    GEMINI           all                  33161              0.5            212.0                24.7                 67.2               9.0
+    GEMINI       article                   9605              0.6            365.0                14.4                 49.9              14.4
+    GEMINI pricing/plans                    152              0.6            185.5                40.1                 61.2              24.3
+    GEMINI  support/help                    240              0.6            300.5                 7.9                 62.9               0.4
+PERPLEXITY           all                    575              0.6            227.0                27.1                 63.0              11.8
+PERPLEXITY       article                    166              0.7            311.5                28.9                 59.6              18.1
+               pct                   pct_position_weighted                  
+engine      GEMINI OPENAI PERPLEXITY                GEMINI OPENAI PERPLEXITY
+role                                                                        
+competitor    43.7   46.2       44.7                  46.4   46.4       45.0
+mixed          0.0    0.0        0.0                   0.0    0.0        0.0
+own            1.6    5.1        0.0                   2.3    5.8        0.0
+third_party   54.7   48.7       55.3                  51.3   47.8       55.0
+engine                     GEMINI  OPENAI  PERPLEXITY
+platform                                             
+Facebook                     0.03    0.00        0.00
+LinkedIn                     0.00    0.08        0.76
+Quora                        0.01    0.00        0.00
+Reddit                       0.70    0.11        4.90
+Wikipedia                    0.01    1.35        0.00
+YouTube                      4.12    0.01        2.83
+review / comparison sites    0.13    0.08        0.11
+=== r12_page_type_topic.py
+      page_type  pct_vs_article     p
+     comparison           6.794 0.577
+          forum         149.067 0.001
+         how-to           1.444 0.873
+           list          47.704 0.000
+          other           9.574 0.288
+  pricing/plans          13.111 0.604
+product/service          -6.034 0.693
+    review list         149.558 0.000
+   support/help          26.547 0.430
+group              AEC Industry Focus AI Capabilities Competitive Landscape Knowledge Management Proposal Automation Workflow Integration comparing learning
+term                                                                                                                                                        
+has_author                       -6.7            -1.8                  -7.9                 14.1                -1.9                 -2.1     12.1*     -3.4
+has_faq                           4.0             1.3                   6.3                 -4.6                 2.5                  0.1       1.8     -4.5
+has_schema                        5.2            -0.4                  16.0                  3.6                 0.8                  2.2      -4.4     15.2
+has_summary_box                  -9.9           16.4*                   7.5                -10.3               -10.7                 -1.4    -10.5*     11.0
+prompt_match_words               9.0*             4.6                  9.7*                  4.6                 2.6                  2.2       1.8    12.8*
+title_match                     11.5*            7.5*                   1.0                 8.2*               17.4*                 6.4*      8.5*    24.8*
+=== r13_variance_split.py
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+                 sample                   all pages own + competitor   third party
+term                                                             
+best_paragraph_match     always up             flat     always up
+has_author            binary (n/a)     binary (n/a)  binary (n/a)
+has_faq               binary (n/a)     binary (n/a)  binary (n/a)
+has_schema            binary (n/a)     binary (n/a)  binary (n/a)
+has_summary_box       binary (n/a)     binary (n/a)  binary (n/a)
+intro_match                   flat             flat          flat
+n_headings               always up             flat     always up
+n_lists                       flat             flat          flat
+n_tables                      flat             flat          flat
+outbound_links                flat             flat     always up
+page_age_days                 flat             flat          flat
+prompt_match_words       always up        always up     always up
+title_match              always up        always up     always up
+word_count                    flat             flat          flat
+en  reliability  chance_share  n_urls  n_days
+                   all variation      0.8233       0.9031        0.0969    2477      90
+                 within websites      0.8133       0.8970        0.1030    2477      90
+between websites (site averages)      0.7989       0.8882        0.1118    2477      90
+ min_pages_per_website  n_urls  n_websites  cv_r2_website_only  cv_r2_website_plus_page  cv_r2_page_only
+                     2    2477         515             -0.1279                  -0.0279           0.1245
+                    10     984          49              0.0568                   0.1189           0.1607
+                    30     356           8              0.0237                   0.0597           0.0611
+=== r14_authority.py
+WEBSITE LEVEL
+       A: page + website score: CV R2 = 0.089; top: title_match 0.243, website_score 0.156, page_type 0.139, best_paragraph_match 0.125, prompt_match_words 0.119, n_headings 0.088
+B: page + outside authority: CV R2 = 0.084; top: title_match 0.242, prompt_match_words 0.145, best_paragraph_match 0.131, page_type 0.128, n_headings 0.087, page_age_days 0.082
+C: page + website score + authority: CV R2 = 0.090; top: title_match 0.233, website_score 0.149, page_type 0.130, prompt_match_words 0.121, best_paragraph_match 0.111, n_headings 0.083
+                            version  cv_r2 strongest_non_page strongest_page_feature  ratio_non_page_to_page
+            A: page + website score  0.089      website_score            title_match                   0.642
+        B: page + outside authority  0.084    log_cc_pagerank            title_match                   0.312
+C: page + website score + authority  0.090      website_score            title_match                   0.639
+669         656                        0.027                          0.144
+     without pages control              cc_harmonic  0.312 0.028 0.000                     24.183 0.267        3225                        0.018                          0.129
+     without pages control          log_cc_pagerank  0.369 0.033 0.000                     29.159 0.278        3225                        0.017                          0.131
+     without pages control log_majestic_ref_subnets  0.302 0.052 0.000                     23.261 0.195        1544                       -0.041                          0.079
+     without pages control          log_tranco_rank  0.351 0.034 0.000                     27.526 0.282        3622                        0.011                          0.135
+     without pages control            log_crux_rank  0.375 0.086 0.000                     29.672 0.145         656                        0.027                          0.144
+
+PAGE LEVEL
+        model                 term    coef     se      p  pct_change_per_sd  n_urls  n_websites
+  mixed model          cc_harmonic -0.0094 0.0317 0.7669            -0.6500    3836        1874
+  mixed model   prompt_match_words  0.1762 0.0320 0.0000            12.9906    3836        1874
+  mixed model          title_match  0.2327 0.0277 0.0000            17.5066    3836        1874
+  mixed model          intro_match -0.0032 0.0273 0.9060            -0.2228    3836        1874
+  mixed model best_paragraph_match  0.0947 0.0352 0.0071             6.7868    3836        1874
+  mixed model        page_age_days  0.0146 0.0287 0.6121             1.0140    3836        1874
+clustered OLS          cc_harmonic -0.0190 0.0319 0.5512            -1.3108    3836        1874
+clustered OLS   prompt_match_words  0.2055 0.0387 0.0000            15.3105    3836        1874
+clustered OLS          title_match  0.2423 0.0316 0.0000            18.2884    3836        1874
+clustered OLS          intro_match -0.0107 0.0282 0.7034            -0.7406    3836        1874
+clustered OLS best_paragraph_match  0.1073 0.0400 0.0074             7.7199    3836        1874
+clustered OLS        page_age_days  0.0313 0.0304 0.3030             2.1960    3836        1874
+
+INTERACTION
+              term    coef     se      p
+       cc_harmonic -0.0310 0.0350 0.3761
+prompt_match_words  0.2007 0.0388 0.0000
+       title_match  0.2363 0.0320 0.0000
+      auth_x_match -0.0301 0.0318 0.3442
+      auth_x_title -0.0283 0.0294 0.3352
+
+SCORE COMPARISON
+                   score     r2  holdout_rmse  holdout_r2    coef
+             cc_harmonic 0.1238        1.3450      0.0519 -0.0190
+         log_cc_pagerank 0.1245        1.3453      0.0514 -0.0559
+                    none 0.1219        1.3467      0.0495     NaN
+log_majestic_ref_subnets 0.1247        1.3473      0.0486 -0.1338
+           log_crux_rank 0.1232        1.3476      0.0482 -0.0293
+         log_tranco_rank 0.1236        1.3477      0.0482 -0.0820
+
+SUBSETS (authority term)
+                                 subset     outcome        term   coef    se     p  n_urls  pct_change_per_sd
+                              all pages all engines cc_harmonic -0.019 0.032 0.551    3836             -1.311
+                       own + competitor all engines cc_harmonic -0.035 0.096 0.719    1157             -2.367
+                            third party all engines cc_harmonic  0.022 0.027 0.416    2679              1.560
+without reddit/youtube/google/wikipedia all engines cc_harmonic -0.026 0.033 0.427    3830             -1.777
+                              all pages     ChatGPT cc_harmonic  0.086 0.039 0.030    3836              6.129
+                              all pages      Gemini cc_harmonic -0.100 0.045 0.028    3836             -6.684
+                              all pages  Perplexity cc_harmonic  0.013 0.010 0.175    3836              0.934
+
+NEW vs ESTABLISHED websites (median z)
+                            established (first cited before last 30 days)  new (first cited in last 30 days)
+cc_harmonic_z                                                       -0.03                              -0.12
+log_cc_pagerank_z                                                   -0.18                              -0.31
+log_majestic_ref_subnets_z                                          -0.30                              -0.24
+log_tranco_rank_z                                                   -0.51                              -0.51
+log_crux_rank_z                                                     -0.43                              -0.43
+
+TOP OVER / UNDER
+          group          website  total  cc_harmonic
+ over-performer     flowcase.com   3246   13621323.0
+ over-performer       unanet.com   1977   16424494.0
+ over-performer       loopio.com   1544   13643265.0
+ over-performer      workorb.com   1495   12993824.0
+ over-performer    openasset.com   1526   14168883.0
+ over-performer      youtube.com   2523   25080294.0
+ over-performer    responsive.io   1267   13777344.0
+ over-performer    autogenai.com   1107   13702559.0
+under-performer          nih.gov     20   19666792.0
+under-performer         mdpi.com     21   18815492.0
+under-performer    pipedrive.com     20   17743194.0
+under-performer  sourceforge.net     21   18589358.0
+under-performer   mentimeter.com     20   17165774.0
+under-performer      beebole.com     20   16747504.0
+under-performer fundsforngos.org     20   16641486.0
+under-performer  betterworks.com     20   16622941.0
+=== is_it_real.py
+# "Is it real?" table
+
+Effect = R2 estimate: % more citations per +1 SD; for yes/no features (FAQ, summary box, author, structured data) % more citations when the page has it vs not. Pages are compared on the same website.
+
+## all pages
+
+| feature | effect | 1 significance (R3) | 2 repeat selection (R4) | 3 double ML (R5) | 4 shape (R6) | 5 robustness (R9) | real? |
+|---|---|---|---|---|---|---|---|
+| title matches a prompt | +26.4% | ✓ | ✓ | ✓ | ✓ | ✓ | **yes** |
+| best paragraph matches | +12.9% | ✓ | ✓ | ✓ | ✓ | ✓ | **yes** |
+| word overlap with prompts | +13.0% | ✓ | ✗ | ✓ | ✓ | ✓ | **no** |
+| headings | +7.7% | ✓ | ✗ | ✓ | ✓ | ✓ | **no** |
+| has structured data | +16.3% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| has FAQ | -1.9% | ✗ | ✗ | ✓ | ✓ | ✗ | **no** |
+| has summary box | +8.0% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| outbound links | +3.2% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| word count | +2.2% | ✗ | ✗ | ✓ | ✗ | ✗ | **no** |
+| has author | +2.1% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| page age | -2.7% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| lists | -4.8% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| first paragraph matches | +0.1% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| tables | -2.5% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+
+## own + competitor
+
+| feature | effect | 1 significance (R3) | 2 repeat selection (R4) | 3 double ML (R5) | 4 shape (R6) | 5 robustness (R9) | real? |
+|---|---|---|---|---|---|---|---|
+| title matches a prompt | +33.6% | ✓ | ✓ | ✓ | ✓ | ✓ | **yes** |
+| best paragraph matches | +11.9% | ✗ | ✓ | ✓ | ✗ | ✓ | **no** |
+| word overlap with prompts | +14.5% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| headings | +8.9% | ✗ | ✗ | ✓ | ✗ | ✓ | **no** |
+| has FAQ | +3.2% | ✗ | ✗ | ✓ | ✓ | ✗ | **no** |
+| has author | +4.2% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| has summary box | +3.0% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| outbound links | +1.2% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| has structured data | +1.1% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| page age | -4.0% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| word count | +1.5% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| first paragraph matches | -2.1% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| lists | -2.8% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| tables | -4.4% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+
+## third party
+
+| feature | effect | 1 significance (R3) | 2 repeat selection (R4) | 3 double ML (R5) | 4 shape (R6) | 5 robustness (R9) | real? |
+|---|---|---|---|---|---|---|---|
+| title matches a prompt | +17.6% | ✓ | ✓ | ✓ | ✓ | ✓ | **yes** |
+| best paragraph matches | +14.6% | ✗ | ✓ | ✓ | ✓ | ✓ | **no** |
+| headings | +5.9% | ✓ | ✗ | ✓ | ✓ | ✓ | **no** |
+| has structured data | +28.2% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| has summary box | +16.4% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| word overlap with prompts | +10.5% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| outbound links | +4.9% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| has author | -0.0% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| lists | -5.1% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| has FAQ | -5.8% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| first paragraph matches | +1.0% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| page age | +0.4% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| word count | -0.3% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| tables | -1.9% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+
+## Appendix: features that did not pass
+
+- **all pages**: word overlap with prompts (failed: repeat selection (R4)); first paragraph matches (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); word count (failed: significance (R3), repeat selection (R4), shape (R6), robustness (R9)); outbound links (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); headings (failed: repeat selection (R4)); tables (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); lists (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); has FAQ (failed: significance (R3), repeat selection (R4), robustness (R9)); has summary box (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); has author (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); has structured data (failed: significance (R3), repeat selection (R4), double ML (R5)); page age (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6))
+- **own + competitor**: word overlap with prompts (failed: significance (R3), repeat selection (R4), double ML (R5)); first paragraph matches (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); best paragraph matches (failed: significance (R3), shape (R6)); word count (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); outbound links (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); headings (failed: significance (R3), repeat selection (R4), shape (R6)); tables (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); lists (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); has FAQ (failed: significance (R3), repeat selection (R4), robustness (R9)); has summary box (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); has author (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); has structured data (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); page age (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6))
+- **third party**: word overlap with prompts (failed: significance (R3), repeat selection (R4), double ML (R5)); first paragraph matches (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); best paragraph matches (failed: significance (R3)); word count (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); outbound links (failed: significance (R3), repeat selection (R4), double ML (R5)); headings (failed: repeat selection (R4)); tables (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); lists (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); has FAQ (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); has summary box (failed: significance (R3), repeat selection (R4), double ML (R5)); has author (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); has structured data (failed: significance (R3), repeat selection (R4), double ML (R5)); page age (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9))
+=== x03_analyse.py
+                                                 0       1
+engine                                     ChatGPT  Gemini
+prompts                                        110     110
+searched                                        18      52
+collected_zero_share_when_replay_searched    0.117   0.161
+collected_zero_share_when_replay_did_not     0.903    0.43
+replay_cited_in_collected_last14             0.637   0.668
+collected_lastday_in_previous13              0.592    0.77
+                                             0
+pairs                                   2821.0
+pct_pairs_consulted                        9.5
+pct_citations_consulted                   30.0
+pct_pairs_cited                            4.6
+pct_citations_cited                       23.2
+consulted_per_prompt                      53.0
+cited_per_prompt                          10.5
+pct_consulted_cited                       19.2
+pct_consulted_ever_cited_in_collection    35.4
+rank_bin  consulted  pct_cited_replay  pct_ever_cited_collected  mean_collected_citations
+       1         39             61.54                     74.36                     15.72
+       2         38             68.42                     65.79                     13.42
+       3         38             50.00                     76.32                     10.68
+     4-5         76             50.00                     64.47                     10.86
+    6-10        189             36.51                     56.08                      5.65
+   11-20        373              6.97                     27.08                      1.23
+     21+        278              1.08                      6.83                      0.19
+             coef     se    p  odds_ratio
+log_rank   -1.082  0.083  0.0       0.339
+multi_call  2.607  0.642  0.0      13.563
+ pairs   r2  r2_within_prompt  coef_log_rank  coef_multi_call
+  1031 0.28             0.313         -0.666            0.513
+ replays outcome                                     model  n_urls  within_share  explained_within  reliability_within  stable_unexplained  pct_pages_consulted
+       1   total                     replay retrieval only     629         0.894             0.169               0.771               0.538               16.534
+       1   total                  replay retrieval + cited     629         0.894             0.202               0.771               0.509               16.534
+       1 breadth                     replay retrieval only     629         0.791             0.077               0.519               0.350               16.534
+       1 breadth                  replay retrieval + cited     629         0.791             0.083               0.519               0.344               16.534
+       1   depth                     replay retrieval only     629         0.857             0.116               0.859               0.636               16.534
+       1   depth                  replay retrieval + cited     629         0.857             0.144               0.859               0.613               16.534
+       2   total                     replay retrieval only     629         0.894             0.197               0.771               0.513               22.258
+       2   total                  replay retrieval + cited     629         0.894             0.257               0.771               0.460               22.258
+       2 breadth                     replay retrieval only     629         0.791             0.083               0.519               0.345               22.258
+       2 breadth                  replay retrieval + cited     629         0.791             0.092               0.519               0.338               22.258
+       2   depth                     replay retrieval only     629         0.857             0.147               0.859               0.611               22.258
+       2   depth                  replay retrieval + cited     629         0.857             0.197               0.859               0.567               22.258
+       3   total                       page variables (E1)     629         0.894             0.002               0.771               0.687               26.868
+       3   total                         replay cited only     629         0.894             0.271               0.771               0.447               26.868
+       3   total                     replay retrieval only     629         0.894             0.214               0.771               0.498               26.868
+       3   total                  replay retrieval + cited     629         0.894             0.284               0.771               0.435               26.868
+       3   total         page variables + replay retrieval     629         0.894             0.228               0.771               0.486               26.868
+       3   total page variables + replay retrieval + cited     629         0.894             0.280               0.771               0.439               26.868
+       3 breadth                       page variables (E1)     629         0.791             0.056               0.519               0.366               26.868
+       3 breadth                         replay cited only     629         0.791             0.104               0.519               0.328               26.868
+       3 breadth                     replay retrieval only     629         0.791             0.088               0.519               0.341               26.868
+       3 breadth                  replay retrieval + cited     629         0.791             0.104               0.519               0.328               26.868
+       3 breadth         page variables + replay retrieval     629         0.791             0.152               0.519               0.290               26.868
+       3 breadth page variables + replay retrieval + cited     629         0.791             0.163               0.519               0.282               26.868
+       3   depth                       page variables (E1)     629         0.857            -0.009               0.859               0.744               26.868
+       3   depth                         replay cited only     629         0.857             0.240               0.859               0.530               26.868
+       3   depth                     replay retrieval only     629         0.857             0.179               0.859               0.583               26.868
+       3   depth                  replay retrieval + cited     629         0.857             0.239               0.859               0.531               26.868
+       3   depth         page variables + replay retrieval     629         0.857             0.170               0.859               0.590               26.868
+       3   depth page variables + replay retrieval + cited     629         0.857             0.230               0.859               0.539               26.868
+ prompts  pct_search_agree  jaccard_queries  jaccard_consulted  jaccard_cited
+      55            96.364            0.027              0.182          0.168
+     33161              0.5            212.0                24.7                 67.2               9.0
+    GEMINI       article                   9605              0.6            365.0                14.4                 49.9              14.4
+    GEMINI pricing/plans                    152              0.6            185.5                40.1                 61.2              24.3
+    GEMINI  support/help                    240              0.6            300.5                 7.9                 62.9               0.4
+PERPLEXITY           all                    575              0.6            227.0                27.1                 63.0              11.8
+PERPLEXITY       article                    166              0.7            311.5                28.9                 59.6              18.1
+               pct                   pct_position_weighted                  
+engine      GEMINI OPENAI PERPLEXITY                GEMINI OPENAI PERPLEXITY
+role                                                                        
+competitor    43.7   46.2       44.7                  46.4   46.4       45.0
+mixed          0.0    0.0        0.0                   0.0    0.0        0.0
+own            1.6    5.1        0.0                   2.3    5.8        0.0
+third_party   54.7   48.7       55.3                  51.3   47.8       55.0
+engine                     GEMINI  OPENAI  PERPLEXITY
+platform                                             
+Facebook                     0.03    0.00        0.00
+LinkedIn                     0.00    0.08        0.76
+Quora                        0.01    0.00        0.00
+Reddit                       0.70    0.11        4.90
+Wikipedia                    0.01    1.35        0.00
+YouTube                      4.12    0.01        2.83
+review / comparison sites    0.13    0.08        0.11
+=== r12_page_type_topic.py
+      page_type  pct_replay: 4 ChatGPT runs on 2 day(s)
+rank_bin  consulted  pct_cited  ci_low  ci_high  source_lists
+       1         74      59.46   48.68    70.27            65
+       2         73      61.64   49.30    73.24            65
+       3         73      47.95   35.62    60.00            65
+     4-5        146      47.95   39.31    56.58            65
+    6-10        363      35.81   30.22    42.17            65
+   11-20        718       7.38    5.45     9.44            65
+     21+        517       1.35    0.43     2.41            65
+selection: 2 of 200 resamples could not be fitted
+  variable   coef  odds_ratio  or_ci_low  or_ci_high  prompts  resamples
+  log_rank -1.029       0.357      0.300       0.411       21        200
+multi_call  3.077      21.702      7.977      36.083       21        200
+outcome                                     model  r2_within  ci_low  ci_high  n_urls  n_websites  resamples
+  total                            page variables     0.0999  0.0858   0.1964     629         130       1000
+  total                          replay retrieval     0.2281  0.1003   0.3612     629         130       1000
+  total                  replay retrieval + cited     0.2987  0.1570   0.4310     629         130       1000
+  total page variables + replay retrieval + cited     0.3552  0.2593   0.4939     629         130       1000
+  total    difference: retrieval - page variables     0.1282 -0.0675   0.2374     629         130       1000
+breadth                            page variables     0.1324  0.1048   0.2518     629         130       1000
+breadth                          replay retrieval     0.0933  0.0205   0.1901     629         130       1000
+breadth                  replay retrieval + cited     0.1120  0.0495   0.2098     629         130       1000
+breadth page variables + replay retrieval + cited     0.2244  0.1860   0.3663     629         130       1000
+breadth    difference: retrieval - page variables    -0.0390 -0.1994   0.0510     629         130       1000
+  depth                            page variables     0.0671  0.0644   0.1638     629         130       1000
+  depth                          replay retrieval     0.1881  0.0837   0.2848     629         130       1000
+  depth                  replay retrieval + cited     0.2542  0.1270   0.3792     629         130       1000
+  depth page variables + replay retrieval + cited     0.2890  0.1951   0.4354     629         130       1000
+  depth    difference: retrieval - page variables     0.1210 -0.0431   0.1897     629         130       1000
+outcome  r2_within_observed  r2_within_shuffled_mean  shuffled_p95  p_value  permutations
+  total              0.2281                   0.0083        0.0215    0.005           200
+breadth              0.0933                   0.0067        0.0179    0.005           200
+  depth              0.1881                   0.0073        0.0196    0.005           200
+window_start window_end  r2_within  ci_low  ci_high  replay_runs
+    20260624   20260707     0.0557  0.0161   0.1088            4
+    20260708   20260721     0.0982  0.0408   0.1656            4
+    20260722   20260804     0.1131  0.0459   0.1835            4
+    20260805   20260818     0.1300  0.0622   0.1985            4
+    20260819   20260901     0.1912  0.1081   0.2767            4
+    20260902   20260915     0.2289  0.1407   0.3160            4
+    20260916   20260921     0.2463  0.1353   0.3523            4
+same day: no dates shared by replay and collection yet (add new pfetch dumps and rerun load_data.py)
+ely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+                                                     model  r2_in_sample  r2_cross_validated  n_urls  n_websites
+                                               (1) nothing        0.0000             -0.0009    2477         515
+                                       (2) word count only        0.0068              0.0059    2477         515
+                                (3) outside authority only        0.0574              0.0483    2477         515
+                                          (4) website only        0.2667             -0.1279    2477         515
+                          (5) website + all page variables        0.3470             -0.0279    2477         515
+(6) authority + all page variables (no website indicators)        0.1575              0.1295    2477         515
+            part  share_of_total  explained_by_page_variables  n_urls  n_websites
+between websites          0.0885                      -0.1248    2477         515
+ within websites          0.9115                       0.1149    2477         515
+                            part  r_odd_even  reliability  chance_share  n_urls  n_days
+                   all variation      0.8233       0.9031        0.0969    2477      90
+                 within websites      0.8133       0.8970        0.1030    2477      90
+between websites (site averages)      0.7989       0.8882        0.1118    2477      90
+ min_pages_per_website  n_urls  n_websites  cv_r2_website_only  cv_r2_website_plus_page  cv_r2_page_only
+                     2    2477         515             -0.1279                  -0.0279           0.1245
+                    10     984          49              0.0568                   0.1189           0.1607
+                    30     356           8              0.0237                   0.0597           0.0611
+=== r14_authority.py
+WEBSITE LEVEL
+                      spec                    score   coef    se     p  pct_more_citations_per_sd    r2  n_websites  spearman_with_in_data_score  spearman_with_total_citations
+with pages control (guide)              cc_harmonic  0.001 0.019 0.967                      0.054 0.613        3225                        0.018                          0.129
+with pages control (guide)          log_cc_pagerank -0.022 0.021 0.307                     -1.483 0.613        3225                        0.017                          0.131
+with pages control (guide) log_majestic_ref_subnets -0.082 0.029 0.004                     -5.521 0.661        1544                       -0.041                          0.079
+with pages control (guide)          log_tranco_rank -0.029 0.020 0.136                     -2.008 0.614        3622                        0.011                          0.135
+with pages control (guide)            log_crux_rank -0.107 0.039 0.006                     -7.175 0.669         656                        0.027                          0.144
+     without pages control              cc_harmonic  0.312 0.028 0.000                     24.183 0.267        3225                        0.018                          0.129
+     without pages control          log_cc_pagerank  0.369 0.033 0.000                     29.159 0.278        3225                        0.017                          0.131
+     without pages control log_majestic_ref_subnets  0.302 0.052 0.000                     23.261 0.195        1544                       -0.041                          0.079
+     without pages control          log_tranco_rank  0.351 0.034 0.000                     27.526 0.282        3622                        0.011                          0.135
+     without pages control            log_crux_rank  0.375 0.086 0.000                     29.672 0.145         656                        0.027                          0.144
+
+PAGE LEVEL
+        model                 term    coef     se      p  pct_change_per_sd  n_urls  n_websites
+  mixed model          cc_harmonic -0.0094 0.0317 0.7669            -0.6500    3836        1874
+  mixed model   prompt_match_words  0.1762 0.0320 0.0000            12.9906    3836        1874
+  mixed model          title_match  0.2327 0.0277 0.0000            17.5066    3836        1874
+  mixed model          intro_match -0.0032 0.0273 0.9060            -0.2228    3836        1874
+  mixed model best_paragraph_match  0.0947 0.0352 0.0071             6.7868    3836        1874
+  mixed model        page_age_days  0.0146 0.0287 0.6121             1.0140    3836        1874
+clustered OLS          cc_harmonic -0.0190 0.0319 0.5512            -1.3108    3836        1874
+clustered OLS   prompt_match_words  0.2055 0.0387 0.0000            15.3105    3836        1874
+clustered OLS          title_match  0.2423 0.0316 0.0000            18.2884    3836        1874
+clustered OLS          intro_match -0.0107 0.0282 0.7034            -0.7406    3836        1874
+clustered OLS best_paragraph_match  0.1073 0.0400 0.0074             7.7199    3836        1874
+clustered OLS        page_age_days  0.0313 0.0304 0.3030             2.1960    3836        1874
+
+INTERACTION
+              term    coef     se      p
+       cc_harmonic -0.0310 0.0350 0.3761
+prompt_match_words  0.2007 0.0388 0.0000
+       title_match  0.2363 0.0320 0.0000
+      auth_x_match -0.0301 0.0318 0.3442
+      auth_x_title -0.0283 0.0294 0.3352
+
+SCORE COMPARISON
+                   score     r2  holdout_rmse  holdout_r2    coef
+             cc_harmonic 0.1238        1.3450      0.0519 -0.0190
+         log_cc_pagerank 0.1245        1.3453      0.0514 -0.0559
+                    none 0.1219        1.3467      0.0495     NaN
+log_majestic_ref_subnets 0.1247        1.3473      0.0486 -0.1338
+           log_crux_rank 0.1232        1.3476      0.0482 -0.0293
+         log_tranco_rank 0.1236        1.3477      0.0482 -0.0820
+
+SUBSETS (authority term)
+                                 subset     outcome        term   coef    se     p  n_urls  pct_change_per_sd
+                              all pages all engines cc_harmonic -0.019 0.032 0.551    3836             -1.311
+                       own + competitor all engines cc_harmonic -0.035 0.096 0.719    1157             -2.367
+                            third party all engines cc_harmonic  0.022 0.027 0.416    2679              1.560
+without reddit/youtube/google/wikipedia all engines cc_harmonic -0.026 0.033 0.427    3830             -1.777
+                              all pages     ChatGPT cc_harmonic  0.086 0.039 0.030    3836              6.129
+                              all pages      Gemini cc_harmonic -0.100 0.045 0.028    3836             -6.684
+                              all pages  Perplexity cc_harmonic  0.013 0.010 0.175    3836              0.934
+
+NEW vs ESTABLISHED websites (median z)
+                            established (first cited before last 30 days)  new (first cited in last 30 days)
+cc_harmonic_z                                                       -0.03                              -0.12
+log_cc_pagerank_z                                                   -0.18                              -0.31
+log_majestic_ref_subnets_z                                          -0.30                              -0.24
+log_tranco_rank_z                                                   -0.51                              -0.51
+log_crux_rank_z                                                     -0.43                              -0.43
+
+TOP OVER / UNDER
+          group          website  total  cc_harmonic
+ over-performer     flowcase.com   3246   13621323.0
+ over-performer       unanet.com   1977   16424494.0
+ over-performer       loopio.com   1544   13643265.0
+ over-performer      workorb.com   1495   12993824.0
+ over-performer    openasset.com   1526   14168883.0
+ over-performer      youtube.com   2523   25080294.0
+ over-performer    responsive.io   1267   13777344.0
+ over-performer    autogenai.com   1107   13702559.0
+under-performer          nih.gov     20   19666792.0
+under-performer         mdpi.com     21   18815492.0
+under-performer    pipedrive.com     20   17743194.0
+under-performer  sourceforge.net     21   18589358.0
+under-performer   mentimeter.com     20   17165774.0
+under-performer      beebole.com     20   16747504.0
+under-performer fundsforngos.org     20   16641486.0
+under-performer  betterworks.com     20   16622941.0
+=== is_it_real.py
+# "Is it real?" table
+
+Effect = R2 estimate: % more citations per +1 SD; for yes/no features (FAQ, summary box, author, structured data) % more citations when the page has it vs not. Pages are compared on the same website.
+
+## all pages
+
+| feature | effect | 1 significance (R3) | 2 repeat selection (R4) | 3 double ML (R5) | 4 shape (R6) | 5 robustness (R9) | real? |
+|---|---|---|---|---|---|---|---|
+| title matches a prompt | +26.4% | ✓ | ✓ | ✓ | ✓ | ✓ | **yes** |
+| best paragraph matches | +12.9% | ✓ | ✓ | ✓ | ✓ | ✓ | **yes** |
+| word overlap with prompts | +13.0% | ✓ | ✗ | ✓ | ✓ | ✓ | **no** |
+| headings | +7.7% | ✓ | ✗ | ✓ | ✓ | ✓ | **no** |
+| has structured data | +16.3% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| has FAQ | -1.9% | ✗ | ✗ | ✓ | ✓ | ✗ | **no** |
+| has summary box | +8.0% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| outbound links | +3.2% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| word count | +2.2% | ✗ | ✗ | ✓ | ✗ | ✗ | **no** |
+| has author | +2.1% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| page age | -2.7% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| lists | -4.8% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| first paragraph matches | +0.1% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| tables | -2.5% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+
+## own + competitor
+
+| feature | effect | 1 significance (R3) | 2 repeat selection (R4) | 3 double ML (R5) | 4 shape (R6) | 5 robustness (R9) | real? |
+|---|---|---|---|---|---|---|---|
+| title matches a prompt | +33.6% | ✓ | ✓ | ✓ | ✓ | ✓ | **yes** |
+| best paragraph matches | +11.9% | ✗ | ✓ | ✓ | ✗ | ✓ | **no** |
+| word overlap with prompts | +14.5% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| headings | +8.9% | ✗ | ✗ | ✓ | ✗ | ✓ | **no** |
+| has FAQ | +3.2% | ✗ | ✗ | ✓ | ✓ | ✗ | **no** |
+| has author | +4.2% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| has summary box | +3.0% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| outbound links | +1.2% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| has structured data | +1.1% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| page age | -4.0% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| word count | +1.5% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| first paragraph matches | -2.1% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| lists | -2.8% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| tables | -4.4% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+
+## third party
+
+| feature | effect | 1 significance (R3) | 2 repeat selection (R4) | 3 double ML (R5) | 4 shape (R6) | 5 robustness (R9) | real? |
+|---|---|---|---|---|---|---|---|
+| title matches a prompt | +17.6% | ✓ | ✓ | ✓ | ✓ | ✓ | **yes** |
+| best paragraph matches | +14.6% | ✗ | ✓ | ✓ | ✓ | ✓ | **no** |
+| headings | +5.9% | ✓ | ✗ | ✓ | ✓ | ✓ | **no** |
+| has structured data | +28.2% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| has summary box | +16.4% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| word overlap with prompts | +10.5% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| outbound links | +4.9% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| has author | -0.0% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| lists | -5.1% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| has FAQ | -5.8% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| first paragraph matches | +1.0% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| page age | +0.4% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| word count | -0.3% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| tables | -1.9% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+
+## Appendix: features that did not pass
+
+- **all pages**: word overlap with prompts (failed: repeat selection (R4)); first paragraph matches (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); word count (failed: significance (R3), repeat selection (R4), shape (R6), robustness (R9)); outbound links (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); headings (failed: repeat selection (R4)); tables (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); lists (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); has FAQ (failed: significance (R3), repeat selection (R4), robustness (R9)); has summary box (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); has author (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); has structured data (failed: significance (R3), repeat selection (R4), double ML (R5)); page age (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6))
+- **own + competitor**: word overlap with prompts (failed: significance (R3), repeat selection (R4), double ML (R5)); first paragraph matches (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); best paragraph matches (failed: significance (R3), shape (R6)); word count (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); outbound links (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); headings (failed: significance (R3), repeat selection (R4), shape (R6)); tables (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); lists (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); has FAQ (failed: significance (R3), repeat selection (R4), robustness (R9)); has summary box (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); has author (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); has structured data (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); page age (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6))
+- **third party**: word overlap with prompts (failed: significance (R3), repeat selection (R4), double ML (R5)); first paragraph matches (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); best paragraph matches (failed: significance (R3)); word count (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); outbound links (failed: significance (R3), repeat selection (R4), double ML (R5)); headings (failed: repeat selection (R4)); tables (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); lists (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); has FAQ (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); has summary box (failed: significance (R3), repeat selection (R4), double ML (R5)); has author (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); has structured data (failed: significance (R3), repeat selection (R4), double ML (R5)); page age (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9))
+=== x03_analyse.py
+                                                 0       1
+engine                                     ChatGPT  Gemini
+prompts                                        110     110
+searched                                        18      52
+collected_zero_share_when_replay_searched    0.117   0.161
+collected_zero_share_when_replay_did_not     0.903    0.43
+replay_cited_in_collected_last14             0.637   0.668
+collected_lastday_in_previous13              0.592    0.77
+                                             0
+pairs                                   2821.0
+pct_pairs_consulted                        9.5
+pct_citations_consulted                   30.0
+pct_pairs_cited                            4.6
+pct_citations_cited                       23.2
+consulted_per_prompt                      53.0
+cited_per_prompt                          10.5
+pct_consulted_cited                       19.2
+pct_consulted_ever_cited_in_collection    35.4
+rank_bin  consulted  pct_cited_replay  pct_ever_cited_collected  mean_collected_citations
+       1         39             61.54                     74.36                     15.72
+       2         38             68.42                     65.79                     13.42
+       3         38             50.00                     76.32                     10.68
+     4-5         76             50.00                     64.47                     10.86
+    6-10        189             36.51                     56.08                      5.65
+   11-20        373              6.97                     27.08                      1.23
+     21+        278              1.08                      6.83                      0.19
+             coef     se    p  odds_ratio
+log_rank   -1.082  0.083  0.0       0.339
+multi_call  2.607  0.642  0.0      13.563
+ pairs   r2  r2_within_prompt  coef_log_rank  coef_multi_call
+  1031 0.28             0.313         -0.666            0.513
+ replays outcome                                     model  n_urls  within_share  explained_within  reliability_within  stable_unexplained  pct_pages_consulted
+       1   total                     replay retrieval only     629         0.894             0.169               0.771               0.538               16.534
+       1   total                  replay retrieval + cited     629         0.894             0.202               0.771               0.509               16.534
+       1 breadth                     replay retrieval only     629         0.791             0.077               0.519               0.350               16.534
+       1 breadth                  replay retrieval + cited     629         0.791             0.083               0.519               0.344               16.534
+       1   depth                     replay retrieval only     629         0.857             0.116               0.859               0.636               16.534
+       1   depth                  replay retrieval + cited     629         0.857             0.144               0.859               0.613               16.534
+       2   total                     replay retrieval only     629         0.894             0.197               0.771               0.513               22.258
+       2   total                  replay retrieval + cited     629         0.894             0.257               0.771               0.460               22.258
+       2 breadth                     replay retrieval only     629         0.791             0.083               0.519               0.345               22.258
+       2 breadth                  replay retrieval + cited     629         0.791             0.092               0.519               0.338               22.258
+       2   depth                     replay retrieval only     629         0.857             0.147               0.859               0.611               22.258
+       2   depth                  replay retrieval + cited     629         0.857             0.197               0.859               0.567               22.258
+       3   total                       page variables (E1)     629         0.894             0.002               0.771               0.687               26.868
+       3   total                         replay cited only     629         0.894             0.271               0.771               0.447               26.868
+       3   total                     replay retrieval only     629         0.894             0.214               0.771               0.498               26.868
+       3   total                  replay retrieval + cited     629         0.894             0.284               0.771               0.435               26.868
+       3   total         page variables + replay retrieval     629         0.894             0.228               0.771               0.486               26.868
+       3   total page variables + replay retrieval + cited     629         0.894             0.280               0.771               0.439               26.868
+       3 breadth                       page variables (E1)     629         0.791             0.056               0.519               0.366               26.868
+       3 breadth                         replay cited only     629         0.791             0.104               0.519               0.328               26.868
+       3 breadth                     replay retrieval only     629         0.791             0.088               0.519               0.341               26.868
+       3 breadth                  replay retrieval + cited     629         0.791             0.104               0.519               0.328               26.868
+       3 breadth         page variables + replay retrieval     629         0.791             0.152               0.519               0.290               26.868
+       3 breadth page variables + replay retrieval + cited     629         0.791             0.163               0.519               0.282               26.868
+       3   depth                       page variables (E1)     629         0.857            -0.009               0.859               0.744               26.868
+       3   depth                         replay cited only     629         0.857             0.240               0.859               0.530               26.868
+       3   depth                     replay retrieval only     629         0.857             0.179               0.859               0.583               26.868
+       3   depth                  replay retrieval + cited     629         0.857             0.239               0.859               0.531               26.868
+       3   depth         page variables + replay retrieval     629         0.857             0.170               0.859               0.590               26.868
+       3   depth page variables + replay retrieval + cited     629         0.857             0.230               0.859               0.539               26.868
+ prompts  pct_search_agree  jaccard_queries  jaccard_consulted  jaccard_cited
+      55            96.364            0.027              0.182          0.168
+=== x05_bootstrap.py
+replay: 4 ChatGPT runs on 2 day(s)
+rank_bin  consulted  pct_cited  ci_low  ci_high  source_lists
+       1         74      59.46   48.68    70.27            65
+       2         73      61.64   49.30    73.24            65
+       3         73      47.95   35.62   embedding 22,125 title/paragraph units of 694 pages
+                                   model  lists  rows  mcfadden_r2
+                            S0 rank only     65  1964       0.3052
+           S0b rank + text-missing flags     65  1964       0.3637
+                S1 + match to the prompt     65  1964       0.3648
+        S2 + match to the engine queries     65  1964       0.3663
+                      S3 + page features     65  1964       0.4437
+M only (no rank): match + queries + page     65  1964       0.3207
+          S3 text-only rows (robustness)     64  1030       0.3564
+                         model        variable    coef      se     p  odds_ratio                 unit
+            S3 + page features        log_rank  -0.758   0.070 0.000       0.469 per doubling of rank
+            S3 + page features      multi_call   3.404   0.503 0.000      30.080           has vs not
+            S3 + page features    text_missing  -1.836   0.536 0.001       0.159           has vs not
+            S3 + page features       is_reddit -13.260 154.216 0.931       0.000           has vs not
+            S3 + page features      emb_best_z   0.274   0.156 0.078       1.316   per SD within list
+            S3 + page features     emb_title_z  -0.298   0.134 0.025       0.742   per SD within list
+            S3 + page features          bm25_z   0.075   0.118 0.523       1.078   per SD within list
+            S3 + page features        q_best_z  -0.220   0.119 0.063       0.802   per SD within list
+            S3 + page features     log_words_z  -1.043   0.262 0.000       0.352   per SD within list
+            S3 + page features  log_headings_z   0.365   0.132 0.006       1.441   per SD within list
+            S3 + page features         has_faq   0.451   0.243 0.063       1.570           has vs not
+            S3 + page features has_summary_box  -0.180   0.311 0.564       0.836           has vs not
+            S3 + page features      has_author  -0.327   0.218 0.134       0.721           has vs not
+            S3 + page features      has_schema   0.550   0.247 0.026       1.733           has vs not
+            S3 + page features       type_list  -1.804   0.377 0.000       0.165           has vs not
+            S3 + page features type_comparison  -2.629   0.644 0.000       0.072           has vs not
+            S3 + page features      role_brand   0.723   0.218 0.001       2.060           has vs not
+            S3 + page features     authority_z  -0.165   0.104 0.113       0.848   per SD within list
+S3 text-only rows (robustness)        log_rank  -0.673   0.094 0.000       0.510 per doubling of rank
+S3 text-only rows (robustness)      multi_call   3.378   0.558 0.000      29.321           has vs not
+S3 text-only rows (robustness)      emb_best_z   0.263   0.157 0.093       1.301   per SD within list
+S3 text-only rows (robustness)     emb_title_z  -0.281   0.135 0.037       0.755   per SD within list
+S3 text-only rows (robustness)          bm25_z   0.071   0.119 0.548       1.074   per SD within list
+S3 text-only rows (robustness)        q_best_z  -0.200   0.120 0.096       0.819   per SD within list
+S3 text-only rows (robustness)     log_words_z  -0.989   0.269 0.000       0.372   per SD within list
+S3 text-only rows (robustness)  log_headings_z   0.423   0.136 0.002       1.526   per SD within list
+S3 text-only rows (robustness)         has_faq   0.401   0.250 0.109       1.494           has vs not
+S3 text-only rows (robustness) has_summary_box  -0.114   0.313 0.714       0.892           has vs not
+S3 text-only rows (robustness)                                        model  lists  rows  mcfadden_r2
+                            S0 rank only     65  1964       0.3052
+           S0b rank + text-missing flags     65  1964       0.3637
+                S1 + match to the prompt     65  1964       0.3648
+        S2 + match to the engine queries     65  1964       0.3663
+                      S3 + page features     65  1964       0.4437
+M only (no rank): match + queries + page     65  1964       0.3207
+          S3 text-only rows (robustness)     64  1030       0.3564
+                         model        variable    coef      se     p  odds_ratio                 unit
+            S3 + page features        log_rank  -0.758   0.070 0.000       0.469 per doubling of rank
+            S3 + page features      multi_call   3.404   0.503 0.000      30.080           has vs not
+            S3 + page features    text_missing  -1.836   0.536 0.001       0.159           has vs not
+            S3 + page features       is_reddit -13.260 154.216 0.931       0.000           has vs not
+            S3 + page features      emb_best_z   0.274   0.156 0.078       1.316   per SD within list
+            S3 + page features     emb_title_z  -0.298   0.134 0.025       0.742   per SD within list
+            S3 + page features          bm25_z   0.075   0.118 0.523       1.078   per SD within list
+            S3 + page features        q_best_z  -0.220   0.119 0.063       0.802   per SD within list
+            S3 + page features     log_words_z  -1.043   0.262 0.000       0.352   per SD within list
+            S3 + page features  log_headings_z   0.365   0.132 0.006       1.441   per SD within list
+            S3 + page features         has_faq   0.451   0.243 0.063       1.570           has vs not
+            S3 + page features has_summary_box  -0.180   0.311 0.564       0.836           has vs not
+            S3 + page features      has_author  -0.327   0.218 0.134       0.721           has vs                                      0        1
+engine                          Gemini  ChatGPT
+answers_with_search                177       65
+share_answers_with_search          0.8      0.3
+queries_per_answer                 4.0      4.0
+mean_queries_per_answer           3.85     4.49
+calls_per_answer                   NaN      1.0
+words_per_query                    8.0      7.0
+words_per_question                13.0     13.0
+pct_question_words_kept          42.15    37.32
+pct_query_words_new              44.92    50.72
+similarity_to_question            0.75     0.62
+pct_add_year                      0.88      0.0
+pct_add_price_plan                 0.0     3.08
+pct_add_brand                     0.59     2.74
+pct_add_vs                        0.29      0.0
+pct_name_a_site                   0.29      2.4
+pct_operator                       0.0     5.48
+pct_identical_queries_two_runs   14.22      4.2
+pct_word_overlap_two_runs        63.74    45.83
+openai construction 16%, rfp 16%, software 15%, management 14%, platform 10%, bid 9%, tool 9%, response 9%, proposals 8%, autodesk 8%, proposal 7%, features 6%, cloud 6%, bim 5%, ai 5%, automation 5%, engineering 4%, architecture 4%, collaboration 4%, library 4%
+gemini software 19%, management 18%, tools 14%, proposal 10%, top 6%, ai 6%, response 6%, features 6%, practices 5%, automation 5%, industry 5%, firms 4%, engineering 4%, construction 4%, using 4%, rfp 4%, architecture 4%, benefits 3%, aec 3%, generation 3%
+
+QUESTION: Is Unanet a suitable ERP and CRM for a project-based engineering firm? Tell me about its project management, financials, and proposal features.
+  ChatGPT  20260927|1: Unanet project management features proposal financials ERP CRM | Unanet ERP CRM project-based organizations project management time billing revenue recognition | Unanet proposals feature Unanet CRM | Unanet financial management capabilities general ledger accounts payable receivable billing invoicing
+  ChatGPT  20260927|2: Unanet project management features proposals billing ERP CRM | Unanet PSA project management time billing reporting financials | Unanet proposal management module | Unanet CRM capabilities
+  ChatGPT  20260927|3: Unanet ERP CRM project accounting project management proposal features | Unanet proposal management module | Unanet project management features time billing revenue recognition | Unanet CRM features sales pipeline | Unanet AE project management work breakdown structure tasks phases time expense | Unanet AE resource planning utilization capacity forecasting features | Unanet proposal management templates Word InDesign workflow ProposalAI AEC | Unanet ERP billing invoicing fixed price T&M cost plus contract types
+  ChatGPT  20260928|1: Unanet ERP CRM project management financials proposals features | Unanet project management time billing project accounting capabilities proposals | Unanet ERP CRM does it include CRM sales proposals | Unanet features proposal management project quotes bids
+  Gemini   20260927|1: Unanet financials for engineering firms | is Unanet suitable for project-based engineering firm | Unanet project management features for engineering firms | Unanet proposal features for engineering firms | Unanet ERP and CRM features for engineering firms
+  Gemini   20260927|3: Unanet ERP and CRM features for engineering firms | is Unanet suitable for project-based engineering firm | Unanet project management features for engineering firms | Unanet proposal features for engineering firms | Unanet financials feature                                     0        1
+engine                          Gemini  ChatGPT
+answers_with_search                177       65
+share_answers_with_search          0.8      0.3
+queries_per_answer                 4.0      4.0
+mean_queries_per_answer           3.85     4.49
+calls_per_answer                   NaN      1.0
+words_per_query                    8.0      7.0
+words_per_question                13.0     13.0
+pct_question_words_kept          42.15    37.32
+pct_query_words_new              44.92    50.72
+similarity_to_question            0.75     0.62
+pct_add_year                      0.88      0.0
+pct_add_price_plan                 0.0     3.08
+pct_add_brand                     0.59     2.74
+pct_add_vs                        0.29      0.0
+pct_name_a_site                   0.29      2.4
+pct_operator                       0.0     5.48
+pct_identical_queries_two_runs   14.22      4.2
+pct_word_overlap_two_runs        63.74    45.83
+openai construction 16%, rfp 16%, software 15%, management 14%, platform 10%, bid 9%, tool 9%, response 9%, proposals 8%, autodesk 8%, proposal 7%, features 6%, cloud 6%, bim 5%, ai 5%, automation 5%, engineering 4%, architecture 4%, collaboration 4%, library 4%
+gemini software 19%, management 18%, tools 14%, proposal 10%, top 6%, ai 6%, response 6%, features 6%, practices 5%, automation 5%, industry 5%, firms 4%, engineering 4%, construction 4%, using 4%, rfp 4%, architecture 4%, benefits 3%, aec 3%, generation 3%
+
+QUESTION: Is Unanet a suitable ERP and CRM for a project-based engineering firm? Tell me about its project management, financials, and proposal features.
+  ChatGPT  20260927|1: Unanet project management features proposal financials ERP CRM | Unanet ERP CRM project-based organizations project management time billing revenue recognition | Unanet proposals feature Unanet CRM | Unanet financial management capabilities general ledger accounts payable receivable billing invoicing
+  ChatGPT  20260927|2: Unanet project management features proposals billing ERP CRM | Unanet PSA project management time billing reporting financials | Unanet proposal management module | Unanet CRM capabilities
+  ChatGPT  20260927|3: Unanet ERP CRM project accounting project management proposal features | Unanet proposal management module | Unanet project management features time billing revenue recognition | Unanet CRM features sales pipeline | Unanet AE project management work breakdown structure tasks phases time expense | Unanet AE resource planning utilization capacity forecasting features | Unanet proposal management templates Word InDesign workflow ProposalAI AEC | Unanet ERP billing invoicing fixed price T&M cost plus contract types
+  ChatGPT  20260928|1: Unanet ERP CRM project management financials proposals features | Unanet project management time billing project accounting capabilities proposals | Unanet ERP CRM does it include CRM sales proposals | Unanet features proposal management project quotes bids
+  Gemini   20260927|1: Unanet financials for engineering firms | is Unanet suitable for project-based engineering firm | Unanet project management features for engineering firms | Unanet proposal features for engineering firms | Unanet ERP and CRM features for engineering firms
+  Gemini   20260927|3: Unanet ERP and CRM features for engineering firms | is Unanet suitable for project-based engineering firm | Unanet project management features for engineering firms | Unanet proposal features for engineering firms | Unanet financials features for engineering firms
+  Gemini   20260928|1: Unanet financials features for engineering firms | Unanet project management features for engineering firms | is Unanet suitable for project-based engineering firms | Unanet ERP and CRM features for engineering firms | Unanet proposal features for engineering firms
+
+QUESTION: What are the best AI-driven analytics tools for improving proposal win rates?
+  ChatGPT  20260927|1: AI proposal analytics win rate tools | bid management software AI proposal analytics | proposal intelligence platform AI win probability | NVIDIA Clara? no, RFP AI analytics tools win rate | Loopio proposal intelligence win rate analytics AI | QorusDocs proposal management AI analytics win rate | RFPIO AI RFP analytics proposal intelligence | Bid Management software predictive win rate analytics AI
+  ChatGPT  20260927|2: AI proposal analytics win rate tool | bid management AI analytics platform win rate proposals | proposal intelligence AI tool bid decision intelligence | GovWin AI proposal analytics win rate
+  Gemini   20260927|1: AI tools for proposal management and win rate improvement | best AI-driven analytics tools for proposal win rates | AI-powered RFP response software for higher win rates | how AI improves proposal workorb: 1,043 rows with text in 65 lists
+model
+(a) match to the question                0.1144
+(b) + meaning match to queries           0.1730
+(c) + keyword match to queries (max)     0.1520
+(c2) + keyword match to queries (sum)    0.1534
+(d) + both                               0.1868
+     model     variable    coef     se      p  r2_within  rows
+(d) + both   emb_best_z  0.0826 0.0588 0.1602     0.1868  1043
+(d) + both  emb_title_z  0.1430 0.0582 0.0140     0.1868  1043
+(d) + both       bm25_z -0.0991 0.0647 0.1253     0.1868  1043
+(d) + both     q_best_z  0.2911 0.0579 0.0000     0.1868  1043
+(d) + both q_bm25_max_z  0.0897 0.0685 0.1904     0.1868  1043
+(d) + both q_bm25_sum_z  0.1168 0.0832 0.1605     0.1868  1043
+     score  mean_spearman_with_higher_rank  lists
+  emb_best                           0.333     65
+      bm25                           0.203     65
+    q_best                           0.417     65
+q_bm25_max                           0.306     65
+q_bm25_sum                           0.321     65
+          model  mcfadden_r2  or_q_best_z  p_q_best_z  or_q_bm25_max_z  or_q_bm25_sum_z  p_q_bm25_max_z  p_q_bm25_sum_z
+           rank       0.2288          NaN         NaN              NaN              NaN             NaN             NaN
+ rank + meaning       0.2304       0.8943      0.2107              NaN              NaN             NaN             NaN
+rank + keywords       0.2298          NaN         NaN           1.1730           0.8746          0.3030          0.3992
+    rank + both       0.2321       0.8568      0.1389           1.1748           0.9430          0.2991          0.7256
+ls citations reviewer control agentic AI | URXION AI agents for RFP response compliance review traceability
+  ChatGPT  20260928|1: proposal automation tool AI advanced beyond RAG | "proposal automation" tool "AI" "machine learning" | "proposal" "RFP" automation platform AI | "proposal" automation "Claude" "GPT" platform | "proposal automation" "agent" RFP platform | Loopio AI RAG or predictive modeling compliance matrix automation | Qwilr AI proposal generation retrieval augmented generation | Storydoc AI proposal generation how it works
+
+QUESTION: Is OpenAsset a good digital asset management platform for an architecture firm? Tell me about its features and the new Shred.ai proposal tool.
+  ChatGPT  20260927|1: OpenAsset digital asset management platform features | OpenAsset Shred.ai proposal tool | OpenAsset architecture firm use case | site:openasset.com Shred.ai
+  ChatGPT  20260927|2: OpenAsset digital asset management platform features | Shred.ai OpenAsset proposal tool | OpenAsset Shred.ai proposal tool features | OpenAsset pricing architecture firms
+  ChatGPT  20260927|3: OpenAsset digital asset management platform features | Shred.ai proposal tool OpenAsset | OpenAsset Shred.ai proposal tool features | OpenAsset architecture firms digital asset management
+  ChatGPT  20260928|1: OpenAsset digital asset management platform features | OpenAsset Shred.ai proposal tool | OpenAsset company architecture firm use case | Shred.ai proposal tool OpenAsset
+  Gemini   20260927|1: what is Shred.ai OpenAsset proposal tool | OpenAsset features for architecture firms | is OpenAsset good for architecture firms | is Shred.ai a new proposal tool in OpenAsset
+  Gemini   20260927|3: OpenAsset features for architecture firms | is OpenAsset good for architecture firms | does OpenAsset have a tool called Shred.ai | what is Shred.ai proposal tool OpenAsset
+=== x06b_lexical_vs_semantic.py
+workorb: 1,043 rows with t##### workorb
+          sample  measure                         design  coef    se     p    pct  n_urls  title_pct  best_para_pct       unit
+       all pages pa_links                 within website 0.217 0.041 0.000 16.246    2477     26.804         14.325     per SD
+       all pages pa_links pooled (no website indicators) 0.163 0.038 0.000 11.946    2477        NaN            NaN     per SD
+       all pages  pa_rank                 within website 0.118 0.034 0.001  8.526    2477     26.493         13.555     per SD
+       all pages  pa_rank pooled (no website indicators) 0.068 0.027 0.010  4.855    2477        NaN            NaN     per SD
+       all pages   pa_any                 within website 0.499 0.077 0.000 41.324    2477     27.625         13.488 has vs not
+       all pages   pa_any pooled (no website indicators) 0.380 0.071 0.000 30.153    2477        NaN            NaN has vs not
+own + competitor pa_links                 within website 0.505 0.071 0.000 41.868    1079     32.912         15.685     per SD
+own + competitor pa_links pooled (no website indicators) 0.446 0.061 0.000 36.252    1079        NaN            NaN     per SD
+own + competitor  pa_rank                 within website 0.287 0.067 0.000 22.002    1079     33.247         12.924     per SD
+own + competitor  pa_rank pooled (no website indicators) 0.231 0.084 0.006 17.328    1079        NaN            NaN     per SD
+own + competitor   pa_any                 within website 0.718 0.117 0.000 64.485    1079     34.445         14.117 has vs not
+own + competitor   pa_any pooled (no website indicators) 0.622 0.121 0.000 53.850    1079        NaN   ##### workorb
+          sample  measure                         design  coef    se     p    pct  n_urls  title_pct  best_para_pct       unit
+       all pages pa_links                 within website 0.217 0.041 0.000 16.246    2477     26.804         14.325     per SD
+       all pages pa_links pooled (no website indicators) 0.163 0.038 0.000 11.946    2477        NaN            NaN     per SD
+       all pages  pa_rank                 within website 0.118 0.034 0.001  8.526    2477     26.493         13.555     per SD
+       all pages  pa_rank pooled (no website indicators) 0.068 0.027 0.010  4.855    2477        NaN            NaN     per SD
+       all pages   pa_any                 within website 0.499 0.077 0.000 41.324    2477     27.625         13.488 has vs not
+       all pages   pa_any pooled (no website indicators) 0.380 0.071 0.000 30.153    2477        NaN            NaN has vs not
+own + competitor pa_links                 within website 0.505 0.071 0.000 41.868    1079     32.912         15.685     per SD
+own + competitor pa_links pooled (no website indicators) 0.446 0.061 0.000 36.252    1079        NaN            NaN     per SD
+own + competitor  pa_rank                 within website 0.287 0.067 0.000 22.002    1079     33.247         12.924     per SD
+own + competitor  pa_rank pooled (no website indicators) 0.231 0.084 0.006 17.328    1079        NaN            NaN     per SD
+own + competitor   pa_any                 within website 0.718 0.117 0.000 64.485    1079     34.445         14.117 has vs not
+own + competitor   pa_any pooled (no website indicators) 0.622 0.121 0.000 53.850    1079        NaN            NaN has vs not
+     third party pa_links                 within website 0.028 0.041 0.499  1.947    1398     17.789         14.723     per SD
+     third party pa_links pooled (no website indicators) 0.045 0.029 0.125  3.167    1398        NaN            NaN     per SD
+     third party  pa_rank                 within website 0.032 0.039 0.410  2.243    1398     17.755         14.802     per SD
+     third party  pa_rank pooled (no website indicators) 0.024 0.027 0.370  1.686    1398        NaN            NaN     per SD
+     third party   pa_any                 within website 0.298 0.094 0.001 22.960    1398     18.962         14.201 has vs not
+     third party   pa_any pooled (no website indicators) 0.279 0.068 0.000 21.354    1398        NaN            NaN has vs not
+                          model  within_share  explained_within  n_urls
+                 page variables        0.9115            0.1164    2477
+page variables + page authority        0.9115            0.1158    2477
+    engine  coef     p    pct
+   ChatGPT 0.117 0.001  8.473
+    Gemini 0.231 0.000 17.344
+Perplexity 0.055 0.001  3.868
+paworkorb (openai): prior for 55 prompts; median brands 10.0, websites 9.0
+  Q: Are there digital asset management tools tailored to the needs of architecture and engineering firms?
+     brands: ['Autodesk Construction Cloud', 'Autodesk Docs (BIM 360)', 'Autodesk Construction Cloud (ACC) Data Management', 'Aconex (Oracle)', 'Autodesk BIM 360', 'Autodesk Revit + Viewers/Cloud integrations']
+     websites: ['autodesk.com', 'trimble.com', 'bentley.com', 'oracle.com', 'opentext.com', 'm-files.com']
+  Q: How can AEC firms leverage AI to improve their business development processes?
+     brands: ['BQE Core', 'Deltek', 'Autodesk Build', 'Autodesk Construction Cloud', 'Procore', 'Sage 300 Construction and Real Estate']
+     websites: ['deltek.com', 'autodesk.com', 'procore.com', 'microsoft.com', 'salesforce.com', 'bqe.com']
+  Q: What CRM and ERP solutions are best for project-driven AEC firms?
+     brands: ['Viewpoint', 'Procore', 'Autodesk Construction Cloud (ACC)', 'Sage Intacct', 'Sage 300 Construction and Real Estate', 'Deltek']
+     websites: ['viewpoint.com', 'procore.com', 'autodesk.com', 'sage.com', 'deltek.com', 'oracle.com']
+ engine  pairs  pct_pairs_in_prior  pct_added_if_in_prior  pct_added_if_not_in_prior  ratio  prompts  pct_prior_brands_not_in_question_found_in_queries
+ChatGPT    100                2.00                   50.0                       4.08  12.25       21                                               6.91
+ Gemini    260                3.46                    0.0                       0.80   0.00       53                                               0.00
+                                        moworkorb (openai): prior for 55 prompts; median brands 10.0, websites 9.0
+  Q: Are there digital asset management tools tailored to the needs of architecture and engineering firms?
+     brands: ['Autodesk Construction Cloud', 'Autodesk Docs (BIM 360)', 'Autodesk Construction Cloud (ACC) Data Management', 'Aconex (Oracle)', 'Autodesk BIM 360', 'Autodesk Revit + Viewers/Cloud integrations']
+     websites: ['autodesk.com', 'trimble.com', 'bentley.com', 'oracle.com', 'opentext.com', 'm-files.com']
+  Q: How can AEC firms leverage AI to improve their business development processes?
+     brands: ['Autodesk', 'Autodesk Construction Cloud', 'Revit', 'Bluebeam', 'Procore', 'Bentley Systems']
+     websites: ['autodesk.com', 'procore.com', 'bentley.com', 'trimble.com', 'deltek.com', 'bid2win.com']
+  Q: What CRM and ERP solutions are best for project-driven AEC firms?
+     brands: ['Microsoft Dynamics 365 (CRM + ERP)', 'Deltek (Vision + Acumen + CRM/ERP ecosystem)', 'Oracle NetSuite', 'Sage Intacct', 'Sage X3', 'Infor CloudSuite Industrial (ERP) / Infor CRM (where applicable)']
+     websites: ['deltek.com', 'microsoft.com', 'netsuite.com', 'sage.com', 'infor.com', 'sap.com']
+ engine  pairs  pcworkorb (gemini): prior for 55 prompts; median brands 8.0, websites 6.0
+  Q: Are there digital asset management tools tailored to the needs of architecture and engineering firms?
+     brands: ['OpenAsset', 'Cosential', 'Canto', 'Bynder', 'Deltek', 'Brandfolder']
+     websites: ['openasset.com', 'deltek.com', 'canto.com', 'bynder.com', 'brandfolder.com']
+  Q: How can AEC firms leverage AI to improve their business development processes?
+     brands: ['Cosential (Unanet)', 'OpenAsset', 'Deltek Vantagepoint', 'Loopio', 'Autodesk Construction Cloud', 'Microsoft Copilot']
+     websites: ['unanet.com', 'openasset.com', 'deltek.com', 'loopio.com', 'autodesk.com', 'microsoft.com']
+  Q: What CRM and ERP solutions are best for project-driven AEC firms?
+     brands: ['Deltek', 'Unanet', 'Cosential (by OpenAsset)', 'Microsoft Dynamics 365', 'Oracle NetSuite', 'Salesforce']
+     websites: ['deltek.com', 'unanet.com', 'openasset.com', 'microsoft.com', 'netsuite.com', 'bstglobal.com']
+ engine  pairs  pct_pairs_in_prior  pct_added_if_in_prior  pct_added_if_not_in_prior  ratio  prompts  pct_prior_brands_not_in_question_found_in_queries
+ChatGPT    100               43.00                  11.63                        0.0    NaN       21                                              13.33
+ Gemini    260               47.31                   1.63                        0.0    NaN       53                                               1.83
+    engine  citations  pct_citations_from_prior_site  pct_with_other_prompts_prior  ratio  pct_websites_in_prior
+   ChatGPT      10416                          25.08                         17.83   1.41                   4.23
+    Geminworkorb (gemini): prior for 55 prompts; median brands 8.0, websites 6.0
+  Q: Are there digital asset management tools tailored to the needs of architecture and engineering firms?
+     brands: ['OpenAsset', 'Cosential', 'Canto', 'Bynder', 'Deltek', 'Brandfolder']
+     websites: ['openasset.com', 'deltek.com', 'canto.com', 'bynder.com', 'brandfolder.com']
+  Q: How can AEC firms leverage AI to improve their business development processes?
+     brands: ['Cosential (Unanet)', 'OpenAsset', 'Deltek Vantagepoint', 'Loopio', 'Autodesk Construction Cloud', 'Microsoft Copilot']
+     websites: ['unanet.com', 'openasset.com', 'deltek.com', 'loopio.com', 'autodesk.com', 'microsoft.com']
+  Q: What CRM and ERP solutions are best for project-driven AEC firms?
+     brands: ['Deltek', 'Unanet', 'Cosential (by OpenAsset)', 'Microsoft Dynamics 365', 'Oracle NetSuite', 'Salesforce']
+     websites: ['deltek.com', 'unanet.com', 'openasset.com', 'microsoft.com', 'netsuite.com', 'bstglobal.com']
+ engine  pairs  pct_pairs_in_prior  pct_added_if_in_prior  pct_added_if_not_in_prior  ratio  prompts  pct_prior_brands_not_in_question_found_in_queries
+ChatGPT    100               43.00                  11.63                        0.0    NaN       21                                              13.33
+ Gemini    260               47.31                   1.63                        0.0    NaN       53                                               1.83
+    engine  citations  pct_citations_from_prior_site  pct_with_other_prompts_prior  ratio  pct_websites_in_prior
+   ChatGPT      10416                          25.08                         17.83   1.41                   4.23
+    Gemini      60514                           6.76                          4.31   1.57                   2.09
+Perplexity        919                          13.38                          9.25   1.45                   8.08
+ALLDONE

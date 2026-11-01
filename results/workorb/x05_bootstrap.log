@@ -1,0 +1,42 @@
+replay: 3 ChatGPT runs on 1 day(s)
+rank_bin  consulted  pct_cited  ci_low  ci_high  source_lists
+       1         59      59.32   47.62    70.92            51
+       2         58      65.52   50.94    77.37            51
+       3         58      51.72   38.97    65.45            51
+     4-5        116      46.55   36.75    56.20            51
+    6-10        288      36.46   29.96    43.38            51
+   11-20        569       7.21    5.20     9.44            51
+     21+        423       1.42    0.46     2.72            51
+selection: 1 of 200 resamples could not be fitted
+  variable   coef  odds_ratio  or_ci_low  or_ci_high  prompts  resamples
+  log_rank -1.063       0.345      0.293       0.392       21        200
+multi_call  3.086      21.883      8.914      42.378       21        200
+outcome                                     model  r2_within  ci_low  ci_high  n_urls  n_websites  resamples
+  total                            page variables     0.0999  0.0864   0.1970     629         130       1000
+  total                          replay retrieval     0.2172  0.0961   0.3526     629         130       1000
+  total                  replay retrieval + cited     0.2867  0.1422   0.4318     629         130       1000
+  total page variables + replay retrieval + cited     0.3482  0.2511   0.4993     629         130       1000
+  total    difference: retrieval - page variables     0.1173 -0.0708   0.2413     629         130       1000
+breadth                            page variables     0.1324  0.1009   0.2423     629         130       1000
+breadth                          replay retrieval     0.0876  0.0249   0.1773     629         130       1000
+breadth                  replay retrieval + cited     0.1087  0.0458   0.1997     629         130       1000
+breadth page variables + replay retrieval + cited     0.2214  0.1858   0.3594     629         130       1000
+breadth    difference: retrieval - page variables    -0.0448 -0.1917   0.0453     629         130       1000
+  depth                            page variables     0.0671  0.0638   0.1675     629         130       1000
+  depth                          replay retrieval     0.1791  0.0781   0.2991     629         130       1000
+  depth                  replay retrieval + cited     0.2417  0.1158   0.3879     629         130       1000
+  depth page variables + replay retrieval + cited     0.2810  0.1874   0.4425     629         130       1000
+  depth    difference: retrieval - page variables     0.1121 -0.0549   0.2005     629         130       1000
+outcome  r2_within_observed  r2_within_shuffled_mean  shuffled_p95  p_value  permutations
+  total              0.2172                   0.0070        0.0216    0.005           200
+breadth              0.0876                   0.0064        0.0178    0.005           200
+  depth              0.1791                   0.0067        0.0181    0.005           200
+window_start window_end  r2_within  ci_low  ci_high  replay_runs
+    20260624   20260707     0.0541  0.0160   0.1071            3
+    20260708   20260721     0.0952  0.0444   0.1559            3
+    20260722   20260804     0.1039  0.0429   0.1637            3
+    20260805   20260818     0.1196  0.0562   0.1836            3
+    20260819   20260901     0.1827  0.1051   0.2672            3
+    20260902   20260915     0.2213  0.1423   0.3018            3
+    20260916   20260921     0.2337  0.1200   0.3356            3
+same day: no dates shared by replay and collection yet (add new pfetch dumps and rerun load_data.py)

@@ -1,0 +1,8 @@
+model,lists,rows,mcfadden_r2
+S0 rank only,231,6864,0.28556782538278636
+S0b rank + text-missing flags,231,6864,0.33806011735434915
+S1 + match to the prompt,231,6864,0.33963864960934587
+S2 + match to the engine queries,231,6864,0.3397771671393408
+S3 + page features,231,6864,0.4042081590073706
+M only (no rank): match + queries + page,231,6864,0.29094191464256636
+S3 text-only rows (robustness),228,3826,0.3327882897421036

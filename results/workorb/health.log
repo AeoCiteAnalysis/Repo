@@ -1,0 +1,67 @@
+engine                   GEMINI  OPENAI  PERPLEXITY
+n_answers                  55.0    55.0        55.0
+n_prompts                  55.0    55.0        55.0
+pct_no_citations           18.2    65.5       100.0
+avg_citations              29.5     3.0         0.0
+pct_no_mentions            41.8    74.5        47.3
+n_unresolved_redirects     19.0     0.0         0.0
+avg_answer_chars        10681.8  3817.7      2004.6
+
+104 unusual days flagged -> results/health_flags.csv
+    date     engine                measure    value  local_median
+20260710     GEMINI       pct_no_citations    21.82          7.27
+20260918     GEMINI       pct_no_citations    29.09         18.18
+20260920     GEMINI       pct_no_citations    34.55         21.82
+20260921     GEMINI       pct_no_citations    14.55         25.45
+20260627     OPENAI       pct_no_citations    74.55         63.64
+20260624 PERPLEXITY       pct_no_citations   100.00         93.64
+20260625 PERPLEXITY       pct_no_citations   100.00         87.27
+20260626 PERPLEXITY       pct_no_citations    83.64         88.18
+20260627 PERPLEXITY       pct_no_citations    87.27         89.09
+20260628 PERPLEXITY       pct_no_citations    87.27         89.09
+20260629 PERPLEXITY       pct_no_citations    89.09         87.27
+20260702 PERPLEXITY       pct_no_citations    85.45         89.09
+20260703 PERPLEXITY       pct_no_citations    92.73         89.09
+20260704 PERPLEXITY       pct_no_citations    96.36         89.09
+20260706 PERPLEXITY       pct_no_citations    85.45         89.09
+20260707 PERPLEXITY       pct_no_citations    85.45         89.09
+20260709 PERPLEXITY       pct_no_citations    90.91         89.09
+20260710 PERPLEXITY       pct_no_citations    92.73         90.91
+20260711 PERPLEXITY       pct_no_citations    89.09         92.73
+20260712 PERPLEXITY       pct_no_citations    96.36         92.73
+     ...        ...                    ...      ...           ...
+20260705     GEMINI n_unresolved_redirects    20.00         27.00
+20260707     GEMINI n_unresolved_redirects    39.00         22.00
+20260714     GEMINI n_unresolved_redirects    10.00         19.00
+20260725     GEMINI n_unresolved_redirects    34.00         24.00
+20260726     GEMINI n_unresolved_redirects    11.00         21.00
+20260728     GEMINI n_unresolved_redirects    25.00         19.00
+20260730     GEMINI n_unresolved_redirects    13.00         19.00
+20260731     GEMINI n_unresolved_redirects    30.00         18.00
+20260813     GEMINI n_unresolved_redirects    11.00         21.00
+20260815     GEMINI n_unresolved_redirects    11.00         19.00
+20260822     GEMINI n_unresolved_redirects    11.00         20.00
+20260825     GEMINI n_unresolved_redirects    32.00         16.00
+20260710     GEMINI       avg_answer_chars 10372.80      11762.11
+20260827     GEMINI       avg_answer_chars  9001.45      10399.20
+20260920     GEMINI       avg_answer_chars  9265.89      10543.49
+20260624 PERPLEXITY       avg_answer_chars  3733.16       3367.92
+20260625 PERPLEXITY       avg_answer_chars  3629.33       3106.51
+20260701 PERPLEXITY       avg_answer_chars  3408.16       3047.18
+20260704 PERPLEXITY       avg_answer_chars  2847.31       3206.05
+20260711 PERPLEXITY       avg_answer_chars  3427.71       3109.11
+
+12 lasting level changes -> results/health_level_shifts.csv
+    date     engine                measure  median_before  median_after
+20260701     GEMINI       pct_no_citations           9.09         12.73
+20260706     GEMINI       pct_no_citations          12.73          7.27
+20260708     GEMINI n_unresolved_redirects          27.00         19.00
+20260716     GEMINI n_unresolved_redirects          19.00         28.00
+20260723     GEMINI       pct_no_citations          10.91         23.64
+20260724     GEMINI n_unresolved_redirects          27.00         19.00
+20260726     GEMINI n_unresolved_redirects          28.00         19.00
+20260825     GEMINI       pct_no_citations          16.36         21.82
+20260826     GEMINI n_unresolved_redirects          20.00          0.00
+20260712 PERPLEXITY          avg_citations           2.38          0.00
+20260722 PERPLEXITY       avg_answer_chars        3094.36       1991.73
+20260730 PERPLEXITY          avg_citations           0.27          0.00

@@ -1,0 +1,7 @@
+model,r2_within,breadth_strong_pct_per_sd,breadth_strong_p,top10_mean_sim_pct_per_sd,top10_mean_sim_p
+R2 features (Step-A6 match features),0.10941560003363793,,,,
+R2 features + breadth_strong,0.12004014125774942,17.365661546870093,0.00012920195001057345,,
+R2 features + top10_mean_sim,0.1107843897383628,,,14.998602057906819,0.09153990567852954
+R2 features + breadth_strong + top10_mean_sim,0.12042626174171578,19.576394700952314,0.00019098509472527086,-8.331815881937954,0.3429726540489433
+"mixed model, within-website variance explained (Step-A6 features)",0.11512767084597753,,,,
+"mixed model, within-website variance explained (+ breadth)",0.13764397421853403,,,,

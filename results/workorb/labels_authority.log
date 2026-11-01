@@ -1,0 +1,42 @@
+LLM (gpt-5.4-mini) labelled 55 / 55 prompts
+intent
+learning     52
+comparing     3
+intent_source
+llm    55
+intent                 comparing  learning
+topic                                     
+AEC Industry Focus             1         9
+AI Capabilities                0        10
+Competitive Landscape          0         5
+Knowledge Management           0        10
+Proposal Automation            1         9
+Workflow Integration           1         9
+prompts naming a tracked brand: 4
+streaming https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2026-jun-jul-aug/domain/cc-main-2026-jun-jul-aug-domain-ranks.txt.gz for 3622 domains ...
+  10,000,000 lines, 2269 matched
+  20,000,000 lines, 2717 matched
+  30,000,000 lines, 2830 matched
+  40,000,000 lines, 2901 matched
+  50,000,000 lines, 2978 matched
+  60,000,000 lines, 2998 matched
+  70,000,000 lines, 3076 matched
+  80,000,000 lines, 3107 matched
+  90,000,000 lines, 3142 matched
+  100,000,000 lines, 3179 matched
+  110,000,000 lines, 3208 matched
+3225 rows -> C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\workorb\tables\authority\cc_20260927.csv
+3622 rows -> C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\workorb\tables\authority\majestic_20260927.csv
+3622 rows -> C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\workorb\tables\authority\tranco_20260927.csv
+3622 rows -> C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\workorb\tables\authority\crux_20260927.csv
+no opr snapshot - skipped
+no paid snapshot - skipped
+3622 domains -> data/tables/domain_authority.csv
+tranco_found      0.353
+cc_found          0.890
+majestic_found    0.426
+crux_found        0.181
+
+top 20 by cc_harmonic: facebook.com, google.com, youtube.com, linkedin.com, apple.com, wikipedia.org, microsoft.com, amazon.com, github.com, wordpress.com, europa.eu, amazonaws.com, adobe.com, blogspot.com, github.io, medium.com, reddit.com, nih.gov, dropbox.com, forbes.com
+
+top 20 by majestic_ref_subnets: google.com, facebook.com, youtube.com, linkedin.com, apple.com, microsoft.com, github.com, wikipedia.org, amazon.com, adobe.com, europa.eu, wordpress.com, blogspot.com, github.io, reddit.com, nih.gov, amazonaws.com, medium.com, doi.org, forbes.com
