@@ -1,0 +1,68 @@
+wrote starting list C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\workorb\tables\brand_domains.csv - review it by hand
+882 websites to classify
+role         confidence
+competitor   likely         82
+             sure          140
+third_party  likely        103
+             sure          557
+               brand                  domain       role confidence                                                                                  note  citations
+            Flowcase            flowcase.com competitor       sure                                             llm: proposal and bid management software       3246
+          Responsive           responsive.io competitor       sure                                               llm: proposal and RFP response software       1261
+           AutoGenAI           autogenai.com competitor       sure                                            llm: AI proposal and RFP response software       1106
+             SiftHub              sifthub.io competitor     likely                                        llm: proposal/RFP software and related content       1081
+        Inventive AI            inventive.ai competitor       sure                             llm: AI proposal automation and sales enablement software        847
+           QorusDocs           qorusdocs.com competitor       sure                                        llm: proposal and document automation software        690
+        SparrowGenie        sparrowgenie.com competitor       sure                                                         llm: AI RFP response software        669
+           Monograph           monograph.com competitor       sure                                   llm: architecture firm business management software        655
+              Bidara               bidara.ai competitor     likely                                                             llm: AI proposal software        647
+              Arphie               arphie.ai competitor       sure                                      llm: AI software for RFPs and proposal responses        626
+           Proposify           proposify.com competitor       sure                                                      llm: proposal and quote software        539
+         Contravault         contravault.com competitor     likely                                        llm: AI RFP and bidding software content/tools        484
+    Milient Software     milientsoftware.com competitor       sure llm: project management and practice management software for architecture, engineerin        456
+          AutoRFP.ai              autorfp.ai competitor       sure                                            llm: AI proposal and RFP response software        421
+               Civio                civio.ai competitor       sure                                            llm: AI proposal and RFP response software        406
+              Deltek              deltek.com competitor       sure llm: ERP, project management, and business software for professional services and pro        398
+    Better Proposals      betterproposals.io competitor       sure                                                                llm: proposal software        397
+           GetAccept           getaccept.com competitor       sure                                  llm: sales proposal and contract management software        395
+            Thalamus           thalamushq.ai competitor       sure                                            llm: AI proposal and RFP response software        386
+              RFP.ai                  rfp.ai competitor       sure                                                         llm: AI RFP response software        350
+          Tenderbolt           tenderbolt.ai competitor       sure                                                     llm: AI RFP and proposal software        349
+              Propal               propal.io competitor       sure                                                     llm: proposal management software        302
+              Flodoc               flodoc.ai competitor       sure                                               llm: AI proposal software for AEC firms        291
+            Hey Iris              heyiris.ai competitor       sure                                                     llm: AI proposal and RFP software        263
+          PASconcept          pasconcept.com competitor       sure                               llm: ERP and proposal management software for AEC firms        259
+             Tribble              tribble.ai competitor       sure                                            llm: AI proposal and RFP response software        249
+               ikaun               ikaun.com competitor       sure                                   llm: AEC proposal and business development software        234
+     Upland Software      uplandsoftware.com competitor       sure                           llm: enterprise software, including proposal/RFP automation        218
+             DeepRFP             deeprfp.com competitor       sure                                    llm: RFP response and proposal automation software        212
+            PandaDoc            pandadoc.com competitor       sure        llm: document automation and e-signature software, including proposal software        211
+            Sequesto            sequesto.com competitor       sure                                         llm: RFP response and bid management software        205
+                Xait                xait.com competitor       sure                                             llm: proposal and bid management software        177
+        ProcureSpark         procurespark.ai competitor     likely                                         llm: AI procurement and proposal/RFP software        173
+                RFPM                 rfpm.ai competitor       sure                                                 llm: proposal/RFP management software        159
+        Proposal.biz            proposal.biz competitor       sure                                               llm: proposal and RFP-response software        148
+             Offorte             offorte.com competitor       sure                                                                llm: proposal software        144
+             Ask MOA               askmoa.ai competitor       sure                                    llm: AI proposal automation software for AEC firms        141
+            Steerlab             steerlab.ai competitor       sure                                       llm: AI software for RFP and proposal workflows        136
+                COBL                 cobl.ai competitor       sure                                                             llm: AI proposal software        134
+           Anchor AI            getanchor.ai competitor       sure                  llm: AI software for proposal/RFP response and document intelligence        133
+             Foveate             foveate.com competitor       sure                      llm: AI proposal and business development software for AEC firms        125
+               Jinba                jinba.io competitor     likely                         llm: proposal automation / AI software for business workflows        125
+          Treblehook          treblehook.com competitor     likely                                           llm: AEC project data and business software        124
+       VisibleThread       visiblethread.com competitor       sure                                llm: proposal response and content management software        117
+               Joist               joist.com competitor       sure                                          llm: contractor business management software        114
+               Eagle            goveagle.com competitor       sure                    llm: proposal and RFP response software for government contractors        112
+ Expedience Software  expediencesoftware.com competitor       sure                              llm: proposal automation and content management software        112
+               Qwilr               qwilr.com competitor       sure                                             llm: proposal and sales document software        109
+        Blueberry AI        blueberry-ai.com competitor     likely                                                llm: digital asset management software        105
+           PropAgent            propagent.ai competitor       sure                                    llm: AI proposal management software for AEC firms        103
+         ProjectMark         projectmark.com competitor       sure                         llm: proposal and business development software for AEC firms        103
+                 1up                  1up.ai competitor       sure                                                 llm: AI-powered RFP response software         97
+          Projectory           projectory.ai competitor       sure                                                     llm: proposal automation software         94
+     Proposal Helper      proposalhelper.com competitor     likely                       llm: proposal writing and proposal automation services/software         94
+Procurement Sciences procurementsciences.com competitor       sure                                          llm: procurement and bid management software         93
+             BidHawk         blog.bidhawk.ai competitor       sure                                             llm: proposal and bid management software         89
+       LotusPetal AI           lotuspetal.ai competitor     likely                                            llm: AI proposal and RFP-response software         83
+              Unanet unanet.quantum-intl.com competitor       sure                               llm: Unanet software and related documentation/services         78
+             RoboReg              roboreg.ca competitor     likely                llm: AI/regtech software for proposal and document workflow automation         78
+    Capture Planning     captureplanning.com competitor       sure                                  llm: proposal and capture planning software/services         77
