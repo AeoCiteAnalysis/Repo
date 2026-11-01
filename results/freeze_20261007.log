@@ -1,0 +1,1758 @@
+=== gfiber fetch_pages.py --round 2026-09-26 --min-citations 1  (20:45)
+1087 URLs to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\pages\2026-09-26
+200/1087 {'robots_disallowed': 191, 'ok': 5, 'http_403': 3, 'http_404': 1}
+400/1087 {'robots_disallowed': 391, 'ok': 5, 'http_403': 3, 'http_404': 1}
+600/1087 {'robots_disallowed': 591, 'ok': 5, 'http_403': 3, 'http_404': 1}
+800/1087 {'robots_disallowed': 791, 'ok': 5, 'http_403': 3, 'http_404': 1}
+1000/1087 {'robots_disallowed': 991, 'ok': 5, 'http_403': 3, 'http_404': 1}
+done {'robots_disallowed': 1063, 'ok': 17, 'http_403': 3, 'http_404': 3, 'error': 1}
+=== gfiber features.py --round 2026-09-26  (20:49)
+round 2026-09-26: parsing 24669 pages
+  parsed 1000/24669
+  parsed 2000/24669
+  parsed 3000/24669
+  parsed 4000/24669
+  parsed 5000/24669
+  parsed 6000/24669
+  parsed 7000/24669
+  parsed 8000/24669
+  parsed 9000/24669
+  parsed 10000/24669
+  parsed 11000/24669
+  parsed 12000/24669
+  parsed 13000/24669
+  parsed 14000/24669
+  parsed 15000/24669
+  parsed 16000/24669
+  parsed 17000/24669
+  parsed 18000/24669
+  parsed 19000/24669
+  parsed 20000/24669
+  parsed 21000/24669
+  parsed 22000/24669
+  parsed 23000/24669
+  parsed 24000/24669
+parsed 24663, failed 6
+  embedded 200/24663 pages
+  embedded 400/24663 pages
+  embedded 600/24663 pages
+  embedded 800/24663 pages
+  embedded 1000/24663 pages
+  embedded 1200/24663 pages
+  embedded 1400/24663 pages
+  embedded 1600/24663 pages
+  embedded 1800/24663 pages
+  embedded 2000/24663 pages
+  embedded 2200/24663 pages
+  embedded 2400/24663 pages
+  embedded 2600/24663 pages
+  embedded 2800/24663 pages
+  embedded 3000/24663 pages
+  embedded 3200/24663 pages
+  embedded 3400/24663 pages
+  embedded 3600/24663 pages
+  embedded 3800/24663 pages
+  embedded 4000/24663 pages
+  embedded 4200/24663 pages
+  embedded 4400/24663 pages
+  embedded 4600/24663 pages
+  embedded 4800/24663 pages
+  embedded 5000/24663 pages
+  embedded 5200/24663 pages
+  embedded 5400/24663 pages
+  embedded 5600/24663 pages
+  embedded 5800/24663 pages
+  embedded 6000/24663 pages
+  embedded 6200/24663 pages
+  embedded 6400/24663 pages
+  embedded 6600/24663 pages
+  embedded 6800/24663 pages
+  embedded 7000/24663 pages
+  embedded 7200/24663 pages
+  embedded 7400/24663 pages
+  embedded 7600/24663 pages
+  embedded 7800/24663 pages
+  embedded 8000/24663 pages
+  embedded 8200/24663 pages
+  embedded 8400/24663 pages
+  embedded 8600/24663 pages
+  embedded 8800/24663 pages
+  embedded 9000/24663 pages
+  embedded 9200/24663 pages
+  embedded 9400/24663 pages
+  embedded 9600/24663 pages
+  embedded 9800/24663 pages
+  embedded 10000/24663 pages
+  embedded 10200/24663 pages
+  embedded 10400/24663 pages
+  embedded 10600/24663 pages
+  embedded 10800/24663 pages
+  embedded 11000/24663 pages
+  embedded 11200/24663 pages
+  embedded 11400/24663 pages
+  embedded 11600/24663 pages
+  embedded 11800/24663 pages
+  embedded 12000/24663 pages
+  embedded 12200/24663 pages
+  embedded 12400/24663 pages
+  embedded 12600/24663 pages
+  embedded 12800/24663 pages
+  embedded 13000/24663 pages
+  embedded 13200/24663 pages
+  embedded 13400/24663 pages
+  embedded 13600/24663 pages
+  embedded 13800/24663 pages
+  embedded 14000/24663 pages
+  embedded 14200/24663 pages
+  embedded 14400/24663 pages
+  embedded 14600/24663 pages
+  embedded 14800/24663 pages
+  embedded 15000/24663 pages
+  embedded 15200/24663 pages
+  embedded 15400/24663 pages
+  embedded 15600/24663 pages
+  embedded 15800/24663 pages
+  embedded 16000/24663 pages
+  embedded 16200/24663 pages
+  embedded 16400/24663 pages
+  embedded 16600/24663 pages
+  embedded 16800/24663 pages
+  embedded 17000/24663 pages
+  embedded 17200/24663 pages
+  embedded 17400/24663 pages
+  embedded 17600/24663 pages
+  embedded 17800/24663 pages
+  embedded 18000/24663 pages
+  embedded 18200/24663 pages
+  embedded 18400/24663 pages
+  embedded 18600/24663 pages
+  embedded 18800/24663 pages
+  embedded 19000/24663 pages
+  embedded 19200/24663 pages
+  embedded 19400/24663 pages
+  embedded 19600/24663 pages
+  embedded 19800/24663 pages
+  embedded 20000/24663 pages
+  embedded 20200/24663 pages
+  embedded 20400/24663 pages
+  embedded 20600/24663 pages
+  embedded 20800/24663 pages
+  embedded 21000/24663 pages
+  embedded 21200/24663 pages
+  embedded 21400/24663 pages
+  embedded 21600/24663 pages
+  embedded 21800/24663 pages
+  embedded 22000/24663 pages
+  embedded 22200/24663 pages
+  embedded 22400/24663 pages
+  embedded 22600/24663 pages
+  embedded 22800/24663 pages
+  embedded 23000/24663 pages
+  embedded 23200/24663 pages
+  embedded 23400/24663 pages
+  embedded 23600/24663 pages
+  embedded 23800/24663 pages
+  embedded 24000/24663 pages
+  embedded 24200/24663 pages
+  embedded 24400/24663 pages
+  embedded 24600/24663 pages
+  embedded 24663/24663 pages
+wrote 24663 rows -> data/tables/page_features.csv
+page_type
+article            7157
+support/help       3566
+other              3510
+how-to             2021
+pricing/plans      1872
+list               1865
+forum              1709
+comparison         1657
+product/service     670
+review list         631
+video                 5
+=== gfiber build_url_table.py  (22:23)
+citation rows: 841,399 total, 0 in excluded days, 6,717 unresolved redirects dropped, 393,258 used (once per answer)
+page features joined for 24,663 / 39,059 URLs
+authority joined for 39,043 URLs
+url_table_all: 39,059 URLs on 7,229 websites
+url_table (>= 2 citations): 22,330 URLs on 4,327 websites
+              size     sum
+role                      
+competitor    4556   67561
+mixed           59     502
+own            797   48854
+third_party  16918  259612
+=== gfiber r01_describe.py  (22:23)
+
+ALL ANSWERS
+engine                      OPENAI     GEMINI  PERPLEXITY        All
+answers                   58590.00   26069.00    58590.00  143249.00
+citations                116530.00  263300.00    16358.00  396188.00
+listed_per_answer             2.65      24.91        0.63       5.87
+unique_per_answer             1.99      10.10        0.28       2.77
+pct_answers_no_citation      30.81      15.62       95.76      54.61
+distinct_urls             15833.00   23640.00     3498.00   39043.00
+distinct_websites          2190.00    5452.00     1067.00    7234.00
+top10_website_share          51.62      41.63       37.07      39.97
+websites_for_80pct           49.00     172.00      142.00     167.00
+pct_reddit                    2.32      13.07        5.46       9.59
+pct_youtube                   0.04       2.92        3.29       2.09
+pct_linkedin                  0.05       0.00        0.18       0.02
+pct_own                      24.00       7.88        2.87      12.42
+pct_competitor               40.25       8.89        3.93      17.91
+pct_third_party              35.48      83.13       93.18      69.53
+
+PROMPT-DAYS ANSWERED BY ALL 3
+engine                     OPENAI     GEMINI  PERPLEXITY        All
+answers                  26069.00   26069.00    26069.00   78207.00
+citations                52318.00  263300.00     7548.00  323166.00
+listed_per_answer            2.66      24.91        0.62       9.40
+unique_per_answer            2.01      10.10        0.29       4.13
+pct_answers_no_citation     30.33      15.62       96.11      47.35
+distinct_urls             9590.00   23640.00     2092.00   32638.00
+distinct_websites         1478.00    5452.00      689.00    6553.00
+top10_website_share         51.65      41.63       38.73      40.10
+websites_for_80pct          46.00     172.00      108.00     176.00
+pct_reddit                   2.21      13.07        4.62      11.11
+pct_youtube                  0.05       2.92        2.15       2.43
+pct_linkedin                 0.08       0.00        0.11       0.02
+pct_own                     25.25       7.88        2.42      10.56
+pct_competitor              38.48       8.89        3.06      13.55
+pct_third_party             36.06      83.13       94.52      75.77
+
+top 10 websites overall:
+              website  citations  share_pct        role
+           reddit.com      38005       9.59 third_party
+           gfiber.com      23062       5.82         own
+     fiber.google.com      15918       4.02         own
+              att.com      15280       3.86  competitor
+highspeedinternet.com      14773       3.73 third_party
+             cnet.com      13619       3.44 third_party
+          verizon.com      11457       2.89  competitor
+     broadbandnow.com      11283       2.85 third_party
+          youtube.com       8245       2.08 third_party
+          xfinity.com       6702       1.69  competitor
+=== gfiber r02_main_model.py  (22:24)
+          sample  n_urls  n_websites  n_params  r2_within dropped_terms
+       all pages   12038        1120        26   0.048842    type_video
+own + competitor    4794          77        26   0.034160    type_video
+     third party    7185        1044        26   0.086329    type_video
+
+% more citations per +1 SD; yes/no features: has vs not (* p<0.05):
+sample               all pages own + competitor third party
+term                                                       
+best_paragraph_match     15.5*              5.2       25.7*
+has_author                -4.6           -15.8*         3.7
+has_faq                   -3.4             -1.9       -9.2*
+has_schema                -5.3            -12.2        11.7
+has_summary_box            6.9              2.6         5.1
+intro_match               5.9*             7.8*         3.1
+n_headings                -2.7             -1.4         1.9
+n_lists                   -1.0           -18.1*         0.5
+n_tables                  -1.4            12.5*        -4.0
+outbound_links             1.4              6.6         0.5
+page_age_days            -5.1*           -10.6*       -4.2*
+prompt_match_words        9.1*            11.9*       12.8*
+title_match              14.1*             7.4*       23.6*
+word_count                 0.9              2.9        -3.0
+
+page types vs article (% difference, all pages):
+                term  pct_change_per_sd     p
+     type_comparison             -5.346 0.306
+          type_forum             78.104 0.000
+         type_how-to             -7.419 0.063
+           type_list             13.102 0.018
+          type_other             -0.558 0.894
+  type_pricing/plans             -6.908 0.114
+type_product/service            -11.121 0.083
+    type_review list             -3.970 0.634
+   type_support/help              8.071 0.083
+=== gfiber r03_fdr.py  (22:24)
+sample                                 all pages             own + competitor                  third party
+term                                                                                                      
+best_paragraph_match         15.5%  q=0.0  found   5.2%  q=0.1472  borderline          25.7%  q=0.0  found
+has_author            -4.6%  q=0.4087  not found      -15.8%  q=0.0106  found    3.7%  q=0.6267  not found
+has_faq               -3.4%  q=0.3564  not found   -1.9%  q=0.6718  not found  -9.2%  q=0.0701  borderline
+has_schema            -5.3%  q=0.4913  not found  -12.2%  q=0.2137  not found   11.7%  q=0.4305  not found
+has_summary_box        6.9%  q=0.2314  not found    2.6%  q=0.7751  not found    5.1%  q=0.4305  not found
+intro_match                5.9%  q=0.0029  found        7.8%  q=0.0091  found    3.1%  q=0.3628  not found
+n_headings            -2.7%  q=0.2314  not found   -1.4%  q=0.6718  not found    1.9%  q=0.5939  not found
+n_lists               -1.0%  q=0.3564  not found         -18.1%  q=0.0  found    0.5%  q=0.5052  not found
+n_tables              -1.4%  q=0.4913  not found       12.5%  q=0.0106  found   -4.0%  q=0.129  borderline
+outbound_links         1.4%  q=0.4913  not found    6.6%  q=0.2701  not found    0.5%  q=0.7944  not found
+page_age_days              -5.1%  q=0.004  found      -10.6%  q=0.0091  found  -4.2%  q=0.0701  borderline
+prompt_match_words         9.1%  q=0.0005  found        11.9%  q=0.007  found       12.8%  q=0.0004  found
+title_match                  14.1%  q=0.0  found         7.4%  q=0.007  found          23.6%  q=0.0  found
+word_count             0.9%  q=0.5049  not found    2.9%  q=0.2212  not found   -3.0%  q=0.193  borderline
+=== gfiber r04_stability_selection.py  (22:24)
+all pages ...
+    50/200
+    100/200
+    150/200
+    200/200
+own + competitor ...
+    50/200
+    100/200
+    150/200
+    200/200
+third party ...
+    50/200
+    100/200
+    150/200
+    200/200
+selection rate % (min-error -> 1-SE):
+sample                 all pages own + competitor third party
+term                                                         
+best_paragraph_match  100 -> 100         96 -> 55  100 -> 100
+has_author               68 -> 0          98 -> 3     60 -> 0
+has_faq                  76 -> 0          70 -> 0     92 -> 0
+has_schema               72 -> 0          86 -> 0     76 -> 1
+has_summary_box          85 -> 0          73 -> 0     78 -> 1
+intro_match            100 -> 46         99 -> 44    92 -> 13
+n_headings               78 -> 0          48 -> 0     65 -> 0
+n_lists                  87 -> 0         100 -> 4     51 -> 0
+n_tables                 64 -> 0          97 -> 1     92 -> 0
+outbound_links           67 -> 0          82 -> 0     57 -> 0
+page_age_days           100 -> 0          99 -> 6     96 -> 0
+prompt_match_words     100 -> 58        100 -> 36   100 -> 84
+title_match           100 -> 100        100 -> 47  100 -> 100
+word_count               62 -> 0          86 -> 0     85 -> 0
+=== gfiber r05_double_ml.py  (22:25)
+all pages ...
+    prompt_match_words: +0.296 (0.049)
+    title_match: +0.223 (0.026)
+    intro_match: +0.107 (0.028)
+    best_paragraph_match: +0.210 (0.035)
+    word_count: -0.032 (0.023)
+    outbound_links: +0.020 (0.027)
+    n_headings: -0.038 (0.033)
+    n_tables: -0.022 (0.033)
+    n_lists: -0.007 (0.007)
+    has_faq: -0.029 (0.024)
+    has_summary_box: -0.006 (0.020)
+    has_author: -0.024 (0.045)
+    has_schema: +0.074 (0.051)
+    page_age_days: -0.066 (0.024)
+own + competitor ...
+    prompt_match_words: +0.421 (0.123)
+    title_match: +0.166 (0.054)
+    intro_match: +0.133 (0.057)
+    best_paragraph_match: +0.107 (0.073)
+    word_count: +0.069 (0.048)
+    outbound_links: +0.148 (0.104)
+    n_headings: -0.039 (0.070)
+    n_tables: +0.025 (0.100)
+    n_lists: -0.060 (0.112)
+    has_faq: +0.078 (0.050)
+    has_summary_box: -0.117 (0.054)
+    has_author: -0.184 (0.087)
+    has_schema: +0.045 (0.090)
+    page_age_days: -0.063 (0.059)
+third party ...
+    prompt_match_words: +0.343 (0.055)
+    title_match: +0.277 (0.031)
+    intro_match: +0.069 (0.033)
+    best_paragraph_match: +0.296 (0.043)
+    word_count: -0.069 (0.030)
+    outbound_links: +0.010 (0.026)
+    n_headings: -0.035 (0.044)
+    n_tables: -0.044 (0.043)
+    n_lists: -0.004 (0.007)
+    has_faq: -0.060 (0.030)
+    has_summary_box: +0.028 (0.022)
+    has_author: +0.058 (0.054)
+    has_schema: +0.138 (0.072)
+    page_age_days: -0.068 (0.026)
+sample               all pages own + competitor third party
+term                                                       
+best_paragraph_match     15.7*              7.7       22.8*
+has_author                -1.6           -12.0*         4.1
+has_faq                   -2.0              5.6       -4.1*
+has_schema                 5.3              3.1        10.0
+has_summary_box           -0.4            -7.8*         2.0
+intro_match               7.7*             9.6*        4.9*
+n_headings                -2.6             -2.7        -2.4
+n_lists                   -0.5             -4.1        -0.3
+n_tables                  -1.5              1.7        -3.0
+outbound_links             1.4             10.8         0.7
+page_age_days            -4.5*             -4.3       -4.6*
+prompt_match_words       22.7*            33.8*       26.8*
+title_match              16.7*            12.2*       21.2*
+word_count                -2.2              4.9       -4.7*
+=== gfiber r06_shape.py  (22:26)
+sample                   all pages own + competitor   third party
+term                                                             
+best_paragraph_match  one peak/dip        always up     always up
+has_author            binary (n/a)     binary (n/a)  binary (n/a)
+has_faq               binary (n/a)     binary (n/a)  binary (n/a)
+has_schema            binary (n/a)     binary (n/a)  binary (n/a)
+has_summary_box       binary (n/a)     binary (n/a)  binary (n/a)
+intro_match           one peak/dip        always up  one peak/dip
+n_headings             always down             flat          flat
+n_lists                       flat      always down          flat
+n_tables                      flat        always up          flat
+outbound_links                flat             flat          flat
+page_age_days          always down      always down   always down
+prompt_match_words    one peak/dip           wiggly     always up
+title_match           one peak/dip     one peak/dip  one peak/dip
+word_count                    flat             flat          flat
+=== gfiber r07_importance.py  (22:27)
+A: page + website score: CV R2 = 0.162; top: website_score 0.303, title_match 0.146, best_paragraph_match 0.142, prompt_match_words 0.087, word_count 0.076, intro_match 0.074
+B: page + outside authority: CV R2 = 0.167; top: best_paragraph_match 0.191, title_match 0.166, prompt_match_words 0.107, word_count 0.088, log_majestic_ref_subnets 0.087, page_age_days 0.080
+C: page + website score + authority: CV R2 = 0.169; top: website_score 0.277, best_paragraph_match 0.144, title_match 0.144, prompt_match_words 0.094, intro_match 0.076, word_count 0.074
+                            version  cv_r2       strongest_non_page strongest_page_feature  ratio_non_page_to_page
+            A: page + website score  0.162            website_score            title_match                   2.076
+        B: page + outside authority  0.167 log_majestic_ref_subnets   best_paragraph_match                   0.453
+C: page + website score + authority  0.169            website_score   best_paragraph_match                   1.925
+=== gfiber r08_simpson.py  (22:27)
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r08_simpson.py:37: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  fit = sm.OLS(s.y, sm.add_constant(s[cols])).fit(cov_type='HC1')
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r08_simpson.py:37: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  fit = sm.OLS(s.y, sm.add_constant(s[cols])).fit(cov_type='HC1')
+speed score from ['lcp', 'inp', 'cls']: 466 URLs with their own (page-level) data
+estimate                                               pooled, alone pooled, full model within website
+sample      tip             verdict                                                                   
+all pages   has_author      disappears within websites          7.2*              -4.2*           -2.3
+            has_faq         disappears within websites          8.1*               -0.4           -1.6
+            has_schema      disappears within websites          3.4*              -4.5*           -2.5
+            has_summary_box disappears within websites          6.1*               -0.5            2.1
+            speed_score     disappears within websites         11.7*              11.8*           -1.1
+third party has_author      disappears within websites          9.9*               -1.5            1.9
+            has_faq         sign flips                         12.8*                1.2          -4.4*
+            has_schema      disappears within websites          7.8*              -4.2*            5.3
+            has_summary_box disappears within websites          5.1*               -2.1            1.6
+            speed_score     disappears within websites         18.7*              23.0*           11.2
+=== gfiber r09_robustness.py  (22:27)
+time split: train 20260624..20260830 (excl.), hold-out 20260830..20260921
+          sample  n_urls  r2_holdout  spearman_holdout  r2_website_only
+       all pages   12038       0.095             0.253            0.072
+own + competitor    4794       0.065             0.211            0.057
+     third party    7185       0.122             0.303            0.077
+sample                all pages  own + competitor  third party
+term                                                          
+best_paragraph_match          5                 5            5
+has_author                    4                 5            5
+has_faq                       5                 5            5
+has_schema                    4                 5            4
+has_summary_box               5                 3            5
+intro_match                   5                 5            5
+n_headings                    5                 5            4
+n_lists                       5                 5            4
+n_tables                      4                 5            5
+outbound_links                4                 4            3
+page_age_days                 5                 5            5
+prompt_match_words            5                 5            5
+title_match                   5                 5            5
+word_count                    4                 5            5
+
+leave-one-website-out (all pages, same sign of 8):
+term
+best_paragraph_match    8.0
+has_author              8.0
+has_faq                 8.0
+has_schema              8.0
+has_summary_box         8.0
+intro_match             8.0
+n_headings              8.0
+n_lists                 8.0
+n_tables                8.0
+outbound_links          8.0
+page_age_days           8.0
+prompt_match_words      8.0
+title_match             8.0
+word_count              6.0
+
+per engine (% per SD):
+check                 engine: ChatGPT  engine: Gemini  engine: Perplexity
+term                                                                     
+best_paragraph_match              9.5             7.8                 4.8
+has_author                      -19.3            11.6                 3.2
+has_faq                          -1.7            -0.3                -2.7
+has_schema                       -0.0             1.5                -0.5
+has_summary_box                  -2.0            15.0                -1.8
+intro_match                       0.7             8.6                 0.2
+n_headings                        1.4            -4.8                -0.8
+n_lists                          -0.8            -1.4                -0.2
+n_tables                          5.1            -7.8                 0.8
+outbound_links                   -2.8             3.5                 0.6
+page_age_days                    -4.2            -5.2                 1.9
+prompt_match_words                2.4             5.3                 7.1
+title_match                      -0.2            16.8                 4.6
+word_count                        2.9            -2.0                 0.3
+=== gfiber r10_paragraph_depth.py  (22:27)
+               group                             subgroup  n_pages  median    mean  share_top_quarter  share_bottom_quarter  wilcoxon_p
+                 all                      all cited pages    22747  0.4545  0.4756             0.3244                0.2772      0.0000
+              engine                              ChatGPT    10729  0.4706  0.4853             0.3213                0.2899      0.0000
+              engine                               Gemini    12553  0.4359  0.4633             0.3291                0.2606      0.0000
+              engine                           Perplexity     2333  0.4737  0.4879             0.3052                0.2953      0.0412
+           page type                              article     6937  0.4565  0.4711             0.3310                0.2684      0.0000
+           page type                           comparison     1630  0.4286  0.4736             0.2883                0.2607      0.0002
+           page type                                forum     1226  0.8000  0.6493             0.1517                0.5228      0.0000
+           page type                               how-to     1984  0.4706  0.4744             0.3135                0.2676      0.0001
+           page type                                 list     1819  0.4737  0.4820             0.3128                0.2892      0.0072
+           page type                                other     3007  0.4000  0.4357             0.3804                0.2384      0.0000
+           page type                        pricing/plans     1789  0.6000  0.5191             0.2616                0.2851      0.0294
+           page type                      product/service      638  0.4361  0.4564             0.3699                0.2445      0.0006
+           page type                          review list      610  0.5455  0.5135             0.3016                0.3475      0.4320
+           page type                         support/help     3102  0.3494  0.4253             0.3878                0.2334      0.0000
+within-website model y on depth (per SD), URLs cited >= 2    11208     NaN -2.0282                NaN                   NaN      0.0722
+=== gfiber r11_engines.py  (22:27)
+26,069 prompt-days answered by all three engines; 323,166 citations
+    engine     page_type  n_citations_with_date  share_with_date  median_age_days  pct_under_3_months  pct_under_12_months  pct_over_3_years
+    OPENAI           all                  19906              0.4            201.0                19.2                 70.0              11.1
+    OPENAI       article                   7192              0.7            162.0                21.3                 70.1              11.6
+    OPENAI pricing/plans                   1107              0.2            367.0                23.8                 49.8              23.2
+    OPENAI  support/help                   3678              0.3            339.0                16.4                 66.2               5.8
+    GEMINI           all                 130845              0.5            311.0                17.4                 55.0              13.8
+    GEMINI       article                  45467              0.8            373.0                15.9                 49.3              14.9
+    GEMINI pricing/plans                   7184              0.5            193.0                16.5                 68.4               9.3
+    GEMINI  support/help                   3018              0.2            433.0                12.2                 46.7              19.4
+PERPLEXITY           all                   4994              0.7            223.0                22.5                 66.1              12.9
+PERPLEXITY       article                    950              0.8            238.5                21.6                 57.4              13.3
+PERPLEXITY pricing/plans                    187              0.7            184.0                19.3                 73.8              12.3
+               pct                   pct_position_weighted                  
+engine      GEMINI OPENAI PERPLEXITY                GEMINI OPENAI PERPLEXITY
+role                                                                        
+competitor     8.9   38.5        3.1                   8.8   36.3        2.6
+mixed          0.1    0.2        0.0                   0.1    0.2        0.0
+own            7.9   25.2        2.4                  10.0   28.9        3.2
+third_party   83.1   36.1       94.5                  81.2   34.6       94.2
+engine                     GEMINI  OPENAI  PERPLEXITY
+platform                                             
+Facebook                     2.18    0.00        0.46
+LinkedIn                     0.00    0.08        0.11
+Quora                        1.06    0.00        0.00
+Reddit                      13.07    2.21        4.62
+Wikipedia                    0.10    0.15        0.09
+YouTube                      2.92    0.05        2.15
+review / comparison sites   22.61    9.37       41.72
+=== gfiber r12_page_type_topic.py  (22:27)
+      page_type  pct_vs_article     p
+     comparison          -5.346 0.306
+          forum          78.104 0.000
+         how-to          -7.419 0.063
+           list          13.102 0.018
+          other          -0.558 0.894
+  pricing/plans          -6.908 0.114
+product/service         -11.121 0.083
+    review list          -3.970 0.634
+   support/help           8.071 0.083
+group              Competitive Landscape Customer Support Equipment Performance Pricing Reliability  Speed comparing learning ready to buy
+term                                                                                                                                      
+has_author                           2.0             -4.7      8.3*      -10.0*  -10.2*         3.8   -3.7      -7.4     -1.3        -8.1*
+has_faq                              1.5            -4.9*      -3.1         1.8   12.6*       -4.8*  -5.5*      -2.9    -9.9*        11.6*
+has_schema                          -2.8            11.9*      -1.3       -9.9*    -6.3         1.8  -10.0      -5.5      2.1       -11.2*
+has_summary_box                      0.1              1.1      7.6*         0.2     1.3         0.3   -6.4       2.9      6.6          0.2
+prompt_match_words                  5.0*            -6.5*      8.3*        8.8*    7.2*         1.4  17.3*     18.1*    11.2*         3.9*
+title_match                         8.7*             2.7*       0.1        5.7*     1.4        9.1*   9.9*     18.4*     6.3*          2.0
+=== gfiber r13_variance_split.py  (22:28)
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+                                                     model  r2_in_sample  r2_cross_validated  n_urls  n_websites
+                                               (1) nothing        0.0000             -0.0001   12038        1120
+                                       (2) word count only        0.0021              0.0018   12038        1120
+                                (3) outside authority only        0.0234              0.0222   12038        1120
+                                          (4) website only        0.1875              0.0400   12038        1120
+                          (5) website + all page variables        0.2272              0.0764   12038        1120
+(6) authority + all page variables (no website indicators)        0.0960              0.0903   12038        1120
+            part  share_of_total  explained_by_page_variables  n_urls  n_websites
+between websites          0.1286                       0.4244   12038        1120
+ within websites          0.8714                       0.0338   12038        1120
+                            part  r_odd_even  reliability  chance_share  n_urls  n_days
+                   all variation      0.8217       0.9021        0.0979   12038      90
+                 within websites      0.8052       0.8921        0.1079   12038      90
+between websites (site averages)      0.7649       0.8668        0.1332   12038      90
+ min_pages_per_website  n_urls  n_websites  cv_r2_website_only  cv_r2_website_plus_page  cv_r2_page_only
+                     2   12038        1120              0.0400                   0.0764           0.0745
+                    10    8965         179              0.0977                   0.1312           0.0851
+                    30    7061          58              0.1138                   0.1377           0.0960
+=== gfiber r14_authority.py  (22:28)
+WEBSITE LEVEL
+                      spec                    score   coef    se   p  pct_more_citations_per_sd    r2  n_websites  spearman_with_in_data_score  spearman_with_total_citations
+with pages control (guide)              cc_harmonic -0.068 0.014 0.0                     -4.634 0.665        6089                       -0.015                          0.101
+with pages control (guide)          log_cc_pagerank -0.122 0.015 0.0                     -8.123 0.667        6089                       -0.014                          0.105
+with pages control (guide) log_majestic_ref_subnets -0.114 0.021 0.0                     -7.616 0.753        3039                       -0.012                          0.128
+with pages control (guide)          log_tranco_rank -0.120 0.015 0.0                     -7.964 0.663        6502                       -0.010                          0.124
+with pages control (guide)            log_crux_rank -0.103 0.026 0.0                     -6.920 0.793        1891                        0.005                          0.116
+     without pages control              cc_harmonic  0.281 0.026 0.0                     21.503 0.065        6089                       -0.015                          0.101
+     without pages control          log_cc_pagerank  0.307 0.029 0.0                     23.687 0.068        6089                       -0.014                          0.105
+     without pages control log_majestic_ref_subnets  0.377 0.045 0.0                     29.887 0.104        3039                       -0.012                          0.128
+     without pages control          log_tranco_rank  0.361 0.030 0.0                     28.468 0.078        6502                       -0.010                          0.124
+     without pages control            log_crux_rank  0.330 0.059 0.0                     25.699 0.114        1891                        0.005                          0.116
+
+PAGE LEVEL
+        model                 term    coef     se      p  pct_change_per_sd  n_urls  n_websites
+  mixed model          cc_harmonic  0.0928 0.0247 0.0002             6.6413   14532        3614
+  mixed model   prompt_match_words  0.0958 0.0228 0.0000             6.8692   14532        3614
+  mixed model          title_match  0.1832 0.0171 0.0000            13.5379   14532        3614
+  mixed model          intro_match  0.0678 0.0177 0.0001             4.8127   14532        3614
+  mixed model best_paragraph_match  0.1791 0.0209 0.0000            13.2192   14532        3614
+  mixed model        page_age_days -0.0496 0.0180 0.0060            -3.3778   14532        3614
+clustered OLS          cc_harmonic  0.1642 0.0429 0.0001            12.0546   14532        3614
+clustered OLS   prompt_match_words  0.0798 0.0465 0.0863             5.6863   14532        3614
+clustered OLS          title_match  0.2052 0.0334 0.0000            15.2821   14532        3614
+clustered OLS          intro_match  0.0512 0.0345 0.1375             3.6153   14532        3614
+clustered OLS best_paragraph_match  0.2280 0.0343 0.0000            17.1203   14532        3614
+clustered OLS        page_age_days -0.0542 0.0294 0.0650            -3.6885   14532        3614
+
+INTERACTION
+              term    coef     se      p
+       cc_harmonic  0.1574 0.0508 0.0019
+prompt_match_words  0.1115 0.0534 0.0367
+       title_match  0.2002 0.0298 0.0000
+      auth_x_match  0.0643 0.0448 0.1511
+      auth_x_title -0.0521 0.0266 0.0497
+
+SCORE COMPARISON
+                   score     r2  holdout_rmse  holdout_r2    coef
+           log_crux_rank 0.0886        1.5050      0.0595 -0.0943
+log_majestic_ref_subnets 0.0872        1.5067      0.0574  0.0101
+             cc_harmonic 0.0876        1.5089      0.0547  0.1642
+         log_tranco_rank 0.0810        1.5109      0.0522  0.0912
+         log_cc_pagerank 0.0847        1.5109      0.0522  0.1264
+                    none 0.0790        1.5117      0.0512     NaN
+
+SUBSETS (authority term)
+                                 subset     outcome        term   coef    se     p  n_urls  pct_change_per_sd
+                              all pages all engines cc_harmonic  0.164 0.043 0.000   14532             12.055
+                       own + competitor all engines cc_harmonic  0.197 0.096 0.040    4845             14.594
+                            third party all engines cc_harmonic  0.140 0.045 0.002    9629             10.185
+without reddit/youtube/google/wikipedia all engines cc_harmonic  0.147 0.049 0.003   14038             10.745
+                              all pages     ChatGPT cc_harmonic  0.417 0.082 0.000   14532             33.560
+                              all pages      Gemini cc_harmonic -0.144 0.084 0.088   14532             -9.504
+                              all pages  Perplexity cc_harmonic  0.050 0.024 0.036   14532              3.496
+
+NEW vs ESTABLISHED websites (median z)
+                            established (first cited before last 30 days)  new (first cited in last 30 days)
+cc_harmonic_z                                                       -0.07                              -0.08
+log_cc_pagerank_z                                                   -0.21                              -0.35
+log_majestic_ref_subnets_z                                          -0.22                              -0.41
+log_tranco_rank_z                                                   -0.63                              -0.63
+log_crux_rank_z                                                     -0.53                              -0.53
+
+TOP OVER / UNDER
+          group               website  total  cc_harmonic
+ over-performer            reddit.com  38010   19726156.0
+ over-performer            gfiber.com  24430   16401119.0
+ over-performer               att.com  21576   18484764.0
+ over-performer highspeedinternet.com  14773   16823380.0
+ over-performer           verizon.com  13485   18955598.0
+ over-performer              cnet.com  13619   19147794.0
+ over-performer      broadbandnow.com  11283   17101894.0
+ over-performer           xfinity.com   9024   17340010.0
+under-performer          substack.com     20   19226320.0
+under-performer                 x.com     23   20731292.0
+under-performer               nih.gov     21   19666792.0
+under-performer         wordpress.com     22   20126596.0
+under-performer    washingtonpost.com     21   19400374.0
+under-performer             twitch.tv     20   18732838.0
+under-performer             github.io     23   19805346.0
+under-performer            stripe.com     24   19541750.0
+=== gfiber is_it_real.py  (22:29)
+# "Is it real?" table
+
+Effect = R2 estimate: % more citations per +1 SD; for yes/no features (FAQ, summary box, author, structured data) % more citations when the page has it vs not. Pages are compared on the same website.
+
+## all pages
+
+| feature | effect | 1 significance (R3) | 2 repeat selection (R4) | 3 double ML (R5) | 4 shape (R6) | 5 robustness (R9) | real? |
+|---|---|---|---|---|---|---|---|
+| best paragraph matches | +15.5% | ✓ | ✓ | ✓ | ✓ | ✓ | **yes** |
+| title matches a prompt | +14.1% | ✓ | ✓ | ✓ | ✓ | ✓ | **yes** |
+| word overlap with prompts | +9.1% | ✓ | ✗ | ✓ | ✓ | ✓ | **no** |
+| first paragraph matches | +5.9% | ✓ | ✗ | ✓ | ✓ | ✓ | **no** |
+| page age | -5.1% | ✓ | ✗ | ✓ | ✓ | ✓ | **no** |
+| has summary box | +6.9% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| headings | -2.7% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| has FAQ | -3.4% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| has author | -4.6% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| has structured data | -5.3% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| outbound links | +1.4% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| word count | +0.9% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| lists | -1.0% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| tables | -1.4% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+
+## own + competitor
+
+| feature | effect | 1 significance (R3) | 2 repeat selection (R4) | 3 double ML (R5) | 4 shape (R6) | 5 robustness (R9) | real? |
+|---|---|---|---|---|---|---|---|
+| first paragraph matches | +7.8% | ✓ | ✗ | ✓ | ✓ | ✓ | **no** |
+| title matches a prompt | +7.4% | ✓ | ✗ | ✓ | ✓ | ✓ | **no** |
+| has author | -15.8% | ✓ | ✗ | ✓ | ✓ | ✓ | **no** |
+| tables | +12.5% | ✓ | ✗ | ✗ | ✓ | ✓ | **no** |
+| word overlap with prompts | +11.9% | ✓ | ✗ | ✓ | ✗ | ✓ | **no** |
+| page age | -10.6% | ✓ | ✗ | ✗ | ✓ | ✓ | **no** |
+| lists | -18.1% | ✓ | ✗ | ✗ | ✓ | ✓ | **no** |
+| best paragraph matches | +5.2% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| has summary box | +2.6% | ✗ | ✗ | ✓ | ✓ | ✗ | **no** |
+| has FAQ | -1.9% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| has structured data | -12.2% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| outbound links | +6.6% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| word count | +2.9% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| headings | -1.4% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+
+## third party
+
+| feature | effect | 1 significance (R3) | 2 repeat selection (R4) | 3 double ML (R5) | 4 shape (R6) | 5 robustness (R9) | real? |
+|---|---|---|---|---|---|---|---|
+| best paragraph matches | +25.7% | ✓ | ✓ | ✓ | ✓ | ✓ | **yes** |
+| title matches a prompt | +23.6% | ✓ | ✓ | ✓ | ✓ | ✓ | **yes** |
+| word overlap with prompts | +12.8% | ✓ | ✓ | ✓ | ✓ | ✓ | **yes** |
+| first paragraph matches | +3.1% | ✗ | ✗ | ✓ | ✓ | ✓ | **no** |
+| page age | -4.2% | ✗ | ✗ | ✓ | ✓ | ✓ | **no** |
+| has FAQ | -9.2% | ✗ | ✗ | ✓ | ✓ | ✓ | **no** |
+| has structured data | +11.7% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| has summary box | +5.1% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| has author | +3.7% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| word count | -3.0% | ✗ | ✗ | ✓ | ✗ | ✓ | **no** |
+| headings | +1.9% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| lists | +0.5% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| tables | -4.0% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| outbound links | +0.5% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+
+## Appendix: features that did not pass
+
+- **all pages**: word overlap with prompts (failed: repeat selection (R4)); first paragraph matches (failed: repeat selection (R4)); word count (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); outbound links (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); headings (failed: significance (R3), repeat selection (R4), double ML (R5)); tables (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); lists (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); has FAQ (failed: significance (R3), repeat selection (R4), double ML (R5)); has summary box (failed: significance (R3), repeat selection (R4), double ML (R5)); has author (failed: significance (R3), repeat selection (R4), double ML (R5)); has structured data (failed: significance (R3), repeat selection (R4), double ML (R5)); page age (failed: repeat selection (R4))
+- **own + competitor**: word overlap with prompts (failed: repeat selection (R4), shape (R6)); title matches a prompt (failed: repeat selection (R4)); first paragraph matches (failed: repeat selection (R4)); best paragraph matches (failed: significance (R3), repeat selection (R4), double ML (R5)); word count (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); outbound links (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); headings (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); tables (failed: repeat selection (R4), double ML (R5)); lists (failed: repeat selection (R4), double ML (R5)); has FAQ (failed: significance (R3), repeat selection (R4), double ML (R5)); has summary box (failed: significance (R3), repeat selection (R4), robustness (R9)); has author (failed: repeat selection (R4)); has structured data (failed: significance (R3), repeat selection (R4), double ML (R5)); page age (failed: repeat selection (R4), double ML (R5))
+- **third party**: first paragraph matches (failed: significance (R3), repeat selection (R4)); word count (failed: significance (R3), repeat selection (R4), shape (R6)); outbound links (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); headings (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); tables (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); lists (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); has FAQ (failed: significance (R3), repeat selection (R4)); has summary box (failed: significance (R3), repeat selection (R4), double ML (R5)); has author (failed: significance (R3), repeat selection (R4), double ML (R5)); has structured data (failed: significance (R3), repeat selection (R4), double ML (R5)); page age (failed: significance (R3), repeat selection (R4))
+=== gfiber e01_engines_breadth_depth.py  (22:29)
+{'engine': 'ChatGPT', 'outcome': 'total', 'n_urls': 6180, 'n_websites': 363, 'variance': np.float64(2.0062482727947053), 'within_share': 0.8873048261211152, 'explained_within': 0.006851443667699519, 'reliability_within': np.float64(0.8446985143460256), 'stable_unexplained': np.float64(0.7434257493643178)}
+{'engine': 'ChatGPT', 'outcome': 'breadth', 'n_urls': 6180, 'n_websites': 363, 'variance': np.float64(0.8283860327899916), 'within_share': 0.8391489675306587, 'explained_within': 0.03933702745262757, 'reliability_within': np.float64(0.7573339582733434), 'stable_unexplained': np.float64(0.6025063831883855)}
+{'engine': 'ChatGPT', 'outcome': 'depth', 'n_urls': 6180, 'n_websites': 363, 'variance': np.float64(0.8805098069022814), 'within_share': 0.9181223040080445, 'explained_within': 0.018244027221005377, 'reliability_within': np.float64(0.8875597471493857), 'stable_unexplained': np.float64(0.7981381516910565)}
+{'engine': 'Gemini', 'outcome': 'total', 'n_urls': 6872, 'n_websites': 870, 'variance': np.float64(2.8155123026700872), 'within_share': 0.9141326622441561, 'explained_within': 0.10708770623475883, 'reliability_within': np.float64(0.9128596472325016), 'stable_unexplained': np.float64(0.7365824495859077)}
+{'engine': 'Gemini', 'outcome': 'breadth', 'n_urls': 6872, 'n_websites': 870, 'variance': np.float64(1.0295424146382997), 'within_share': 0.90446267522984, 'explained_within': 0.11735903683868465, 'reliability_within': np.float64(0.8877352767926636), 'stable_unexplained': np.float64(0.696776554922281)}
+{'engine': 'Gemini', 'outcome': 'depth', 'n_urls': 6872, 'n_websites': 870, 'variance': np.float64(1.1829131373598496), 'within_share': 0.9394098050099084, 'explained_within': 0.010486523445827234, 'reliability_within': np.float64(0.8921769487973815), 'stable_unexplained': np.float64(0.8282686305586069)}
+{'engine': 'Perplexity', 'outcome': 'total', 'n_urls': 1417, 'n_websites': 195, 'variance': np.float64(1.6370838248929882), 'within_share': 0.8969291244834245, 'explained_within': 0.059516106958610315, 'reliability_within': np.float64(0.8450827433302143), 'stable_unexplained': np.float64(0.7045975953841714)}
+{'engine': 'Perplexity', 'outcome': 'breadth', 'n_urls': 1417, 'n_websites': 195, 'variance': np.float64(0.4847354546584777), 'within_share': 0.8319529943323111, 'explained_within': 0.04740586526042878, 'reliability_within': np.float64(0.7283855392794578), 'stable_unexplained': np.float64(0.5665430788795723)}
+{'engine': 'Perplexity', 'outcome': 'depth', 'n_urls': 1417, 'n_websites': 195, 'variance': np.float64(0.7860740229292746), 'within_share': 0.8816877101655174, 'explained_within': 0.0353066402246196, 'reliability_within': np.float64(0.8759336997536252), 'stable_unexplained': np.float64(0.7411705472193011)}
+{'engine': 'All engines', 'outcome': 'total', 'n_urls': 12038, 'n_websites': 1120, 'variance': np.float64(2.5033591679418508), 'within_share': 0.871399485034959, 'explained_within': 0.04327831104289648, 'reliability_within': np.float64(0.8921026653257976), 'stable_unexplained': np.float64(0.7396651052072517)}
+{'engine': 'All engines', 'outcome': 'breadth', 'n_urls': 12038, 'n_websites': 1120, 'variance': np.float64(0.9783581767421665), 'within_share': 0.885396722339945, 'explained_within': 0.09775525783020178, 'reliability_within': np.float64(0.8485557253815799), 'stable_unexplained': np.float64(0.6647562731012884)}
+{'engine': 'All engines', 'outcome': 'depth', 'n_urls': 12038, 'n_websites': 1120, 'variance': np.float64(1.1018418136673682), 'within_share': 0.7951024796945168, 'explained_within': -0.01788706102724036, 'reliability_within': np.float64(0.8929808124170168), 'stable_unexplained': np.float64(0.7242333048496001)}
+     engine outcome  n_urls  n_websites  variance  within_share  explained_within  reliability_within  stable_unexplained
+    ChatGPT   total    6180         363     2.006         0.887             0.007               0.845               0.743
+    ChatGPT breadth    6180         363     0.828         0.839             0.039               0.757               0.603
+    ChatGPT   depth    6180         363     0.881         0.918             0.018               0.888               0.798
+     Gemini   total    6872         870     2.816         0.914             0.107               0.913               0.737
+     Gemini breadth    6872         870     1.030         0.904             0.117               0.888               0.697
+     Gemini   depth    6872         870     1.183         0.939             0.010               0.892               0.828
+ Perplexity   total    1417         195     1.637         0.897             0.060               0.845               0.705
+ Perplexity breadth    1417         195     0.485         0.832             0.047               0.728               0.567
+ Perplexity   depth    1417         195     0.786         0.882             0.035               0.876               0.741
+All engines   total   12038        1120     2.503         0.871             0.043               0.892               0.740
+All engines breadth   12038        1120     0.978         0.885             0.098               0.849               0.665
+All engines   depth   12038        1120     1.102         0.795            -0.018               0.893               0.724
+=== gfiber e02_choice.py  (22:30)
+OPENAI: 204638 rows, 5302 answers, 0.053 cited
+{'engine': 'ChatGPT', 'model': 'match', 'answers': 5302, 'rows': 204638, 'candidates_per_answer': 38.59637872500943, 'mcfadden_r2': np.float64(0.005855556014210506)}
+{'engine': 'ChatGPT', 'model': '+ page pull', 'answers': 5302, 'rows': 204638, 'candidates_per_answer': 38.59637872500943, 'mcfadden_r2': np.float64(0.05542104124577141)}
+{'engine': 'ChatGPT', 'model': '+ pair history', 'answers': 5302, 'rows': 204638, 'candidates_per_answer': 38.59637872500943, 'mcfadden_r2': np.float64(0.19172686441982545)}
+{'engine': 'ChatGPT', 'model': '+ yesterday', 'answers': 5302, 'rows': 204638, 'candidates_per_answer': 38.59637872500943, 'mcfadden_r2': np.float64(0.21205457551282447)}
+GEMINI: 163067 rows, 4572 answers, 0.179 cited
+{'engine': 'Gemini', 'model': 'match', 'answers': 4572, 'rows': 163067, 'candidates_per_answer': 35.666447944007, 'mcfadden_r2': np.float64(0.027670287023975226)}
+{'engine': 'Gemini', 'model': '+ page pull', 'answers': 4572, 'rows': 163067, 'candidates_per_answer': 35.666447944007, 'mcfadden_r2': np.float64(0.05844463698702851)}
+{'engine': 'Gemini', 'model': '+ pair history', 'answers': 4572, 'rows': 163067, 'candidates_per_answer': 35.666447944007, 'mcfadden_r2': np.float64(0.2561311767640406)}
+{'engine': 'Gemini', 'model': '+ yesterday', 'answers': 4572, 'rows': 163067, 'candidates_per_answer': 35.666447944007, 'mcfadden_r2': np.float64(0.2756308323659904)}
+PERPLEXITY: 4490 rows, 218 answers, 0.249 cited
+{'engine': 'Perplexity', 'model': 'match', 'answers': 218, 'rows': 4490, 'candidates_per_answer': 20.59633027522936, 'mcfadden_r2': np.float64(0.029631641672007047)}
+{'engine': 'Perplexity', 'model': '+ page pull', 'answers': 218, 'rows': 4490, 'candidates_per_answer': 20.59633027522936, 'mcfadden_r2': np.float64(0.042867254561933854)}
+{'engine': 'Perplexity', 'model': '+ pair history', 'answers': 218, 'rows': 4490, 'candidates_per_answer': 20.59633027522936, 'mcfadden_r2': np.float64(0.08775225151285204)}
+{'engine': 'Perplexity', 'model': '+ yesterday', 'answers': 218, 'rows': 4490, 'candidates_per_answer': 20.59633027522936, 'mcfadden_r2': np.float64(0.15437833201926066)}
+    engine          model  answers   rows  candidates_per_answer  mcfadden_r2
+   ChatGPT          match     5302 204638                 38.596        0.006
+   ChatGPT    + page pull     5302 204638                 38.596        0.055
+   ChatGPT + pair history     5302 204638                 38.596        0.192
+   ChatGPT    + yesterday     5302 204638                 38.596        0.212
+    Gemini          match     4572 163067                 35.666        0.028
+    Gemini    + page pull     4572 163067                 35.666        0.058
+    Gemini + pair history     4572 163067                 35.666        0.256
+    Gemini    + yesterday     4572 163067                 35.666        0.276
+Perplexity          match      218   4490                 20.596        0.030
+Perplexity    + page pull      218   4490                 20.596        0.043
+Perplexity + pair history      218   4490                 20.596        0.088
+Perplexity    + yesterday      218   4490                 20.596        0.154
+    engine     variable  coef    se     p  odds_ratio_per_sd
+   ChatGPT     emb_best 0.062 0.016 0.000              1.064
+   ChatGPT    emb_title 0.002 0.013 0.902              1.002
+   ChatGPT         bm25 0.062 0.014 0.000              1.064
+   ChatGPT    page_pull 0.165 0.011 0.000              1.179
+   ChatGPT pair_history 0.574 0.007 0.000              1.775
+   ChatGPT    yesterday 0.269 0.007 0.000              1.309
+    Gemini     emb_best 0.064 0.012 0.000              1.066
+    Gemini    emb_title 0.040 0.010 0.000              1.041
+    Gemini         bm25 0.057 0.010 0.000              1.059
+    Gemini    page_pull 0.128 0.008 0.000              1.136
+    Gemini pair_history 0.958 0.008 0.000              2.608
+    Gemini    yesterday 0.468 0.009 0.000              1.598
+Perplexity     emb_best 0.198 0.054 0.000              1.219
+Perplexity    emb_title 0.019 0.048 0.695              1.019
+Perplexity         bm25 0.159 0.045 0.000              1.173
+Perplexity    page_pull 0.187 0.040 0.000              1.206
+Perplexity pair_history 0.425 0.038 0.000              1.530
+Perplexity    yesterday 0.775 0.049 0.000              2.170
+=== gfiber e03_entity_coverage.py  (22:42)
+outcome                            model  n_urls  within_share  explained_within  reliability_within
+  total                   page variables   12038         0.871             0.043               0.892
+  total page variables + entity coverage   12038         0.871             0.056               0.892
+breadth                   page variables   12038         0.885             0.098               0.849
+breadth page variables + entity coverage   12038         0.885             0.122               0.849
+  depth                   page variables   12038         0.795            -0.018               0.893
+  depth page variables + entity coverage   12038         0.795            -0.015               0.893
+outcome        feature   coef    se     p  pct_change_per_sd
+  total       n_brands  0.162 0.023 0.000             11.853
+  total  n_speed_tiers -0.063 0.022 0.004             -4.303
+  total       n_prices  0.004 0.022 0.852              0.288
+  total       n_places -0.014 0.017 0.419             -0.974
+  total n_prompt_terms -0.308 0.045 0.000            -19.207
+breadth       n_brands  0.142 0.014 0.000             10.314
+breadth  n_speed_tiers  0.018 0.013 0.177              1.268
+breadth       n_prices -0.031 0.014 0.026             -2.106
+breadth       n_places -0.019 0.011 0.080             -1.324
+breadth n_prompt_terms -0.260 0.028 0.000            -16.469
+  depth       n_brands  0.020 0.015 0.179              1.395
+  depth  n_speed_tiers -0.082 0.014 0.000             -5.501
+  depth       n_prices  0.035 0.014 0.014              2.446
+  depth       n_places  0.005 0.011 0.650              0.354
+  depth n_prompt_terms -0.048 0.031 0.118             -3.278
+=== gfiber x02_prompt_match.py  (22:44)
+  embedded 200/12038 pages
+  embedded 2200/12038 pages
+  embedded 4200/12038 pages
+  embedded 6200/12038 pages
+  embedded 8200/12038 pages
+  embedded 10200/12038 pages
+  embedded 12038/12038 pages
+    engine     score  pages  mean_auc  median_auc  share_pages_auc_above_0_5
+       all  emb_best  11982     0.878       0.937                      0.963
+       all emb_title  11974     0.869       0.939                      0.946
+       all      bm25  12038     0.849       0.923                      0.928
+   ChatGPT  emb_best   6299     0.873       0.931                      0.963
+   ChatGPT emb_title   6297     0.853       0.920                      0.935
+   ChatGPT      bm25   6309     0.838       0.913                      0.921
+    Gemini  emb_best   6922     0.880       0.946                      0.956
+    Gemini emb_title   6916     0.881       0.959                      0.948
+    Gemini      bm25   6969     0.862       0.938                      0.934
+Perplexity  emb_best   1569     0.894       0.964                      0.961
+Perplexity emb_title   1569     0.896       0.977                      0.949
+Perplexity      bm25   1570     0.850       0.942                      0.917
+              term  odds_ratio_per_sd  ci_low  ci_high   p  n_pairs  n_pages
+          emb_best             1.4154  1.3793   1.4525 0.0   410152    12038
+         emb_title             1.4393  1.4057   1.4736 0.0   410152    12038
+              bm25             1.6752  1.6574   1.6931 0.0   410152    12038
+log_prompt_sources             1.1365  1.1151   1.1583 0.0   410152    12038
+                                                            model  r2_within  breadth_strong_pct_per_sd  breadth_strong_p  top10_mean_sim_pct_per_sd  top10_mean_sim_p
+                             R2 features (Step-A6 match features)     0.0488                        NaN               NaN                        NaN               NaN
+                                     R2 features + breadth_strong     0.0587                    17.1663               0.0                        NaN               NaN
+                                     R2 features + top10_mean_sim     0.0494                        NaN               NaN                     8.7049            0.0209
+                    R2 features + breadth_strong + top10_mean_sim     0.0588                    17.9927               0.0                    -4.3911            0.1934
+mixed model, within-website variance explained (Step-A6 features)     0.0338                        NaN               NaN                        NaN               NaN
+       mixed model, within-website variance explained (+ breadth)     0.0435                        NaN               NaN                        NaN               NaN
+=== gfiber x09_page_authority.py  (23:08)
+##### gfiber
+          sample  measure                         design  coef    se   p    pct  n_urls  title_pct  best_para_pct       unit
+       all pages pa_links                 within website 0.296 0.023 0.0 22.746   12038     14.745         17.401     per SD
+       all pages pa_links pooled (no website indicators) 0.265 0.028 0.0 20.163   12038        NaN            NaN     per SD
+       all pages  pa_rank                 within website 0.216 0.022 0.0 16.112   12038     14.169         17.167     per SD
+       all pages  pa_rank pooled (no website indicators) 0.219 0.026 0.0 16.415   12038        NaN            NaN     per SD
+       all pages   pa_any                 within website 0.479 0.039 0.0 39.373   12038     15.377         16.809 has vs not
+       all pages   pa_any pooled (no website indicators) 0.527 0.060 0.0 44.056   12038        NaN            NaN has vs not
+own + competitor pa_links                 within website 0.394 0.038 0.0 31.370    4794      7.490          6.814     per SD
+own + competitor pa_links pooled (no website indicators) 0.378 0.059 0.0 29.978    4794        NaN            NaN     per SD
+own + competitor  pa_rank                 within website 0.248 0.034 0.0 18.739    4794      7.193          6.577     per SD
+own + competitor  pa_rank pooled (no website indicators) 0.259 0.058 0.0 19.659    4794        NaN            NaN     per SD
+own + competitor   pa_any                 within website 0.725 0.060 0.0 65.239    4794      9.347          5.503 has vs not
+own + competitor   pa_any pooled (no website indicators) 0.718 0.079 0.0 64.454    4794        NaN            NaN has vs not
+     third party pa_links                 within website 0.224 0.027 0.0 16.782    7185     24.209         26.944     per SD
+     third party pa_links pooled (no website indicators) 0.226 0.031 0.0 16.982    7185        NaN            NaN     per SD
+     third party  pa_rank                 within website 0.184 0.026 0.0 13.619    7185     23.748         26.807     per SD
+     third party  pa_rank pooled (no website indicators) 0.203 0.032 0.0 15.071    7185        NaN            NaN     per SD
+     third party   pa_any                 within website 0.260 0.049 0.0 19.708    7185     24.206         26.420 has vs not
+     third party   pa_any pooled (no website indicators) 0.394 0.070 0.0 31.359    7185        NaN            NaN has vs not
+                          model  within_share  explained_within  n_urls
+                 page variables        0.8714            0.0433   12038
+page variables + page authority        0.8714            0.0630   12038
+    engine  coef     p    pct
+   ChatGPT 0.053 0.007  3.707
+    Gemini 0.420 0.000 33.761
+Perplexity 0.094 0.000  6.712
+pages with page authority data: 100 %; with >= 1 referring domain: 40 %
+                                      0                            1                              2                            3
+model            retrieval: X6 features  retrieval: + page authority  selection: rank + X6 features  selection: + page authority
+fit                              0.2967                       0.3056                         0.3246                       0.3256
+coef_pa_links_z                     NaN                      -0.1014                            NaN                          NaN
+coef_pa_rank_z                      NaN                       0.1109                            NaN                          NaN
+coef_pa_any                         NaN                       0.2695                            NaN                          NaN
+p_pa_links_z                        NaN                          0.0                            NaN                       0.5514
+p_pa_rank_z                         NaN                          0.0                            NaN                       0.0016
+p_pa_any                            NaN                          0.0                            NaN                       0.0002
+or_pa_links_z                       NaN                          NaN                            NaN                       0.9874
+or_pa_rank_z                        NaN                          NaN                            NaN                       1.0488
+or_pa_any                           NaN                          NaN                            NaN                       1.1426
+=== gfiber x11_brand_mentions.py  (23:14)
+gfiber: 1,202,494 answer x brand rows (brand not named in the question); agreement with pfetch mentions: 95.7 %
+    engine  mentions  pct_of_brand_answer_pairs_mentioned  pct_own_page_cited  pct_third_party_page_naming_it  pct_no_cited_page_naming_it  pct_no_cited_page_and_all_pages_known  pct_unsupported_in_prior  pct_mentions_in_prior
+    Gemini     35474                                 16.2                42.9                            38.9                         18.1                                   14.9                      83.5                   76.4
+   ChatGPT     70012                                 14.2                39.4                            15.0                         45.7                                   35.4                      81.3                   84.2
+Perplexity     81554                                 16.6                 0.7                             4.3                         95.0                                   94.2                       NaN                    NaN
+    engine                          support in_prior   rows  pct_mentioned
+    Gemini                   own page cited     True  10658           97.2
+    Gemini                   own page cited    False   5060           96.1
+    Gemini third-party page naming it cited     True  28073           40.5
+    Gemini third-party page naming it cited    False  53705            4.6
+    Gemini          no cited page naming it     True  20590           26.1
+    Gemini          no cited page naming it    False 100888            1.1
+   ChatGPT                   own page cited     True  24076           99.9
+   ChatGPT                   own page cited    False   4321           81.2
+   ChatGPT third-party page naming it cited     True  17480           51.1
+   ChatGPT third-party page naming it cited    False  13108           11.8
+   ChatGPT          no cited page naming it     True 130614           19.9
+   ChatGPT          no cited page naming it    False 302161            2.0
+Perplexity                   own page cited     None    635           95.6
+Perplexity third-party page naming it cited     None  10561           33.2
+Perplexity          no cited page naming it     None 480564           16.1
+    engine     variable  odds_ratio     p   rows
+    Gemini    own_cited    1030.447 0.000 218974
+    Gemini third_naming       6.306 0.000 218974
+    Gemini    log_cited       0.626 0.000 218974
+    Gemini        prior       9.694 0.000 218974
+   ChatGPT    own_cited     340.793 0.000 491760
+   ChatGPT third_naming       4.183 0.000 491760
+   ChatGPT    log_cited       1.044 0.426 491760
+   ChatGPT        prior       5.810 0.000 491760
+Perplexity    own_cited     329.678 0.000 491760
+Perplexity third_naming       5.194 0.000 491760
+Perplexity    log_cited       0.766 0.000 491760
+=== workorb fetch_pages.py --round 2026-09-27 --min-citations 1  (23:15)
+0 URLs to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\workorb\pages\2026-09-27
+done {}
+=== workorb features.py --round 2026-09-27  (23:15)
+round 2026-09-27: parsing 7117 pages
+  parsed 1000/7117
+  parsed 2000/7117
+  parsed 3000/7117
+  parsed 4000/7117
+  parsed 5000/7117
+  parsed 6000/7117
+  parsed 7000/7117
+parsed 7117, failed 0
+  embedded 200/7117 pages
+  embedded 400/7117 pages
+  embedded 600/7117 pages
+  embedded 800/7117 pages
+  embedded 1000/7117 pages
+  embedded 1200/7117 pages
+  embedded 1400/7117 pages
+  embedded 1600/7117 pages
+  embedded 1800/7117 pages
+  embedded 2000/7117 pages
+  embedded 2200/7117 pages
+  embedded 2400/7117 pages
+  embedded 2600/7117 pages
+  embedded 2800/7117 pages
+  embedded 3000/7117 pages
+  embedded 3200/7117 pages
+  embedded 3400/7117 pages
+  embedded 3600/7117 pages
+  embedded 3800/7117 pages
+  embedded 4000/7117 pages
+  embedded 4200/7117 pages
+  embedded 4400/7117 pages
+  embedded 4600/7117 pages
+  embedded 4800/7117 pages
+  embedded 5000/7117 pages
+  embedded 5200/7117 pages
+  embedded 5400/7117 pages
+  embedded 5600/7117 pages
+  embedded 5800/7117 pages
+  embedded 6000/7117 pages
+  embedded 6200/7117 pages
+  embedded 6400/7117 pages
+  embedded 6600/7117 pages
+  embedded 6800/7117 pages
+  embedded 7000/7117 pages
+  embedded 7117/7117 pages
+wrote 7117 rows -> data/tables/page_features.csv
+page_type
+article            2636
+list               1449
+other              1379
+how-to              780
+comparison          331
+support/help        260
+review list         108
+product/service     100
+pricing/plans        61
+forum                13
+=== workorb build_url_table.py  (23:50)
+citation rows: 165,221 total, 0 in excluded days, 1,472 unresolved redirects dropped, 71,190 used (once per answer)
+page features joined for 7,117 / 9,258 URLs
+authority joined for 9,258 URLs
+url_table_all: 9,258 URLs on 3,886 websites
+url_table (>= 2 citations): 4,916 URLs on 2,235 websites
+             size    sum
+role                    
+competitor   1272  30840
+own            37   1493
+third_party  3607  34515
+=== workorb r01_describe.py  (23:50)
+
+ALL ANSWERS
+engine                     OPENAI    GEMINI  PERPLEXITY       All
+answers                   4950.00   4950.00     4950.00  14850.00
+citations                10416.00  60514.00      919.00  71849.00
+listed_per_answer            3.07     29.71        0.60     11.13
+unique_per_answer            2.10     12.23        0.19      4.84
+pct_answers_no_citation     64.61     17.58       97.47     59.89
+distinct_urls             2960.00   6470.00      326.00   9258.00
+distinct_websites         1226.00   3001.00      197.00   3895.00
+top10_website_share         28.74     22.63       31.66     22.03
+websites_for_80pct         211.00    376.00       77.00    448.00
+pct_reddit                   0.11      0.70        4.90      0.67
+pct_youtube                  0.01      4.12        2.83      3.51
+pct_linkedin                 0.08      0.00        0.76      0.02
+pct_own                      5.12      1.59        0.00      2.08
+pct_competitor              46.21     43.72       44.72     44.10
+pct_third_party             48.68     54.69       55.28     53.82
+
+PROMPT-DAYS ANSWERED BY ALL 3
+engine                     OPENAI    GEMINI  PERPLEXITY       All
+answers                   4950.00   4950.00     4950.00  14850.00
+citations                10416.00  60514.00      919.00  71849.00
+listed_per_answer            3.07     29.71        0.60     11.13
+unique_per_answer            2.10     12.23        0.19      4.84
+pct_answers_no_citation     64.61     17.58       97.47     59.89
+distinct_urls             2960.00   6470.00      326.00   9258.00
+distinct_websites         1226.00   3001.00      197.00   3895.00
+top10_website_share         28.74     22.63       31.66     22.03
+websites_for_80pct         211.00    376.00       77.00    448.00
+pct_reddit                   0.11      0.70        4.90      0.67
+pct_youtube                  0.01      4.12        2.83      3.51
+pct_linkedin                 0.08      0.00        0.76      0.02
+pct_own                      5.12      1.59        0.00      2.08
+pct_competitor              46.21     43.72       44.72     44.10
+pct_third_party             48.68     54.69       55.28     53.82
+
+top 10 websites overall:
+      website  citations  share_pct        role
+ flowcase.com       3246       4.52  competitor
+  youtube.com       2523       3.51 third_party
+   unanet.com       1724       2.40  competitor
+  workorb.com       1495       2.08         own
+openasset.com       1374       1.91  competitor
+responsive.io       1261       1.76  competitor
+   loopio.com       1169       1.63  competitor
+autogenai.com       1106       1.54  competitor
+   sifthub.io       1081       1.50  competitor
+ inventive.ai        847       1.18  competitor
+=== workorb r02_main_model.py  (23:50)
+          sample  n_urls  n_websites  n_params  r2_within                  dropped_terms
+       all pages    2477         515        26   0.109416                               
+own + competitor    1079         137        24   0.134399 title_match_missing;type_forum
+     third party    1398         378        26   0.099037                               
+
+% more citations per +1 SD; yes/no features: has vs not (* p<0.05):
+sample               all pages own + competitor third party
+term                                                       
+best_paragraph_match     12.9*             11.9       14.5*
+has_author                 2.0              4.2        -0.4
+has_faq                   -1.9              3.2        -5.8
+has_schema                16.2              1.1        28.0
+has_summary_box            8.0              3.0        16.4
+intro_match                0.1             -2.1         1.0
+n_headings                7.7*              8.9        5.9*
+n_lists                   -4.8             -2.8        -5.1
+n_tables                  -2.5             -4.4        -1.9
+outbound_links             3.2              1.2         4.9
+page_age_days             -2.8             -4.0         0.4
+prompt_match_words       13.0*            14.5*        10.5
+title_match              26.4*            33.6*       17.7*
+word_count                 2.2              1.5        -0.3
+
+page types vs article (% difference, all pages):
+                term  pct_change_per_sd     p
+     type_comparison              6.778 0.578
+          type_forum            148.811 0.001
+         type_how-to              1.399 0.877
+           type_list             47.646 0.000
+          type_other              9.592 0.287
+  type_pricing/plans             13.141 0.603
+type_product/service             -5.991 0.695
+    type_review list            149.604 0.000
+   type_support/help             26.351 0.433
+=== workorb r03_fdr.py  (23:50)
+sample                                 all pages             own + competitor                  third party
+term                                                                                                      
+best_paragraph_match      12.9%  q=0.0127  found   11.9%  q=0.3557  not found  14.5%  q=0.0617  borderline
+has_author             2.0%  q=0.8858  not found    4.2%  q=0.8855  not found   -0.4%  q=0.9765  not found
+has_faq               -1.9%  q=0.8858  not found    3.2%  q=0.8855  not found   -5.8%  q=0.7354  not found
+has_schema            16.2%  q=0.5128  not found    1.1%  q=0.9593  not found   28.0%  q=0.3131  not found
+has_summary_box        8.0%  q=0.5128  not found    3.0%  q=0.8855  not found   16.4%  q=0.3131  not found
+intro_match            0.1%  q=0.9875  not found   -2.1%  q=0.8855  not found    1.0%  q=0.9765  not found
+n_headings                 7.7%  q=0.0006  found    8.9%  q=0.8855  not found        5.9%  q=0.0153  found
+n_lists               -4.8%  q=0.5128  not found   -2.8%  q=0.8855  not found   -5.1%  q=0.3131  not found
+n_tables              -2.5%  q=0.6534  not found   -4.4%  q=0.8855  not found   -1.9%  q=0.8449  not found
+outbound_links         3.2%  q=0.5128  not found    1.2%  q=0.8855  not found    4.9%  q=0.3131  not found
+page_age_days         -2.8%  q=0.6534  not found   -4.0%  q=0.8855  not found    0.4%  q=0.9765  not found
+prompt_match_words        13.0%  q=0.0094  found  14.5%  q=0.1335  borderline   10.5%  q=0.2202  not found
+title_match                  26.4%  q=0.0  found          33.6%  q=0.0  found       17.7%  q=0.0015  found
+word_count             2.2%  q=0.6534  not found    1.5%  q=0.8855  not found   -0.3%  q=0.9765  not found
+=== workorb r04_stability_selection.py  (23:50)
+all pages ...
+    50/200
+    100/200
+    150/200
+    200/200
+own + competitor ...
+    50/200
+    100/200
+    150/200
+    200/200
+third party ...
+    50/200
+    100/200
+    150/200
+    200/200
+selection rate % (min-error -> 1-SE):
+sample                 all pages own + competitor third party
+term                                                         
+best_paragraph_match  100 -> 100         98 -> 93   100 -> 96
+has_author               50 -> 0          34 -> 0     62 -> 2
+has_faq                  62 -> 4         58 -> 12     70 -> 2
+has_schema               75 -> 2          49 -> 2     84 -> 4
+has_summary_box          82 -> 6          48 -> 0    93 -> 20
+intro_match              61 -> 4          46 -> 2     71 -> 8
+n_headings              98 -> 48         91 -> 49    87 -> 22
+n_lists                  70 -> 0          50 -> 8     83 -> 2
+n_tables                 57 -> 0          46 -> 3     56 -> 0
+outbound_links           81 -> 6          42 -> 1    86 -> 15
+page_age_days            75 -> 6          70 -> 8     60 -> 1
+prompt_match_words      99 -> 46         98 -> 38    96 -> 48
+title_match           100 -> 100       100 -> 100   100 -> 96
+word_count               54 -> 2          36 -> 2     60 -> 1
+=== workorb r05_double_ml.py  (23:51)
+all pages ...
+    prompt_match_words: +0.173 (0.054)
+    title_match: +0.342 (0.043)
+    intro_match: -0.025 (0.044)
+    best_paragraph_match: +0.214 (0.056)
+    word_count: +0.079 (0.038)
+    outbound_links: +0.009 (0.048)
+    n_headings: +0.114 (0.025)
+    n_tables: -0.135 (0.058)
+    n_lists: -0.095 (0.057)
+    has_faq: -0.097 (0.047)
+    has_summary_box: +0.025 (0.040)
+    has_author: -0.017 (0.059)
+    has_schema: +0.084 (0.075)
+    page_age_days: -0.080 (0.050)
+own + competitor ...
+    prompt_match_words: +0.108 (0.085)
+    title_match: +0.413 (0.063)
+    intro_match: -0.089 (0.068)
+    best_paragraph_match: +0.297 (0.090)
+    word_count: +0.055 (0.047)
+    outbound_links: -0.011 (0.095)
+    n_headings: +0.134 (0.066)
+    n_tables: -0.271 (0.180)
+    n_lists: -0.082 (0.139)
+    has_faq: -0.143 (0.080)
+    has_summary_box: -0.051 (0.056)
+    has_author: +0.066 (0.089)
+    has_schema: -0.068 (0.123)
+    page_age_days: -0.061 (0.091)
+third party ...
+    prompt_match_words: +0.140 (0.070)
+    title_match: +0.189 (0.053)
+    intro_match: -0.023 (0.050)
+    best_paragraph_match: +0.192 (0.067)
+    word_count: -0.000 (0.067)
+    outbound_links: +0.048 (0.054)
+    n_headings: +0.077 (0.025)
+    n_tables: -0.047 (0.049)
+    n_lists: -0.053 (0.053)
+    has_faq: -0.035 (0.058)
+    has_summary_box: +0.092 (0.053)
+    has_author: -0.024 (0.078)
+    has_schema: +0.114 (0.092)
+    page_age_days: +0.004 (0.054)
+sample               all pages own + competitor third party
+term                                                       
+best_paragraph_match     16.0*            22.8*       14.2*
+has_author                -1.2              4.7        -1.7
+has_faq                  -6.5*             -9.5        -2.4
+has_schema                 6.0             -4.6         8.2
+has_summary_box            1.8             -3.5         6.6
+intro_match               -1.7             -6.0        -1.6
+n_headings                8.2*             9.7*        5.5*
+n_lists                   -6.4             -5.6        -3.6
+n_tables                 -8.9*            -17.1        -3.2
+outbound_links             0.6             -0.8         3.4
+page_age_days             -5.4             -4.2         0.2
+prompt_match_words       12.7*              7.8       10.2*
+title_match              26.8*            33.1*       14.0*
+word_count                5.7*              3.9        -0.0
+=== workorb r06_shape.py  (23:52)
+sample                   all pages own + competitor   third party
+term                                                             
+best_paragraph_match     always up             flat     always up
+has_author            binary (n/a)     binary (n/a)  binary (n/a)
+has_faq               binary (n/a)     binary (n/a)  binary (n/a)
+has_schema            binary (n/a)     binary (n/a)  binary (n/a)
+has_summary_box       binary (n/a)     binary (n/a)  binary (n/a)
+intro_match                   flat             flat          flat
+n_headings               always up             flat     always up
+n_lists                       flat             flat          flat
+n_tables                      flat             flat          flat
+outbound_links                flat             flat     always up
+page_age_days                 flat             flat          flat
+prompt_match_words       always up        always up     always up
+title_match              always up        always up     always up
+word_count                    flat             flat          flat
+=== workorb r07_importance.py  (23:52)
+A: page + website score: CV R2 = 0.085; top: title_match 0.242, website_score 0.156, page_type 0.139, best_paragraph_match 0.126, prompt_match_words 0.119, n_headings 0.087
+B: page + outside authority: CV R2 = 0.084; top: title_match 0.242, prompt_match_words 0.143, best_paragraph_match 0.131, page_type 0.129, n_headings 0.087, page_age_days 0.082
+C: page + website score + authority: CV R2 = 0.091; top: title_match 0.233, website_score 0.153, page_type 0.132, prompt_match_words 0.119, best_paragraph_match 0.114, n_headings 0.084
+                            version  cv_r2 strongest_non_page strongest_page_feature  ratio_non_page_to_page
+            A: page + website score  0.085      website_score            title_match                   0.645
+        B: page + outside authority  0.084    log_cc_pagerank            title_match                   0.309
+C: page + website score + authority  0.091      website_score            title_match                   0.658
+=== workorb r08_simpson.py  (23:52)
+speed score from ['lcp', 'inp', 'cls']: 22 URLs with their own (page-level) data
+speed not testable: fewer than 100 pages with page-level Chrome UX data
+estimate                                               pooled, alone pooled, full model within website
+sample      tip             verdict                                                                   
+all pages   has_author      disappears within websites          7.7*                1.4            0.9
+            has_faq         disappears within websites         10.6*               -0.5           -0.9
+            has_schema      no effect either way                 0.8               -2.0            6.2
+            has_summary_box disappears within websites          8.6*                3.2            3.2
+third party has_author      disappears within websites          5.9*               -0.4           -0.2
+            has_faq         disappears within websites          4.9*               -1.6           -2.9
+            has_schema      no effect either way                 3.6               -0.6           10.3
+            has_summary_box disappears within websites          7.0*                4.0            6.4
+=== workorb r09_robustness.py  (23:52)
+time split: train 20260624..20260830 (excl.), hold-out 20260830..20260921
+          sample  n_urls  r2_holdout  spearman_holdout  r2_website_only
+       all pages    2477       0.135             0.353            0.080
+own + competitor    1079       0.093             0.321            0.013
+     third party    1398       0.123             0.306            0.089
+sample                all pages  own + competitor  third party
+term                                                          
+best_paragraph_match          5                 5            5
+has_author                    3                 3            3
+has_faq                       3                 3            3
+has_schema                    5                 3            5
+has_summary_box               3                 3            5
+intro_match                   2                 3            3
+n_headings                    5                 5            5
+n_lists                       4                 2            4
+n_tables                      3                 2            2
+outbound_links                5                 5            5
+page_age_days                 4                 4            3
+prompt_match_words            5                 5            5
+title_match                   5                 5            5
+word_count                    3                 2            3
+
+leave-one-website-out (all pages, same sign of 8):
+term
+best_paragraph_match    8.0
+has_author              6.0
+has_faq                 8.0
+has_schema              8.0
+has_summary_box         8.0
+intro_match             3.0
+n_headings              8.0
+n_lists                 8.0
+n_tables                8.0
+outbound_links          8.0
+page_age_days           8.0
+prompt_match_words      8.0
+title_match             8.0
+word_count              8.0
+
+per engine (% per SD):
+check                 engine: ChatGPT  engine: Gemini  engine: Perplexity
+term                                                                     
+best_paragraph_match             -2.1            14.0                 2.8
+has_author                      -14.8            16.5                 0.1
+has_faq                          25.6           -13.0                 1.7
+has_schema                       14.6            12.5                -3.9
+has_summary_box                  -6.7            12.3                -2.5
+intro_match                      -7.4             5.2                -0.8
+n_headings                        8.0             2.5                 0.7
+n_lists                          -0.1            -6.7                 0.1
+n_tables                          3.2            -5.4                 4.1
+outbound_links                    0.8             2.0                 2.4
+page_age_days                    -3.2            -2.8                 3.4
+prompt_match_words                6.3            14.1                 1.5
+title_match                       0.2            31.6                 2.2
+word_count                       -2.1             3.2                 1.7
+=== workorb r10_paragraph_depth.py  (23:52)
+               group                             subgroup  n_pages  median    mean  share_top_quarter  share_bottom_quarter  wilcoxon_p
+                 all                      all cited pages     6764  0.3738  0.4226             0.4054                0.2408      0.0000
+              engine                              ChatGPT     1998  0.3684  0.4170             0.4024                0.2247      0.0000
+              engine                               Gemini     4919  0.3750  0.4247             0.4052                0.2482      0.0000
+              engine                           Perplexity      252  0.3932  0.4368             0.3889                0.2579      0.0021
+           page type                              article     2610  0.3953  0.4372             0.3858                0.2621      0.0000
+           page type                           comparison      327  0.4048  0.4417             0.4037                0.2783      0.0011
+           page type                               how-to      767  0.4058  0.4250             0.4172                0.2438      0.0000
+           page type                                 list     1412  0.3885  0.4315             0.3931                0.2592      0.0000
+           page type                                other     1153  0.3333  0.3857             0.4475                0.1856      0.0000
+           page type                        pricing/plans       59  0.3824  0.4108             0.4407                0.1864      0.0511
+           page type                      product/service       94  0.2621  0.3414             0.5000                0.1383      0.0000
+           page type                          review list      102  0.3397  0.4161             0.4020                0.2255      0.0088
+           page type                         support/help      229  0.3478  0.3928             0.4061                0.1616      0.0000
+within-website model y on depth (per SD), URLs cited >= 2     2389     NaN -2.4930                NaN                   NaN      0.3128
+=== workorb r11_engines.py  (23:52)
+4,950 prompt-days answered by all three engines; 71,849 citations
+    engine     page_type  n_citations_with_date  share_with_date  median_age_days  pct_under_3_months  pct_under_12_months  pct_over_3_years
+    OPENAI           all                   2725              0.3            136.0                37.5                 67.7              13.3
+    OPENAI       article                   1308              0.4            129.0                39.1                 65.9              14.5
+    OPENAI  support/help                    170              0.3            600.5                22.4                 34.1              45.9
+    GEMINI           all                  33141              0.5            212.0                24.7                 67.1               9.0
+    GEMINI       article                   9605              0.6            365.0                14.4                 49.9              14.4
+    GEMINI pricing/plans                    152              0.6            185.5                40.1                 61.2              24.3
+    GEMINI  support/help                    240              0.6            300.5                 7.9                 62.9               0.4
+PERPLEXITY           all                    574              0.6            227.5                27.0                 62.9              11.8
+PERPLEXITY       article                    166              0.7            311.5                28.9                 59.6              18.1
+               pct                   pct_position_weighted                  
+engine      GEMINI OPENAI PERPLEXITY                GEMINI OPENAI PERPLEXITY
+role                                                                        
+competitor    43.7   46.2       44.7                  46.4   46.4       45.0
+mixed          0.0    0.0        0.0                   0.0    0.0        0.0
+own            1.6    5.1        0.0                   2.3    5.8        0.0
+third_party   54.7   48.7       55.3                  51.3   47.8       55.0
+engine                     GEMINI  OPENAI  PERPLEXITY
+platform                                             
+Facebook                     0.03    0.00        0.00
+LinkedIn                     0.00    0.08        0.76
+Quora                        0.01    0.00        0.00
+Reddit                       0.70    0.11        4.90
+Wikipedia                    0.01    1.35        0.00
+YouTube                      4.12    0.01        2.83
+review / comparison sites    0.13    0.08        0.11
+=== workorb r12_page_type_topic.py  (23:52)
+      page_type  pct_vs_article     p
+     comparison           6.778 0.578
+          forum         148.811 0.001
+         how-to           1.399 0.877
+           list          47.646 0.000
+          other           9.592 0.287
+  pricing/plans          13.141 0.603
+product/service          -5.991 0.695
+    review list         149.604 0.000
+   support/help          26.351 0.433
+group              AEC Industry Focus AI Capabilities Competitive Landscape Knowledge Management Proposal Automation Workflow Integration comparing learning
+term                                                                                                                                                        
+has_author                       -6.7            -1.7                  -7.9                 13.9                -1.9                 -2.1     12.1*     -3.5
+has_faq                           4.1             1.3                   6.3                 -4.5                 2.5                  0.1       1.8     -4.4
+has_schema                        5.2            -0.4                  16.0                  3.6                 0.8                  2.2      -4.4     15.1
+has_summary_box                  -9.9           16.4*                   7.4                -10.3               -10.7                 -1.4    -10.5*     11.0
+prompt_match_words               9.0*             4.6                  9.7*                  4.6                 2.6                  2.2       1.8    12.8*
+title_match                     11.6*            7.5*                   1.0                 8.2*               17.4*                 6.4*      8.5*    24.8*
+=== workorb r13_variance_split.py  (23:53)
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\r13_variance_split.py:68: SingularMatrixWarning: The design matrix is rank-deficient. The model parameters are not uniquely determined.
+  m = sm.OLS(train.y, sm.add_constant(train[cols])).fit()
+                                                     model  r2_in_sample  r2_cross_validated  n_urls  n_websites
+                                               (1) nothing        0.0000             -0.0009    2477         515
+                                       (2) word count only        0.0068              0.0059    2477         515
+                                (3) outside authority only        0.0574              0.0483    2477         515
+                                          (4) website only        0.2667             -0.1279    2477         515
+                          (5) website + all page variables        0.3469             -0.0282    2477         515
+(6) authority + all page variables (no website indicators)        0.1576              0.1295    2477         515
+            part  share_of_total  explained_by_page_variables  n_urls  n_websites
+between websites          0.0885                      -0.1285    2477         515
+ within websites          0.9115                       0.1151    2477         515
+                            part  r_odd_even  reliability  chance_share  n_urls  n_days
+                   all variation      0.8233       0.9031        0.0969    2477      90
+                 within websites      0.8133       0.8970        0.1030    2477      90
+between websites (site averages)      0.7989       0.8882        0.1118    2477      90
+ min_pages_per_website  n_urls  n_websites  cv_r2_website_only  cv_r2_website_plus_page  cv_r2_page_only
+                     2    2477         515             -0.1279                  -0.0282           0.1246
+                    10     984          49              0.0568                   0.1189           0.1607
+                    30     356           8              0.0237                   0.0597           0.0611
+=== workorb r14_authority.py  (23:53)
+WEBSITE LEVEL
+                      spec                    score   coef    se     p  pct_more_citations_per_sd    r2  n_websites  spearman_with_in_data_score  spearman_with_total_citations
+with pages control (guide)              cc_harmonic  0.001 0.019 0.967                      0.054 0.613        3225                        0.018                          0.129
+with pages control (guide)          log_cc_pagerank -0.022 0.021 0.307                     -1.483 0.613        3225                        0.017                          0.131
+with pages control (guide) log_majestic_ref_subnets -0.082 0.029 0.004                     -5.521 0.661        1544                       -0.041                          0.079
+with pages control (guide)          log_tranco_rank -0.029 0.020 0.136                     -2.008 0.614        3622                        0.011                          0.135
+with pages control (guide)            log_crux_rank -0.107 0.039 0.006                     -7.175 0.669         656                        0.027                          0.144
+     without pages control              cc_harmonic  0.312 0.028 0.000                     24.183 0.267        3225                        0.018                          0.129
+     without pages control          log_cc_pagerank  0.369 0.033 0.000                     29.159 0.278        3225                        0.017                          0.131
+     without pages control log_majestic_ref_subnets  0.302 0.052 0.000                     23.261 0.195        1544                       -0.041                          0.079
+     without pages control          log_tranco_rank  0.351 0.034 0.000                     27.526 0.282        3622                        0.011                          0.135
+     without pages control            log_crux_rank  0.375 0.086 0.000                     29.672 0.145         656                        0.027                          0.144
+
+PAGE LEVEL
+        model                 term    coef     se      p  pct_change_per_sd  n_urls  n_websites
+  mixed model          cc_harmonic -0.0095 0.0317 0.7648            -0.6560    3836        1874
+  mixed model   prompt_match_words  0.1762 0.0320 0.0000            12.9882    3836        1874
+  mixed model          title_match  0.2328 0.0277 0.0000            17.5090    3836        1874
+  mixed model          intro_match -0.0033 0.0273 0.9043            -0.2269    3836        1874
+  mixed model best_paragraph_match  0.0948 0.0352 0.0070             6.7929    3836        1874
+  mixed model        page_age_days  0.0151 0.0287 0.5986             1.0535    3836        1874
+clustered OLS          cc_harmonic -0.0191 0.0319 0.5493            -1.3166    3836        1874
+clustered OLS   prompt_match_words  0.2055 0.0387 0.0000            15.3073    3836        1874
+clustered OLS          title_match  0.2423 0.0316 0.0000            18.2912    3836        1874
+clustered OLS          intro_match -0.0108 0.0282 0.7015            -0.7454    3836        1874
+clustered OLS best_paragraph_match  0.1074 0.0401 0.0073             7.7269    3836        1874
+clustered OLS        page_age_days  0.0319 0.0304 0.2938             2.2386    3836        1874
+
+INTERACTION
+              term    coef     se      p
+       cc_harmonic -0.0311 0.0350 0.3744
+prompt_match_words  0.2006 0.0388 0.0000
+       title_match  0.2363 0.0320 0.0000
+      auth_x_match -0.0301 0.0318 0.3447
+      auth_x_title -0.0284 0.0294 0.3334
+
+SCORE COMPARISON
+                   score     r2  holdout_rmse  holdout_r2    coef
+             cc_harmonic 0.1238        1.3451      0.0518 -0.0191
+         log_cc_pagerank 0.1245        1.3454      0.0513 -0.0559
+                    none 0.1220        1.3468      0.0494     NaN
+log_majestic_ref_subnets 0.1247        1.3474      0.0486 -0.1337
+           log_crux_rank 0.1232        1.3477      0.0482 -0.0293
+         log_tranco_rank 0.1236        1.3477      0.0481 -0.0820
+
+SUBSETS (authority term)
+                                 subset     outcome        term   coef    se     p  n_urls  pct_change_per_sd
+                              all pages all engines cc_harmonic -0.019 0.032 0.549    3836             -1.317
+                       own + competitor all engines cc_harmonic -0.035 0.096 0.719    1157             -2.367
+                            third party all engines cc_harmonic  0.022 0.027 0.417    2679              1.557
+without reddit/youtube/google/wikipedia all engines cc_harmonic -0.026 0.033 0.425    3830             -1.783
+                              all pages     ChatGPT cc_harmonic  0.086 0.039 0.030    3836              6.125
+                              all pages      Gemini cc_harmonic -0.100 0.045 0.028    3836             -6.686
+                              all pages  Perplexity cc_harmonic  0.013 0.010 0.175    3836              0.933
+
+NEW vs ESTABLISHED websites (median z)
+                            established (first cited before last 30 days)  new (first cited in last 30 days)
+cc_harmonic_z                                                       -0.03                              -0.12
+log_cc_pagerank_z                                                   -0.18                              -0.31
+log_majestic_ref_subnets_z                                          -0.30                              -0.24
+log_tranco_rank_z                                                   -0.51                              -0.51
+log_crux_rank_z                                                     -0.43                              -0.43
+
+TOP OVER / UNDER
+          group          website  total  cc_harmonic
+ over-performer     flowcase.com   3246   13621323.0
+ over-performer       unanet.com   1977   16424494.0
+ over-performer       loopio.com   1544   13643265.0
+ over-performer      workorb.com   1495   12993824.0
+ over-performer    openasset.com   1526   14168883.0
+ over-performer      youtube.com   2523   25080294.0
+ over-performer    responsive.io   1267   13777344.0
+ over-performer    autogenai.com   1107   13702559.0
+under-performer          nih.gov     20   19666792.0
+under-performer         mdpi.com     21   18815492.0
+under-performer    pipedrive.com     20   17743194.0
+under-performer  sourceforge.net     21   18589358.0
+under-performer   mentimeter.com     20   17165774.0
+under-performer      beebole.com     20   16747504.0
+under-performer fundsforngos.org     20   16641486.0
+under-performer  betterworks.com     20   16622941.0
+=== workorb is_it_real.py  (23:53)
+# "Is it real?" table
+
+Effect = R2 estimate: % more citations per +1 SD; for yes/no features (FAQ, summary box, author, structured data) % more citations when the page has it vs not. Pages are compared on the same website.
+
+## all pages
+
+| feature | effect | 1 significance (R3) | 2 repeat selection (R4) | 3 double ML (R5) | 4 shape (R6) | 5 robustness (R9) | real? |
+|---|---|---|---|---|---|---|---|
+| title matches a prompt | +26.4% | ✓ | ✓ | ✓ | ✓ | ✓ | **yes** |
+| best paragraph matches | +12.9% | ✓ | ✓ | ✓ | ✓ | ✓ | **yes** |
+| word overlap with prompts | +13.0% | ✓ | ✗ | ✓ | ✓ | ✓ | **no** |
+| headings | +7.7% | ✓ | ✗ | ✓ | ✓ | ✓ | **no** |
+| has structured data | +16.2% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| has FAQ | -1.9% | ✗ | ✗ | ✓ | ✓ | ✗ | **no** |
+| has summary box | +8.0% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| outbound links | +3.2% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| word count | +2.2% | ✗ | ✗ | ✓ | ✗ | ✗ | **no** |
+| has author | +2.0% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| tables | -2.5% | ✗ | ✗ | ✓ | ✗ | ✗ | **no** |
+| page age | -2.8% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| lists | -4.8% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| first paragraph matches | +0.1% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+
+## own + competitor
+
+| feature | effect | 1 significance (R3) | 2 repeat selection (R4) | 3 double ML (R5) | 4 shape (R6) | 5 robustness (R9) | real? |
+|---|---|---|---|---|---|---|---|
+| title matches a prompt | +33.6% | ✓ | ✓ | ✓ | ✓ | ✓ | **yes** |
+| best paragraph matches | +11.9% | ✗ | ✓ | ✓ | ✗ | ✓ | **no** |
+| word overlap with prompts | +14.5% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| headings | +8.9% | ✗ | ✗ | ✓ | ✗ | ✓ | **no** |
+| has author | +4.2% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| has FAQ | +3.2% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| has summary box | +3.0% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| outbound links | +1.2% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| has structured data | +1.1% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| page age | -4.0% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| word count | +1.5% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| first paragraph matches | -2.1% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| lists | -2.8% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| tables | -4.4% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+
+## third party
+
+| feature | effect | 1 significance (R3) | 2 repeat selection (R4) | 3 double ML (R5) | 4 shape (R6) | 5 robustness (R9) | real? |
+|---|---|---|---|---|---|---|---|
+| title matches a prompt | +17.7% | ✓ | ✓ | ✓ | ✓ | ✓ | **yes** |
+| best paragraph matches | +14.5% | ✗ | ✓ | ✓ | ✓ | ✓ | **no** |
+| headings | +5.9% | ✓ | ✗ | ✓ | ✓ | ✓ | **no** |
+| word overlap with prompts | +10.5% | ✗ | ✗ | ✓ | ✓ | ✓ | **no** |
+| has structured data | +28.0% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| has summary box | +16.4% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| outbound links | +4.9% | ✗ | ✗ | ✗ | ✓ | ✓ | **no** |
+| has author | -0.4% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| lists | -5.1% | ✗ | ✗ | ✗ | ✗ | ✓ | **no** |
+| has FAQ | -5.8% | ✗ | ✗ | ✗ | ✓ | ✗ | **no** |
+| first paragraph matches | +1.0% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| page age | +0.4% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| word count | -0.3% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+| tables | -1.9% | ✗ | ✗ | ✗ | ✗ | ✗ | **no** |
+
+## Appendix: features that did not pass
+
+- **all pages**: word overlap with prompts (failed: repeat selection (R4)); first paragraph matches (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); word count (failed: significance (R3), repeat selection (R4), shape (R6), robustness (R9)); outbound links (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); headings (failed: repeat selection (R4)); tables (failed: significance (R3), repeat selection (R4), shape (R6), robustness (R9)); lists (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); has FAQ (failed: significance (R3), repeat selection (R4), robustness (R9)); has summary box (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); has author (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); has structured data (failed: significance (R3), repeat selection (R4), double ML (R5)); page age (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6))
+- **own + competitor**: word overlap with prompts (failed: significance (R3), repeat selection (R4), double ML (R5)); first paragraph matches (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); best paragraph matches (failed: significance (R3), shape (R6)); word count (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); outbound links (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); headings (failed: significance (R3), repeat selection (R4), shape (R6)); tables (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); lists (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); has FAQ (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); has summary box (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); has author (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); has structured data (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); page age (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6))
+- **third party**: word overlap with prompts (failed: significance (R3), repeat selection (R4)); first paragraph matches (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); best paragraph matches (failed: significance (R3)); word count (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); outbound links (failed: significance (R3), repeat selection (R4), double ML (R5)); headings (failed: repeat selection (R4)); tables (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9)); lists (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6)); has FAQ (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); has summary box (failed: significance (R3), repeat selection (R4), double ML (R5)); has author (failed: significance (R3), repeat selection (R4), double ML (R5), robustness (R9)); has structured data (failed: significance (R3), repeat selection (R4), double ML (R5)); page age (failed: significance (R3), repeat selection (R4), double ML (R5), shape (R6), robustness (R9))
+=== workorb e01_engines_breadth_depth.py  (23:53)
+{'engine': 'ChatGPT', 'outcome': 'total', 'n_urls': 629, 'n_websites': 130, 'variance': np.float64(1.3699737258095543), 'within_share': 0.8939156823463849, 'explained_within': 0.002282192467252142, 'reliability_within': np.float64(0.7711777445729918), 'stable_unexplained': np.float64(0.6873277921137025)}
+{'engine': 'ChatGPT', 'outcome': 'breadth', 'n_urls': 629, 'n_websites': 130, 'variance': np.float64(0.25098803897684174), 'within_share': 0.791037712057531, 'explained_within': 0.056142753390528766, 'reliability_within': np.float64(0.5188184400874829), 'stable_unexplained': np.float64(0.36599391662940567)}
+{'engine': 'ChatGPT', 'outcome': 'depth', 'n_urls': 629, 'n_websites': 130, 'variance': np.float64(0.97164308160062), 'within_share': 0.8574690233052199, 'explained_within': -0.009470128001751954, 'reliability_within': np.float64(0.8585349487488076), 'stable_unexplained': np.float64(0.7442874653852748)}
+{'engine': 'Gemini', 'outcome': 'total', 'n_urls': 1919, 'n_websites': 438, 'variance': np.float64(2.504225289056246), 'within_share': 0.9356637530547727, 'explained_within': 0.08736609500040782, 'reliability_within': np.float64(0.9139400268576899), 'stable_unexplained': np.float64(0.7733952672588245)}
+{'engine': 'Gemini', 'outcome': 'breadth', 'n_urls': 1919, 'n_websites': 438, 'variance': np.float64(0.464313785335716), 'within_share': 0.8716496933217958, 'explained_within': 0.11301375858687546, 'reliability_within': np.float64(0.8137200007521981), 'stable_unexplained': np.float64(0.6107703810920714)}
+{'engine': 'Gemini', 'outcome': 'depth', 'n_urls': 1919, 'n_websites': 438, 'variance': np.float64(1.6413133151241468), 'within_share': 0.9483952180898944, 'explained_within': 0.062346520564060315, 'reliability_within': np.float64(0.9320537736868335), 'stable_unexplained': np.float64(0.8248261999997354)}
+{'engine': 'Perplexity', 'outcome': 'total', 'n_urls': 106, 'n_websites': 29, 'variance': np.float64(0.6557424397692967), 'within_share': 0.999999996109427, 'explained_within': 0.20521122739739495, 'reliability_within': np.float64(0.6549698997238557), 'stable_unexplained': np.float64(0.44975867057664176)}
+{'engine': 'Perplexity', 'outcome': 'breadth', 'n_urls': 106, 'n_websites': 29, 'variance': np.float64(0.07921725552376717), 'within_share': 0.9999986082822045, 'explained_within': 0.42611672105828347, 'reliability_within': np.float64(0.08384002993265222), 'stable_unexplained': np.float64(-0.34227621477306924)}
+{'engine': 'Perplexity', 'outcome': 'depth', 'n_urls': 106, 'n_websites': 29, 'variance': np.float64(0.5129103067582071), 'within_share': 0.9999999990091752, 'explained_within': 0.02157449996090688, 'reliability_within': np.float64(0.8107144440876587), 'stable_unexplained': np.float64(0.7891399433448524)}
+{'engine': 'All engines', 'outcome': 'total', 'n_urls': 2477, 'n_websites': 515, 'variance': np.float64(2.322606961392591), 'within_share': 0.9114549170437529, 'explained_within': 0.11653510833875436, 'reliability_within': np.float64(0.8970225854272684), 'stable_unexplained': np.float64(0.7113791486833996)}
+{'engine': 'All engines', 'outcome': 'breadth', 'n_urls': 2477, 'n_websites': 515, 'variance': np.float64(0.4398320281251936), 'within_share': 0.852774739810167, 'explained_within': 0.09833443671678677, 'reliability_within': np.float64(0.784541172047213), 'stable_unexplained': np.float64(0.5851797701773883)}
+{'engine': 'All engines', 'outcome': 'depth', 'n_urls': 2477, 'n_websites': 515, 'variance': np.float64(1.5317803063983209), 'within_share': 0.956738614053316, 'explained_within': 0.09929222365816226, 'reliability_within': np.float64(0.924104297992512), 'stable_unexplained': np.float64(0.7891295608530864)}
+     engine outcome  n_urls  n_websites  variance  within_share  explained_within  reliability_within  stable_unexplained
+    ChatGPT   total     629         130     1.370         0.894             0.002               0.771               0.687
+    ChatGPT breadth     629         130     0.251         0.791             0.056               0.519               0.366
+    ChatGPT   depth     629         130     0.972         0.857            -0.009               0.859               0.744
+     Gemini   total    1919         438     2.504         0.936             0.087               0.914               0.773
+     Gemini breadth    1919         438     0.464         0.872             0.113               0.814               0.611
+     Gemini   depth    1919         438     1.641         0.948             0.062               0.932               0.825
+ Perplexity   total     106          29     0.656         1.000             0.205               0.655               0.450
+ Perplexity breadth     106          29     0.079         1.000             0.426               0.084              -0.342
+ Perplexity   depth     106          29     0.513         1.000             0.022               0.811               0.789
+All engines   total    2477         515     2.323         0.911             0.117               0.897               0.711
+All engines breadth    2477         515     0.440         0.853             0.098               0.785               0.585
+All engines   depth    2477         515     1.532         0.957             0.099               0.924               0.789
+=== workorb e02_choice.py  (23:53)
+Traceback (most recent call last):
+  File "C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\e02_choice.py", line 108, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\e02_choice.py", line 75, in main
+    sims = np.load(TABLES / 'x02_sims.npz', allow_pickle=True)
+  File "C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\.venv\Lib\site-packages\numpy\lib\_npyio_impl.py", line 454, in load
+    fid = stack.enter_context(open(os.fspath(file), "rb"))
+                              ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\nickk\\IdeaProjects\\AeoCiteAnalysis\\data\\workorb\\tables\\x02_sims.npz'
+=== workorb e03_entity_coverage.py  (23:53)
+Traceback (most recent call last):
+  File "C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\e03_entity_coverage.py", line 104, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\e03_entity_coverage.py", line 92, in main
+    r, _ = fe_ols(d, y, X + ENTITY, 'domain')
+           ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\scripts\fe.py", line 25, in fe_ols
+    fit = sm.OLS(Z[y], Z[keep]).fit(cov_type='HC0')
+          ~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\.venv\Lib\site-packages\statsmodels\regression\linear_model.py", line 1040, in __init__
+    super().__init__(endog, exog, missing=missing, hasconst=hasconst, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\.venv\Lib\site-packages\statsmodels\regression\linear_model.py", line 850, in __init__
+    super().__init__(
+    ~~~~~~~~~~~~~~~~^
+        endog, exog, missing=missing, weights=weights, hasconst=hasconst, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\.venv\Lib\site-packages\statsmodels\regression\linear_model.py", line 246, in __init__
+    super().__init__(endog, exog, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\.venv\Lib\site-packages\statsmodels\base\model.py", line 287, in __init__
+    super().__init__(endog, exog, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\.venv\Lib\site-packages\statsmodels\base\model.py", line 102, in __init__
+    self.data = self._handle_data(endog, exog, missing, hasconst, **kwargs)
+                ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\.venv\Lib\site-packages\statsmodels\base\model.py", line 143, in _handle_data
+    data = handle_data(endog, exog, missing, hasconst, **kwargs)
+  File "C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\.venv\Lib\site-packages\statsmodels\base\data.py", line 747, in handle_data
+    return klass(endog, exog=exog, missing=missing, hasconst=hasconst, **kwargs)
+  File "C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\.venv\Lib\site-packages\statsmodels\base\data.py", line 90, in __init__
+    self._handle_constant(hasconst)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\.venv\Lib\site-packages\statsmodels\base\data.py", line 137, in _handle_constant
+    exog_max = np.max(self.exog, axis=0)
+  File "C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\.venv\Lib\site-packages\numpy\_core\fromnumeric.py", line 3161, in max
+    return _wrapreduction(a, np.maximum, 'max', axis, None, out,
+                          keepdims=keepdims, initial=initial, where=where)
+  File "C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\.venv\Lib\site-packages\numpy\_core\fromnumeric.py", line 83, in _wrapreduction
+    return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: zero-size array to reduction operation maximum which has no identity
+=== workorb x02_prompt_match.py  (23:53)
+  embedded 200/2477 pages
+  embedded 2200/2477 pages
+    engine     score  pages  mean_auc  median_auc  share_pages_auc_above_0_5
+       all  emb_best   2471     0.884       0.944                      0.962
+       all emb_title   2471     0.874       0.944                      0.951
+       all      bm25   2477     0.826       0.891                      0.916
+   ChatGPT  emb_best    704     0.841       0.926                      0.915
+   ChatGPT emb_title    704     0.838       0.912                      0.916
+   ChatGPT      bm25    704     0.789       0.870                      0.864
+    Gemini  emb_best   1950     0.896       0.953                      0.976
+    Gemini emb_title   1950     0.885       0.953                      0.958
+    Gemini      bm25   1956     0.835       0.901                      0.930
+Perplexity  emb_best    171     0.959       1.000                      1.000
+Perplexity emb_title    171     0.955       1.000                      0.994
+Perplexity      bm25    171     0.914       0.972                      0.971
+              term  odds_ratio_per_sd  ci_low  ci_high   p  n_pairs  n_pages
+          emb_best             2.4755  2.3006   2.6638 0.0    79475     2477
+         emb_title             2.6161  2.4563   2.7863 0.0    79475     2477
+              bm25             2.0593  1.9706   2.1521 0.0    79475     2477
+log_prompt_sources             3.6968  3.3430   4.0880 0.0    79475     2477
+                                                            model  r2_within  breadth_strong_pct_per_sd  breadth_strong_p  top10_mean_sim_pct_per_sd  top10_mean_sim_p
+                             R2 features (Step-A6 match features)     0.1094                        NaN               NaN                        NaN               NaN
+                                     R2 features + breadth_strong     0.1200                    17.3657            0.0001                        NaN               NaN
+                                     R2 features + top10_mean_sim     0.1108                        NaN               NaN                    14.9986            0.0915
+                    R2 features + breadth_strong + top10_mean_sim     0.1204                    19.5764            0.0002                    -8.3318            0.3430
+mixed model, within-website variance explained (Step-A6 features)     0.1151                        NaN               NaN                        NaN               NaN
+       mixed model, within-website variance explained (+ breadth)     0.1376                        NaN               NaN                        NaN               NaN
+=== workorb x09_page_authority.py  (00:00)
+##### workorb
+          sample  measure                         design  coef    se     p    pct  n_urls  title_pct  best_para_pct       unit
+       all pages pa_links                 within website 0.217 0.041 0.000 16.263    2477     26.807         14.305     per SD
+       all pages pa_links pooled (no website indicators) 0.163 0.038 0.000 11.926    2477        NaN            NaN     per SD
+       all pages  pa_rank                 within website 0.118 0.034 0.001  8.538    2477     26.497         13.534     per SD
+       all pages  pa_rank pooled (no website indicators) 0.068 0.027 0.010  4.847    2477        NaN            NaN     per SD
+       all pages   pa_any                 within website 0.499 0.077 0.000 41.350    2477     27.629         13.467 has vs not
+       all pages   pa_any pooled (no website indicators) 0.380 0.071 0.000 30.131    2477        NaN            NaN has vs not
+own + competitor pa_links                 within website 0.505 0.071 0.000 41.868    1079     32.912         15.685     per SD
+own + competitor pa_links pooled (no website indicators) 0.446 0.061 0.000 36.252    1079        NaN            NaN     per SD
+own + competitor  pa_rank                 within website 0.287 0.067 0.000 22.002    1079     33.247         12.924     per SD
+own + competitor  pa_rank pooled (no website indicators) 0.231 0.084 0.006 17.328    1079        NaN            NaN     per SD
+own + competitor   pa_any                 within website 0.718 0.117 0.000 64.485    1079     34.445         14.117 has vs not
+own + competitor   pa_any pooled (no website indicators) 0.622 0.121 0.000 53.850    1079        NaN            NaN has vs not
+     third party pa_links                 within website 0.028 0.041 0.496  1.962    1398     17.819         14.676     per SD
+     third party pa_links pooled (no website indicators) 0.045 0.029 0.128  3.144    1398        NaN            NaN     per SD
+     third party  pa_rank                 within website 0.032 0.039 0.406  2.263    1398     17.785         14.757     per SD
+     third party  pa_rank pooled (no website indicators) 0.024 0.027 0.374  1.671    1398        NaN            NaN     per SD
+     third party   pa_any                 within website 0.299 0.094 0.001 23.005    1398     18.993         14.156 has vs not
+     third party   pa_any pooled (no website indicators) 0.279 0.068 0.000 21.324    1398        NaN            NaN has vs not
+                          model  within_share  explained_within  n_urls
+                 page variables        0.9115            0.1165    2477
+page variables + page authority        0.9115            0.1159    2477
+    engine  coef     p    pct
+   ChatGPT 0.117 0.001  8.453
+    Gemini 0.231 0.000 17.376
+Perplexity 0.055 0.001  3.876
+pages with page authority data: 100 %; with >= 1 referring domain: 48 %
+                                      0                            1                              2                            3
+model            retrieval: X6 features  retrieval: + page authority  selection: rank + X6 features  selection: + page authority
+fit                              0.4051                       0.4112                         0.4042                       0.4163
+coef_pa_links_z                     NaN                      -0.0192                            NaN                          NaN
+coef_pa_rank_z                      NaN                       0.0272                            NaN                          NaN
+coef_pa_any                         NaN                       0.2351                            NaN                          NaN
+p_pa_links_z                        NaN                       0.5484                            NaN                       0.0003
+p_pa_rank_z                         NaN                        0.292                            NaN                       0.0801
+p_pa_any                            NaN                          0.0                            NaN                       0.0378
+or_pa_links_z                       NaN                          NaN                            NaN                       1.3001
+or_pa_rank_z                        NaN                          NaN                            NaN                       0.9088
+or_pa_any                           NaN                          NaN                            NaN                       1.3344
+=== workorb x11_brand_mentions.py  (00:01)
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\.venv\Lib\site-packages\statsmodels\discrete\discrete_model.py:268: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  mlefit = super().fit(
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\.venv\Lib\site-packages\statsmodels\discrete\discrete_model.py:268: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  mlefit = super().fit(
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\.venv\Lib\site-packages\statsmodels\discrete\discrete_model.py:268: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  mlefit = super().fit(
+workorb: 72,900 answer x brand rows (brand not named in the question); agreement with pfetch mentions: 99.4 %
+    engine  mentions  pct_of_brand_answer_pairs_mentioned  pct_own_page_cited  pct_third_party_page_naming_it  pct_no_cited_page_naming_it  pct_no_cited_page_and_all_pages_known  pct_unsupported_in_prior  pct_mentions_in_prior
+    Gemini      3872                                 15.9                58.0                            22.0                         20.0                                   15.9                      67.8                   67.2
+   ChatGPT       991                                  4.1                45.5                            12.2                         42.3                                   37.7                      21.0                   18.7
+Perplexity      3390                                 14.0                 1.0                             1.1                         97.9                                   97.8                       NaN                    NaN
+    engine                          support in_prior  rows  pct_mentioned
+    Gemini                   own page cited     True  1284          100.0
+    Gemini                   own page cited    False   962          100.0
+    Gemini third-party page naming it cited     True  2240           35.3
+    Gemini third-party page naming it cited    False   885            6.7
+    Gemini          no cited page naming it     True  7816            6.7
+    Gemini          no cited page naming it    False 11113            2.2
+   ChatGPT                   own page cited     True    29          100.0
+   ChatGPT                   own page cited    False   422          100.0
+   ChatGPT third-party page naming it cited     True    80           85.0
+   ChatGPT third-party page naming it cited    False   185           28.6
+   ChatGPT          no cited page naming it     True   701           12.6
+   ChatGPT          no cited page naming it    False 22883            1.4
+Perplexity                   own page cited     None    34          100.0
+Perplexity third-party page naming it cited     None    61           59.0
+Perplexity          no cited page naming it     None 24205           13.7
+    engine     variable   odds_ratio     p  rows
+    Gemini    own_cited 6.679985e+11 0.000 24300
+    Gemini third_naming 1.774900e+01 0.000 24300
+    Gemini    log_cited 5.210000e-01 0.000 24300
+    Gemini        prior 4.860000e+00 0.009 24300
+   ChatGPT    own_cited 2.310792e+12 0.000 24300
+   ChatGPT third_naming 3.965900e+01 0.000 24300
+   ChatGPT    log_cited 7.130000e-01 0.021 24300
+   ChatGPT        prior 2.205000e+00 0.262 24300
+Perplexity    own_cited 2.468732e+09 0.000 24300
+Perplexity third_naming 7.147400e+01 0.000 24300
+Perplexity    log_cited 4.990000e-01 0.000 24300
+306 macros -> C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\paper\numbers.tex
+-> C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\paper\appendix_tables.tex

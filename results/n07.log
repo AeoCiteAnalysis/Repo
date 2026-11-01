@@ -1,0 +1,63 @@
+16 brand websites: gfiber.com, fiber.google.com, att.com, verizon.com, xfinity.com, quantumfiber.com, fiber.googleblog.com, frontier.com, spectrum.com, astound.com, t-mobile.com, centurylink.com, metronet.com, lumen.com, spectrum.net, metronetbusiness.com
+candidates: 6,190
+fetch: 5690 pages
+  500/5690
+  1000/5690
+  1500/5690
+  2000/5690
+  2500/5690
+  3000/5690
+  3500/5690
+  4000/5690
+  4500/5690
+  5000/5690
+  5500/5690
+{'ok': 5993, 'error': 138, 'http_403': 51, 'http_404': 6, 'http_500': 2}
+  embedded 200/5993 pages
+  embedded 400/5993 pages
+  embedded 600/5993 pages
+  embedded 800/5993 pages
+  embedded 1000/5993 pages
+  embedded 1200/5993 pages
+  embedded 1400/5993 pages
+  embedded 1600/5993 pages
+  embedded 1800/5993 pages
+  embedded 2000/5993 pages
+  embedded 2200/5993 pages
+  embedded 2400/5993 pages
+  embedded 2600/5993 pages
+  embedded 2800/5993 pages
+  embedded 3000/5993 pages
+  embedded 3200/5993 pages
+  embedded 3400/5993 pages
+  embedded 3600/5993 pages
+  embedded 3800/5993 pages
+  embedded 4000/5993 pages
+  embedded 4200/5993 pages
+  embedded 4400/5993 pages
+  embedded 4600/5993 pages
+  embedded 4800/5993 pages
+  embedded 5000/5993 pages
+  embedded 5200/5993 pages
+  embedded 5400/5993 pages
+  embedded 5600/5993 pages
+  embedded 5800/5993 pages
+  embedded 5993/5993 pages
+measured never-cited pages: 5,993
+C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\.venv\Lib\site-packages\statsmodels\discrete\discrete_model.py:268: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  mlefit = super().fit(
+                  feature  odds_ratio_cited_at_all  p_cited_at_all  r2_pct_more_citations  r2_p  n_cited  n_never_cited  n_websites
+word overlap with prompts                    1.349           1.000                 11.923 0.001     5559           5993          16
+   title matches a prompt                    3.567           0.000                  7.302 0.002     5559           5993          16
+  first paragraph matches                    0.728           0.000                  7.830 0.003     5559           5993          16
+   best paragraph matches                    9.385           0.000                  5.266 0.082     5559           5993          16
+               word count                    1.008           0.943                  2.894 0.158     5559           5993          16
+           outbound links                    3.350           0.000                  6.788 0.203     5559           5993          16
+                 headings                    0.970           0.737                 -1.452 0.593     5559           5993          16
+                   tables                    1.151           0.091                 12.479 0.005     5559           5993          16
+                    lists                    0.795           0.000                -18.152 0.000     5559           5993          16
+                  has FAQ                    0.621           0.001                 -0.896 0.626     5559           5993          16
+          has summary box                    1.216           0.000                  0.774 0.781     5559           5993          16
+               has author                    0.710           0.000                 -8.292 0.005     5559           5993          16
+      has structured data                    0.555           0.000                 -5.909 0.135     5559           5993          16
+                 page age                    1.383           0.000                -10.586 0.003     5559           5993          16

@@ -1,0 +1,163 @@
+round 2026-09-26: parsing 24652 pages
+  parsed 1000/24652
+  parsed 2000/24652
+  parsed 3000/24652
+  parsed 4000/24652
+  parsed 5000/24652
+  parsed 6000/24652
+  parsed 7000/24652
+  parsed 8000/24652
+  parsed 9000/24652
+  parsed 10000/24652
+  parsed 11000/24652
+  parsed 12000/24652
+  parsed 13000/24652
+  parsed 14000/24652
+  parsed 15000/24652
+  parsed 16000/24652
+  parsed 17000/24652
+  parsed 18000/24652
+  parsed 19000/24652
+  parsed 20000/24652
+  parsed 21000/24652
+  parsed 22000/24652
+  parsed 23000/24652
+  parsed 24000/24652
+parsed 24646, failed 6
+  embedded 200/24646 pages
+  embedded 400/24646 pages
+  embedded 600/24646 pages
+  embedded 800/24646 pages
+  embedded 1000/24646 pages
+  embedded 1200/24646 pages
+  embedded 1400/24646 pages
+  embedded 1600/24646 pages
+  embedded 1800/24646 pages
+  embedded 2000/24646 pages
+  embedded 2200/24646 pages
+  embedded 2400/24646 pages
+  embedded 2600/24646 pages
+  embedded 2800/24646 pages
+  embedded 3000/24646 pages
+  embedded 3200/24646 pages
+  embedded 3400/24646 pages
+  embedded 3600/24646 pages
+  embedded 3800/24646 pages
+  embedded 4000/24646 pages
+  embedded 4200/24646 pages
+  embedded 4400/24646 pages
+  embedded 4600/24646 pages
+  embedded 4800/24646 pages
+  embedded 5000/24646 pages
+  embedded 5200/24646 pages
+  embedded 5400/24646 pages
+  embedded 5600/24646 pages
+  embedded 5800/24646 pages
+  embedded 6000/24646 pages
+  embedded 6200/24646 pages
+  embedded 6400/24646 pages
+  embedded 6600/24646 pages
+  embedded 6800/24646 pages
+  embedded 7000/24646 pages
+  embedded 7200/24646 pages
+  embedded 7400/24646 pages
+  embedded 7600/24646 pages
+  embedded 7800/24646 pages
+  embedded 8000/24646 pages
+  embedded 8200/24646 pages
+  embedded 8400/24646 pages
+  embedded 8600/24646 pages
+  embedded 8800/24646 pages
+  embedded 9000/24646 pages
+  embedded 9200/24646 pages
+  embedded 9400/24646 pages
+  embedded 9600/24646 pages
+  embedded 9800/24646 pages
+  embedded 10000/24646 pages
+  embedded 10200/24646 pages
+  embedded 10400/24646 pages
+  embedded 10600/24646 pages
+  embedded 10800/24646 pages
+  embedded 11000/24646 pages
+  embedded 11200/24646 pages
+  embedded 11400/24646 pages
+  embedded 11600/24646 pages
+  embedded 11800/24646 pages
+  embedded 12000/24646 pages
+  embedded 12200/24646 pages
+  embedded 12400/24646 pages
+  embedded 12600/24646 pages
+  embedded 12800/24646 pages
+  embedded 13000/24646 pages
+  embedded 13200/24646 pages
+  embedded 13400/24646 pages
+  embedded 13600/24646 pages
+  embedded 13800/24646 pages
+  embedded 14000/24646 pages
+  embedded 14200/24646 pages
+  embedded 14400/24646 pages
+  embedded 14600/24646 pages
+  embedded 14800/24646 pages
+  embedded 15000/24646 pages
+  embedded 15200/24646 pages
+  embedded 15400/24646 pages
+  embedded 15600/24646 pages
+  embedded 15800/24646 pages
+  embedded 16000/24646 pages
+  embedded 16200/24646 pages
+  embedded 16400/24646 pages
+  embedded 16600/24646 pages
+  embedded 16800/24646 pages
+  embedded 17000/24646 pages
+  embedded 17200/24646 pages
+  embedded 17400/24646 pages
+  embedded 17600/24646 pages
+  embedded 17800/24646 pages
+  embedded 18000/24646 pages
+  embedded 18200/24646 pages
+  embedded 18400/24646 pages
+  embedded 18600/24646 pages
+  embedded 18800/24646 pages
+  embedded 19000/24646 pages
+  embedded 19200/24646 pages
+  embedded 19400/24646 pages
+  embedded 19600/24646 pages
+  embedded 19800/24646 pages
+  embedded 20000/24646 pages
+  embedded 20200/24646 pages
+  embedded 20400/24646 pages
+  embedded 20600/24646 pages
+  embedded 20800/24646 pages
+  embedded 21000/24646 pages
+  embedded 21200/24646 pages
+  embedded 21400/24646 pages
+  embedded 21600/24646 pages
+  embedded 21800/24646 pages
+  embedded 22000/24646 pages
+  embedded 22200/24646 pages
+  embedded 22400/24646 pages
+  embedded 22600/24646 pages
+  embedded 22800/24646 pages
+  embedded 23000/24646 pages
+  embedded 23200/24646 pages
+  embedded 23400/24646 pages
+  embedded 23600/24646 pages
+  embedded 23800/24646 pages
+  embedded 24000/24646 pages
+  embedded 24200/24646 pages
+  embedded 24400/24646 pages
+  embedded 24600/24646 pages
+  embedded 24646/24646 pages
+wrote 24646 rows -> data/tables/page_features.csv
+page_type
+article            7151
+support/help       3564
+other              3509
+how-to             2018
+pricing/plans      1872
+list               1865
+forum              1707
+comparison         1655
+product/service     669
+review list         631
+video                 5

@@ -1,0 +1,83 @@
+brand,domain,role,confidence,note,citations
+Google Fiber,gfiber.com,own,sure,main site; covers prd. www-prod. www-p-iap. es. app. subdomains,24430
+Google Fiber,fiber.google.com,own,sure,main site (older host),15918
+Google Fiber,gfiber.google.com,own,sure,,12
+Google Fiber,fiber.googleblog.com,own,sure,official blog,4701
+Google Fiber,googlefiber.net,own,sure,redirects to fiber.google.com; covers speed. and wifisetup.,2
+Google Fiber,support.google.com/fiber,own,sure,GFiber help centre and community threads (4.3k citations),3822
+Google Fiber,storage.googleapis.com/fiber,own,sure,"GFiber PDFs (about page, terms of service)",195
+Google Fiber,fiber.storage.googleapis.com,own,sure,GFiber city PDFs,3
+Google Fiber,google.com/fiber,own,sure,,6
+Google Fiber,play.google.com/store/apps/details,third_party,uncertain,app store pages - some are the GFiber app (id=com.google.android.apps.fiber.myfiber) and AT&T apps; path rules cannot see the app id,375
+,support.google.com,mixed,sure,other Google product help,562
+Google Fiber,google-fiber.gitbook.io,third_party,sure,unofficial SEO article collection,116
+,gfiberprepaid.globe.com.ph,third_party,sure,GFiber of Globe Telecom (Philippines) - different company with the same name,61
+,globegfiber.com,third_party,sure,Globe GFiber (Philippines) - different company,2
+,odinetgfiber.com,third_party,sure,ODInet G Fiber - different company,2
+,gfiberstech.pk,third_party,sure,unrelated company,1
+Google Fiber,gfiber.worthepenny.com,third_party,sure,coupon site,33
+AT&T Fiber,att.com,competitor,sure,covers about. offers. lsreg. business. myhomenetwork. etc.,21576
+AT&T Fiber,att.net,competitor,sure,lsreg.att.net,18
+AT&T Fiber,att.jobs,competitor,sure,AT&T careers (also life.att.jobs careers.att.jobs),28
+AT&T Fiber,att.wd1.myworkdayjobs.com,competitor,sure,AT&T careers on Workday,1
+AT&T Fiber,att.statuspage.io,competitor,uncertain,status page hosted by Atlassian - probably AT&T's own,1
+AT&T Fiber,attgtadirect.com,competitor,uncertain,AT&T contract site for the Georgia Technology Authority (footer AT&T IP) - business contract pages,5
+AT&T Fiber,attsavings.com,third_party,uncertain,dealer site (says authorised/affiliate; footer AT&T IP),392
+AT&T Fiber,att-fiber.com,third_party,uncertain,AT&T Preferred Dealer (footer DIRECTV),248
+AT&T Fiber,attexperts.com,third_party,uncertain,dealer site (footer AT&T IP),141
+AT&T Fiber,att-bundles.com,third_party,uncertain,dealer site (footer AT&T IP),35
+AT&T Fiber,att-promotions.com,third_party,uncertain,dealer site (footer AT&T IP),29
+AT&T Fiber,attspecial.com,third_party,uncertain,AT&T Preferred Dealer,2
+AT&T Fiber,attfiber-internet.com,third_party,uncertain,Authorized AT&T Dealer,1
+AT&T Fiber,attfiberoffers.com,third_party,sure,parked domain,1
+AT&T Fiber,attwirelessonline.com,third_party,uncertain,did not load - probably dealer,14
+AT&T Fiber,attpartners.com,third_party,uncertain,partner/dealer portal - not checked,1
+Xfinity,xfinity.com,competitor,sure,covers forums. www-support. assets. support.qa. military. etc.,9024
+Xfinity,comcast.com,competitor,sure,Comcast owns Xfinity; corporate. business. update. forums.businesshelp.,1616
+Xfinity,comcast.net,competitor,sure,media2.comcast.net,53
+Xfinity,xfinityprepaid.com,competitor,sure,Xfinity Prepaid (Comcast),9
+Xfinity,comcaststore.s3.amazonaws.com,competitor,uncertain,Comcast self-install kit PDFs on Amazon S3,12
+Xfinity,comcaststore-wk.s3.amazonaws.com,competitor,uncertain,Comcast PDFs on Amazon S3,1
+Xfinity,comcasttechnologysolutions.com,competitor,uncertain,Comcast B2B media technology - not the ISP product,2
+Xfinity,xfinityspecial.com,third_party,uncertain,Authorized Dealer (footer Updater Inc),27
+Quantum Fiber,quantumfiber.com,competitor,sure,main site (footer now says AT&T Intellectual Property); covers explore. preview. es. broadbandlabel.,5609
+Quantum Fiber,quantum-prod.adobecqms.net,competitor,uncertain,Quantum Fiber support pages served from Adobe hosting (same paths as quantumfiber.com/support),44
+Quantum Fiber,centurylink.com,competitor,uncertain,CenturyLink = Quantum Fiber's former sister brand (Lumen); ownership split after AT&T deal - decide,1466
+Quantum Fiber,centurylink.net,competitor,uncertain,see centurylink.com,1
+Quantum Fiber,lumen.com,third_party,uncertain,Lumen Technologies - enterprise; former parent of Quantum Fiber,484
+Quantum Fiber,lumen.statuspage.io,third_party,uncertain,Lumen status page,15
+Quantum Fiber,getquantumfiber.com,third_party,uncertain,dealer-style site (phone number in title; footer AT&T IP),246
+Quantum Fiber,quantumfibersavings.com,third_party,uncertain,dealer-style site (footer AT&T IP),37
+Quantum Fiber,quantumfiber-savings.com,third_party,uncertain,dealer-style site (footer AT&T IP),3
+Quantum Fiber,quantumfibercode.com,third_party,uncertain,did not load,146
+Quantum Fiber,quantumwi.fi,third_party,uncertain,did not load,35
+Quantum Fiber,centurylinkquote.com,third_party,sure,dealer (Internet Service Partners),36
+Quantum Fiber,getcenturylink.com,third_party,sure,dealer (Internet Service Partners),12
+Quantum Fiber,buycenturylink.com,third_party,sure,dealer (Infinity Sales Group),9
+Quantum Fiber,centurylinkonline.com,third_party,sure,dealer (Home Service Pros),4
+Quantum Fiber,centurylinkwebmail.s.center,third_party,sure,unofficial help site,124
+Spectrum,spectrum.com,competitor,sure,covers official. enterprise. espanol. ir. etc.,3510
+Spectrum,spectrum.net,competitor,sure,covers community. drupal-cms. ondemand.,496
+Spectrum,charter.com,competitor,sure,Charter owns Spectrum; corporate. policy. ir. notices.,135
+Spectrum,spectrumbusiness.net,competitor,sure,Spectrum Business,2
+Spectrum,spectrumspecial.com,third_party,sure,dealer (footer Updater Inc),3
+Spectrum,spectrum-onlinedeals.com,third_party,uncertain,did not load - probably dealer,2
+Spectrum,spectrumoutage.org,third_party,sure,independent outage checker,11
+T-Mobile,t-mobile.com,competitor,sure,covers fiber. magentapulse. es. network. etc.,1678
+T-Mobile,metrobyt-mobile.com,competitor,sure,Metro by T-Mobile (owned by T-Mobile),9
+T-Mobile,mintmobile.com,competitor,uncertain,Mint Mobile - owned by T-Mobile since 2024; blog posts about home internet,27
+T-Mobile,switch2t-mobile.com,competitor,uncertain,T-Mobile switching page - not checked,1
+T-Mobile,tmobileaccess.com,competitor,uncertain,T-Mobile accessibility services - not checked,5
+T-Mobile,metronet-fiber.com,third_party,uncertain,T-Fiber / Metronet dealer (Infinity Sales Group),23
+Metronet,metronet.com,competitor,sure,covers signup. webapps. portal. info.,992
+Metronet,metronetbusiness.com,competitor,sure,Metronet Business,216
+Metronet,metronetpromos.com,third_party,uncertain,empty page - owner unknown,3
+Metronet,getmetronetinternet.com,third_party,uncertain,did not load - probably dealer,41
+,metronetgroup.com,third_party,sure,Metronet Dataworx - different company,6
+,metronetsys.net,third_party,sure,Metronet LLC warehouse Wi-Fi - different company,1
+,metronet.ge,third_party,sure,Georgian company - unrelated,1
+Astound,astound.com,competitor,sure,covers calnet.,2070
+Astound,astound-prod.mindtouch.us,competitor,uncertain,Astound help centre hosted by MindTouch,3
+Astound,rcn.com,competitor,sure,Astound regional brand (not cited yet),0
+Astound,wavebroadband.com,competitor,sure,Astound regional brand (not cited yet),0
+Astound,mygrande.com,competitor,sure,Astound regional brand (not cited yet),0

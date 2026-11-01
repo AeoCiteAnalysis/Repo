@@ -1,0 +1,4 @@
+version,cv_r2,n_urls,n_websites,strongest_page_feature,strongest_page_shap,strongest_non_page,strongest_non_page_shap,ratio_non_page_to_page
+A: page + website score,0.16205058252458615,14532,3614,title_match,0.14584825401852192,website_score,0.30277414464699415,2.075953165737202
+B: page + outside authority,0.16705770563764222,14532,3614,best_paragraph_match,0.19148245614716414,log_majestic_ref_subnets,0.08682355292362423,0.4534282391745375
+C: page + website score + authority,0.16854139384808864,14532,3614,best_paragraph_match,0.14396964243919172,website_score,0.277075129055225,1.924538564942626

@@ -1,0 +1,35 @@
+brand,domain,role,confidence,note,citations,decision
+Quantum Fiber,centurylink.com,competitor,uncertain,CenturyLink = Quantum Fiber's former sister brand (Lumen); ownership split after AT&T deal - decide,1466,ok
+Quantum Fiber,lumen.com,third_party,uncertain,Lumen Technologies - enterprise; former parent of Quantum Fiber,484,competitor
+AT&T Fiber,attsavings.com,third_party,uncertain,dealer site (says authorised/affiliate; footer AT&T IP),392,competitor
+Google Fiber,play.google.com/store/apps/details,third_party,uncertain,app store pages - some are the GFiber app (id=com.google.android.apps.fiber.myfiber) and AT&T apps; path rules cannot see the app id,375,own
+AT&T Fiber,att-fiber.com,third_party,uncertain,AT&T Preferred Dealer (footer DIRECTV),248,competitor
+Quantum Fiber,getquantumfiber.com,third_party,uncertain,dealer-style site (phone number in title; footer AT&T IP),246,competitor
+Quantum Fiber,quantumfibercode.com,third_party,uncertain,did not load,146,competitor
+AT&T Fiber,attexperts.com,third_party,uncertain,dealer site (footer AT&T IP),141,competitor
+Quantum Fiber,quantum-prod.adobecqms.net,competitor,uncertain,Quantum Fiber support pages served from Adobe hosting (same paths as quantumfiber.com/support),44,competitor
+Metronet,getmetronetinternet.com,third_party,uncertain,did not load - probably dealer,41,competitor
+Quantum Fiber,quantumfibersavings.com,third_party,uncertain,dealer-style site (footer AT&T IP),37,competitor
+Quantum Fiber,quantumwi.fi,third_party,uncertain,did not load,35,competitor
+AT&T Fiber,att-bundles.com,third_party,uncertain,dealer site (footer AT&T IP),35,competitor
+AT&T Fiber,att-promotions.com,third_party,uncertain,dealer site (footer AT&T IP),29,competitor
+Xfinity,xfinityspecial.com,third_party,uncertain,Authorized Dealer (footer Updater Inc),27,competitor
+T-Mobile,mintmobile.com,competitor,uncertain,Mint Mobile - owned by T-Mobile since 2024; blog posts about home internet,27,competitor
+T-Mobile,metronet-fiber.com,third_party,uncertain,T-Fiber / Metronet dealer (Infinity Sales Group),23,competitor
+Quantum Fiber,lumen.statuspage.io,third_party,uncertain,Lumen status page,15,competitor
+AT&T Fiber,attwirelessonline.com,third_party,uncertain,did not load - probably dealer,14,competitor
+Xfinity,comcaststore.s3.amazonaws.com,competitor,uncertain,Comcast self-install kit PDFs on Amazon S3,12,competitor
+AT&T Fiber,attgtadirect.com,competitor,uncertain,AT&T contract site for the Georgia Technology Authority (footer AT&T IP) - business contract pages,5,competitor
+T-Mobile,tmobileaccess.com,competitor,uncertain,T-Mobile accessibility services - not checked,5,competitor
+Metronet,metronetpromos.com,third_party,uncertain,empty page - owner unknown,3,competitor
+Astound,astound-prod.mindtouch.us,competitor,uncertain,Astound help centre hosted by MindTouch,3,competitor
+Quantum Fiber,quantumfiber-savings.com,third_party,uncertain,dealer-style site (footer AT&T IP),3,competitor
+AT&T Fiber,attspecial.com,third_party,uncertain,AT&T Preferred Dealer,2,competitor
+Xfinity,comcasttechnologysolutions.com,competitor,uncertain,Comcast B2B media technology - not the ISP product,2,competitor
+Spectrum,spectrum-onlinedeals.com,third_party,uncertain,did not load - probably dealer,2,competitor
+AT&T Fiber,att.statuspage.io,competitor,uncertain,status page hosted by Atlassian - probably AT&T's own,1,competitor
+AT&T Fiber,attfiber-internet.com,third_party,uncertain,Authorized AT&T Dealer,1,competitor
+AT&T Fiber,attpartners.com,third_party,uncertain,partner/dealer portal - not checked,1,competitor
+Xfinity,comcaststore-wk.s3.amazonaws.com,competitor,uncertain,Comcast PDFs on Amazon S3,1,competitor
+Quantum Fiber,centurylink.net,competitor,uncertain,see centurylink.com,1,competitor
+T-Mobile,switch2t-mobile.com,competitor,uncertain,T-Mobile switching page - not checked,1,competitor

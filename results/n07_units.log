@@ -1,0 +1,22 @@
+16 brand websites: gfiber.com, fiber.google.com, att.com, verizon.com, xfinity.com, quantumfiber.com, fiber.googleblog.com, frontier.com, spectrum.com, astound.com, t-mobile.com, centurylink.com, metronet.com, lumen.com, spectrum.net, metronetbusiness.com
+candidates: 6,190
+fetch: 0 pages
+{'ok': 5993, 'error': 138, 'http_403': 51, 'http_404': 6, 'http_500': 2}
+measured never-cited pages: 5,993
+websites used: astound.com, att.com, fiber.google.com, frontier.com, lumen.com, quantumfiber.com, spectrum.net, t-mobile.com, verizon.com, xfinity.com | dropped: centurylink.com, fiber.googleblog.com, gfiber.com, metronet.com, metronetbusiness.com, spectrum.com
+converged: True
+                  feature  odds_ratio_cited_at_all       unit  odds_ratio_in_unit  p_cited_at_all  r2_pct_more_citations  r2_p  n_cited  n_never_cited  n_websites
+word overlap with prompts                    2.846     per SD               2.846           0.012                 11.923 0.001     4513           5262          10
+   title matches a prompt                    3.843     per SD               3.843           0.000                  7.302 0.002     4513           5262          10
+  first paragraph matches                    0.702     per SD               0.702           0.003                  7.830 0.003     4513           5262          10
+   best paragraph matches                   11.886     per SD              11.886           0.000                  5.266 0.082     4513           5262          10
+               word count                    0.371     per SD               0.371           0.000                  2.894 0.158     4513           5262          10
+           outbound links                    3.097     per SD               3.097           0.000                  6.788 0.203     4513           5262          10
+                 headings                    1.714     per SD               1.714           0.003                 -1.452 0.593     4513           5262          10
+                   tables                    1.099     per SD               1.099           0.115                 12.479 0.005     4513           5262          10
+                    lists                    0.554     per SD               0.554           0.000                -18.152 0.000     4513           5262          10
+                  has FAQ                    0.604 has vs not               0.348           0.000                 -1.912 0.626     4513           5262          10
+          has summary box                    1.368 has vs not               9.092           0.000                  2.504 0.781     4513           5262          10
+               has author                    0.635 has vs not               0.300           0.000                -15.896 0.005     4513           5262          10
+      has structured data                    0.657 has vs not               0.431           0.000                -12.235 0.135     4513           5262          10
+                 page age                    2.198     per SD               2.198           0.000                -10.586 0.003     4513           5262          10

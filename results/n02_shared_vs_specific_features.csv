@@ -1,0 +1,16 @@
+,all three engines,one engine,two engines
+word overlap with prompts,0.0461760906332599,0.0248590466427473,0.03026285011332095
+title matches a prompt,0.6832265853881836,0.5747628808021545,0.6278193593025208
+first paragraph matches,0.6625133156776428,0.5385117530822754,0.5876826345920563
+best paragraph matches,0.7919670641422272,0.6769905090332031,0.7400000691413879
+word count,1341.5,730.0,817.5
+outbound links,6.0,6.0,6.0
+headings,22.0,12.0,15.0
+tables,1.0,0.0,0.0
+lists,6.0,4.0,5.0
+has FAQ,1.0,0.0,0.0
+has summary box,0.0,0.0,0.0
+has author,1.0,1.0,0.0
+has structured data,1.0,1.0,1.0
+page age,194.0,374.0,262.0
+URLs (n),194.0,18161.0,1718.0

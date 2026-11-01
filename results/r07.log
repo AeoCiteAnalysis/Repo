@@ -1,0 +1,7 @@
+A: page + website score: CV R2 = 0.162; top: website_score 0.291, title_match 0.147, best_paragraph_match 0.142, prompt_match_words 0.085, intro_match 0.073, word_count 0.073
+B: page + outside authority: CV R2 = 0.165; top: best_paragraph_match 0.194, title_match 0.163, prompt_match_words 0.105, word_count 0.086, log_majestic_ref_subnets 0.085, page_age_days 0.080
+C: page + website score + authority: CV R2 = 0.169; top: website_score 0.271, best_paragraph_match 0.148, title_match 0.144, prompt_match_words 0.090, intro_match 0.075, word_count 0.068
+                            version  cv_r2       strongest_non_page strongest_page_feature  ratio_non_page_to_page
+            A: page + website score  0.162            website_score            title_match                   1.971
+        B: page + outside authority  0.165 log_majestic_ref_subnets   best_paragraph_match                   0.437
+C: page + website score + authority  0.169            website_score   best_paragraph_match                   1.838

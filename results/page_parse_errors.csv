@@ -1,0 +1,7 @@
+url,error
+https://brctv.com/blog/understanding-internet-bills-charges-fees,AttributeError: 'bool' object has no attribute 'lower'
+https://iphoneincanada.ca/2026/06/12/no-more-80-fees-from-rogers-bell-and-telus-the-crtc-ban-is-now-in-effect,FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\nickk\\IdeaProjects\\AeoCiteAnalysis\\data\\pages\\2026-09-26\\93332f56fe24fdaa.html'
+https://brctv.com/blog/home-office-setup-how-optimize-your-internet-remote-work,AttributeError: 'bool' object has no attribute 'lower'
+https://brctv.com/blog/what-wifi-7-and-do-i-need-it,AttributeError: 'bool' object has no attribute 'lower'
+https://brctv.com/blog/fiber-good-gaming,AttributeError: 'bool' object has no attribute 'lower'
+https://brctv.com/blog/5g-wireless-vs-gig-cable-fiber-internet-whats-difference,AttributeError: 'bool' object has no attribute 'lower'

@@ -1,0 +1,43 @@
+sample,term,checks_same_sign,passes,lowo_same_sign_of_8
+all pages,best_paragraph_match,5,True,8.0
+all pages,has_author,4,True,8.0
+all pages,has_faq,5,True,8.0
+all pages,has_schema,4,True,8.0
+all pages,has_summary_box,5,True,8.0
+all pages,intro_match,5,True,8.0
+all pages,n_headings,5,True,8.0
+all pages,n_lists,5,True,8.0
+all pages,n_tables,4,True,8.0
+all pages,outbound_links,4,True,8.0
+all pages,page_age_days,5,True,8.0
+all pages,prompt_match_words,5,True,8.0
+all pages,title_match,5,True,8.0
+all pages,word_count,4,True,6.0
+own + competitor,best_paragraph_match,5,True,
+own + competitor,has_author,5,True,
+own + competitor,has_faq,5,True,
+own + competitor,has_schema,5,True,
+own + competitor,has_summary_box,3,False,
+own + competitor,intro_match,5,True,
+own + competitor,n_headings,5,True,
+own + competitor,n_lists,5,True,
+own + competitor,n_tables,5,True,
+own + competitor,outbound_links,4,True,
+own + competitor,page_age_days,5,True,
+own + competitor,prompt_match_words,5,True,
+own + competitor,title_match,5,True,
+own + competitor,word_count,5,True,
+third party,best_paragraph_match,5,True,
+third party,has_author,5,True,
+third party,has_faq,5,True,
+third party,has_schema,4,True,
+third party,has_summary_box,5,True,
+third party,intro_match,5,True,
+third party,n_headings,4,True,
+third party,n_lists,4,True,
+third party,n_tables,5,True,
+third party,outbound_links,3,False,
+third party,page_age_days,5,True,
+third party,prompt_match_words,5,True,
+third party,title_match,5,True,
+third party,word_count,5,True,

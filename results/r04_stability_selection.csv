@@ -1,0 +1,43 @@
+sample,term,selection_rate_min,selection_rate,passes,n_urls,n_websites
+all pages,prompt_match_words,1.0,0.585,False,12038,1120
+all pages,title_match,1.0,1.0,True,12038,1120
+all pages,intro_match,1.0,0.455,False,12038,1120
+all pages,best_paragraph_match,1.0,1.0,True,12038,1120
+all pages,word_count,0.625,0.0,False,12038,1120
+all pages,outbound_links,0.67,0.0,False,12038,1120
+all pages,n_headings,0.78,0.0,False,12038,1120
+all pages,n_tables,0.645,0.0,False,12038,1120
+all pages,n_lists,0.87,0.0,False,12038,1120
+all pages,has_faq,0.765,0.0,False,12038,1120
+all pages,has_summary_box,0.85,0.0,False,12038,1120
+all pages,has_author,0.675,0.0,False,12038,1120
+all pages,has_schema,0.72,0.0,False,12038,1120
+all pages,page_age_days,0.995,0.005,False,12038,1120
+own + competitor,prompt_match_words,0.995,0.355,False,4794,77
+own + competitor,title_match,1.0,0.47,False,4794,77
+own + competitor,intro_match,0.99,0.44,False,4794,77
+own + competitor,best_paragraph_match,0.955,0.55,False,4794,77
+own + competitor,word_count,0.86,0.005,False,4794,77
+own + competitor,outbound_links,0.815,0.0,False,4794,77
+own + competitor,n_headings,0.485,0.0,False,4794,77
+own + competitor,n_tables,0.97,0.01,False,4794,77
+own + competitor,n_lists,1.0,0.045,False,4794,77
+own + competitor,has_faq,0.705,0.0,False,4794,77
+own + competitor,has_summary_box,0.73,0.0,False,4794,77
+own + competitor,has_author,0.975,0.03,False,4794,77
+own + competitor,has_schema,0.86,0.005,False,4794,77
+own + competitor,page_age_days,0.99,0.065,False,4794,77
+third party,prompt_match_words,1.0,0.835,True,7185,1044
+third party,title_match,1.0,1.0,True,7185,1044
+third party,intro_match,0.915,0.13,False,7185,1044
+third party,best_paragraph_match,1.0,1.0,True,7185,1044
+third party,word_count,0.85,0.0,False,7185,1044
+third party,outbound_links,0.57,0.0,False,7185,1044
+third party,n_headings,0.65,0.0,False,7185,1044
+third party,n_tables,0.92,0.005,False,7185,1044
+third party,n_lists,0.51,0.0,False,7185,1044
+third party,has_faq,0.915,0.0,False,7185,1044
+third party,has_summary_box,0.785,0.01,False,7185,1044
+third party,has_author,0.605,0.0,False,7185,1044
+third party,has_schema,0.76,0.01,False,7185,1044
+third party,page_age_days,0.965,0.0,False,7185,1044

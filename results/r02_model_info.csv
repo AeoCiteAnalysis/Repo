@@ -1,0 +1,4 @@
+sample,n_urls,n_websites,n_params,r2_within,dropped_terms
+all pages,12038,1120,26,0.04884192403496512,type_video
+own + competitor,4794,77,26,0.03416046669448369,type_video
+third party,7185,1044,26,0.08632888977759745,type_video
