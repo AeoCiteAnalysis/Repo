@@ -1,0 +1,12 @@
+=== 2026-10-04 20:00 daily replay
+openai: 55 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\workorb\replay\openai\20261004
+  25/55  p_3f6868c5d4: 0 queries, 0 consulted, 0 cited
+  50/55  p_b587e9ab18: 0 queries, 0 consulted, 0 cited
+done 55, failed 0
+{'date': '20261004', 'engine': 'openai', 'prompts_saved': 55, 'searched': 18, 'input_tokens': 330053, 'output_tokens': 48870, 'minutes': 0.8, 'finished': '2026-10-04 20:00'}
+=== 2026-10-04 20:07 daily replay
+gemini: 55 prompts to fetch into C:\Users\nickk\IdeaProjects\AeoCiteAnalysis\data\workorb\replay\gemini\20261004
+  25/55  p_27efe0a732: 0 queries, 0 consulted, 0 cited
+  50/55  p_55e5770feb: 5 queries, 15 consulted, 15 cited
+done 55, failed 0
+{'date': '20261004', 'engine': 'gemini', 'prompts_saved': 55, 'searched': 44, 'input_tokens': 892, 'output_tokens': 49671, 'minutes': 2.0, 'finished': '2026-10-04 20:09'}
